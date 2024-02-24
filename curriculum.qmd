@@ -1,0 +1,29 @@
+---
+title: "Currliculum"
+toc: false
+listing:
+  - id: articles
+    contents: "curriculum/*.qmd"
+    template: ./ejs/article.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "course"
+    sort-ui: [course,school,competency,year]
+    filter-ui: [course,school,competency,year]
+    field-display-names: 
+      curriculum: "Curriculum"
+      year: "Year"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Curriculum</li>
+  </ol>
+</nav>
+```
+
+:::{#articles}
+:::
