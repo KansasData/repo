@@ -4,6 +4,7 @@ project:
 excute:
   freeze: auto
 website: 
+  bread-crumbs: false
   back-to-top-navigation: true
   title: "KDSC"
   navbar:
@@ -33,6 +34,8 @@ website:
       collapse-level: 2
       contents: 
         - about_us.qmd
+        - people.qmd
+        
     - id: projects
       title: "Project"
       style: "docked"

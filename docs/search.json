@@ -11,7 +11,10 @@
     "href": "curriculum.html",
     "title": "Currliculum",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Data\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nData\n\n\nAuthor\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Data\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nData\n\n\nAuthor\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Currliculum"
+    ]
   },
   {
     "objectID": "repo/about.html",
@@ -115,11 +118,28 @@
   {
     "objectID": "about_us.html",
     "href": "about_us.html",
-    "title": "About Us",
+    "title": "About us",
     "section": "",
     "text": "Back to top",
     "crumbs": [
-      "About Us"
+      "About us"
     ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n Back to top",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
+    "objectID": "docs/people.html",
+    "href": "docs/people.html",
+    "title": "people",
+    "section": "",
+    "text": "Back to top"
   }
 ]

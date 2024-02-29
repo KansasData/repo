@@ -1,0 +1,6 @@
+---
+pagetitle: "KDSC | People"
+title: "People"
+---
+
+This will be a listing - card 
