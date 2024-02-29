@@ -2,7 +2,28 @@
   {
     "listing": "/curriculum.html",
     "items": [
-      "/curriculum/Data_I_Duncun_KU.html"
+      "/curriculum/Data_I_Duncun_KU.html",
+      "/repo/curriculum/Data_I_Duncun_KU.html"
+    ]
+  },
+  {
+    "listing": "/data.html",
+    "items": [
+      "/data/projects/projects_ex1.html",
+      "/data/rawdata/rawdata_ex1.html"
+    ]
+  },
+  {
+    "listing": "/repo/curriculum.html",
+    "items": [
+      "/repo/curriculum/Data_I_Duncun_KU.html"
+    ]
+  },
+  {
+    "listing": "/project.html",
+    "items": [
+      "/project/projects/projects_ex1.html",
+      "/project/rawdata/rawdata_ex1.html"
     ]
   }
 ]
