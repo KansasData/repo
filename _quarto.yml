@@ -4,14 +4,48 @@ project:
 excute:
   freeze: auto
 website: 
+  back-to-top-navigation: true
   title: "KDSC"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about_us.qmd
-      - project.qmd
-      - curriculum.qmd
+      - text: Home
+        file: index.qmd
+      - sidebar:about_us
+      - sidebar:projects
+      - sidebar:curriculum
+    tools:
+      - icon: buildings
+        menu: 
+          - text: KDSC website
+            url: https://data.ku.edu/kdsc
+      - icon: github
+        menu:
+          - text: Source Code
+            url: https://github.com/KansasData
+          - text: Report Bug
+            url: https://github.com/KansasData
+    
+  sidebar: 
+    - id: about_us
+      title: "About us"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - about_us.qmd
+    - id: projects
+      title: "Project"
+      style: "docked"
+      collapse-level: 2
+      contents: 
+        - project.qmd
+        - dataset.qmd
+        
+    - id: curriculum
+      title: "Curriculum"
+      style: "docked"
+      contents:
+        - curriculum.qmd
 
 format:
   html:
@@ -20,3 +54,4 @@ format:
     toc: true
 
 editor: visual
+

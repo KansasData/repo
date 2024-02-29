@@ -1,0 +1,27 @@
+---
+title: "Dataset"
+toc: true
+listing:
+  - id: datasets-listings
+    contents: 
+      - "project/rawdata/*.qmd"
+    fields: [date, title, author, description]
+    field-display-names: 
+      title: "Datasets"
+      author: "Sources"
+    type: table
+    categories: true
+    sort:
+      - "date"
+      - "title desc"
+    table-hover: true
+---
+
+You can explore our projects and download datasets opened to public
+
+## Datasets
+
+You can explore and download datasets opened to public
+
+::: {#rawdata-listings}
+:::

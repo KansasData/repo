@@ -22,7 +22,12 @@
   {
     "listing": "/project.html",
     "items": [
-      "/project/projects/projects_ex1.html",
+      "/project/projects/projects_ex1.html"
+    ]
+  },
+  {
+    "listing": "/dataset.html",
+    "items": [
       "/project/rawdata/rawdata_ex1.html"
     ]
   }

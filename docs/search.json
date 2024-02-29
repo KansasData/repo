@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "repo",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Back to top"
   },
   {
     "objectID": "curriculum.html",
@@ -53,20 +53,73 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects requested by our community partners. You can explore our projects and download datasets opened to public"
+    "text": "Projects requested by our community partners.",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "project.html#projects",
     "href": "project.html#projects",
     "title": "Projects",
     "section": "Projects",
-    "text": "Projects\nYou can explore our projects\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Projects\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProjects\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nFeb 28, 2024\n\n\nProject XYZ\n\n\nDaiil Jun\n\n\nDaiil’s example\n\n\n\n\n\nNo matching items"
+    "text": "Projects\nYou can explore our projects\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Projects\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProjects\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nFeb 28, 2024\n\n\nProject XYZ\n\n\nDaiil Jun\n\n\nDaiil’s example\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "project.html#datasets",
     "href": "project.html#datasets",
     "title": "Projects",
     "section": "Datasets",
-    "text": "Datasets\nYou can explore and download datasets opened to public"
+    "text": "Datasets\nYou can explore and download datasets opened to public",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "project/projects/projects_ex1.html",
+    "href": "project/projects/projects_ex1.html",
+    "title": "Project XYZ",
+    "section": "",
+    "text": "Project description goes here"
+  },
+  {
+    "objectID": "project/projects/projects_ex1.html#project-description",
+    "href": "project/projects/projects_ex1.html#project-description",
+    "title": "Project XYZ",
+    "section": "",
+    "text": "Project description goes here"
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Dataset",
+    "section": "",
+    "text": "You can explore our projects and download datasets opened to public",
+    "crumbs": [
+      "Dataset"
+    ]
+  },
+  {
+    "objectID": "dataset.html#datasets",
+    "href": "dataset.html#datasets",
+    "title": "Dataset",
+    "section": "Datasets",
+    "text": "Datasets\nYou can explore and download datasets opened to public",
+    "crumbs": [
+      "Dataset"
+    ]
+  },
+  {
+    "objectID": "about_us.html",
+    "href": "about_us.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "About Us"
+    ]
   }
 ]

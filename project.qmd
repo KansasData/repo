@@ -15,22 +15,9 @@ listing:
       - "date"
       - "title desc"
     table-hover: true
-  - id: datasets-listings
-    contents: 
-      - "project/rawdata/*.qmd"
-    fields: [date, title, author, description]
-    field-display-names: 
-      title: "Datasets"
-      author: "Sources"
-    type: table
-    categories: true
-    sort:
-      - "date"
-      - "title desc"
-    table-hover: true
 ---
 
-Projects requested by our community partners. \n You can explore our projects and download datasets opened to public
+Projects requested by our community partners. 
 
 ## Projects
 
@@ -39,9 +26,3 @@ You can explore our projects
 ::: {#project-listings}
 :::
 
-## Datasets
-
-You can explore and download datasets opened to public
-
-::: {#rawdata-listings}
-:::
