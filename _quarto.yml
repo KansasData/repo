@@ -1,13 +1,20 @@
 project:
   type: website
   output-dir: docs
+
 excute:
   freeze: auto
+
 website: 
   bread-crumbs: false
   back-to-top-navigation: true
   title: "KDSC"
   navbar:
+    background: light
+    logo: kdsc_logo.png
+    logo-alt: "KDSC logo"
+    title: false
+    collapse-below: lg
     left:
       - text: Home
         file: index.qmd
@@ -31,10 +38,13 @@ website:
       title: "About us"
       style: "docked"
       background: light
+      foreground: dark
       collapse-level: 2
       contents: 
-        - about_us.qmd
-        - people.qmd
+        - text: "Who We Are"
+          href: about_us.qmd
+        - text: "People"
+          href: people.qmd
         
     - id: projects
       title: "Project"

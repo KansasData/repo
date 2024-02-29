@@ -1,6 +1,58 @@
 ---
 pagetitle: "KDSC | People"
-title: "People"
+toc: true
+listing:
+  - id: faculty-listings
+    contents: 
+      - "people/faculty/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    grid-item-align: center
+    fields: [image, title, subtitle]
+    sort:
+      - "subtitle"
+  
+  - id: staff-listings
+    contents: 
+      - "people/staff/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    grid-item-align: center
+    fields: [image, title, subtitle]
+    sort:
+      - "subtitle"
+
+  - id: committee-listings
+    contents: 
+      - "people/adj_committee/*.qmd"
+    type: table
+    grid-columns: 3
+    grid-item-align: center
+    fields: [title, subtitle]
+    field-display-names: 
+      title: "Name"
+      subtitle: "Role"
+    sort:
+      - "subtitle"
+
 ---
 
+## Data Science Faculty
 This will be a listing - card 
+
+:::{#faculty-listings}
+:::
+
+## Research staff
+reserach staff, graduate students
+
+:::{#staff-listings}
+:::
+
+
+## Ad Hoc Steering Committee
+
+:::{#committee-listings}
+:::

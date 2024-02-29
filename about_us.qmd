@@ -1,4 +1,5 @@
 ---
-title: "About us"
+pagetitle: "KDSC | About us"
 ---
 
+# We are KDSC

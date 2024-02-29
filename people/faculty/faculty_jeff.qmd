@@ -1,0 +1,5 @@
+---
+title: "Jeffrey Girard"
+subtitle: "Principal Investigator"
+image: "girard_jeffrey.jpg"
+---

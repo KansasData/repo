@@ -2,8 +2,7 @@
   {
     "listing": "/curriculum.html",
     "items": [
-      "/curriculum/Data_I_Duncun_KU.html",
-      "/repo/curriculum/Data_I_Duncun_KU.html"
+      "/curriculum/Data_I_Duncun_KU.html"
     ]
   },
   {
@@ -28,7 +27,19 @@
   {
     "listing": "/dataset.html",
     "items": [
-      "/project/rawdata/rawdata_ex1.html"
+      "/docs/project/datasets/dataset_ex1.html",
+      "/project/datasets/dataset_ex1.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/docs/people/faculty/faculty_jeff.html",
+      "/people/faculty/faculty_jeff.html",
+      "/docs/people/staff/staff_daiil.html",
+      "/people/staff/staff_daiil.html",
+      "/docs/people/adj_committee/committee_xyz.html",
+      "/people/adj_committee/committee_xyz.html"
     ]
   }
 ]

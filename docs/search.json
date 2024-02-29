@@ -11,7 +11,7 @@
     "href": "curriculum.html",
     "title": "Currliculum",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Data\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nData\n\n\nAuthor\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Order By\n       Default\n         \n          Data\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nData\n\n\nAuthor\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Currliculum"
     ]
@@ -110,7 +110,7 @@
     "href": "dataset.html#datasets",
     "title": "Dataset",
     "section": "Datasets",
-    "text": "Datasets\nYou can explore and download datasets opened to public",
+    "text": "Datasets\nYou can explore and download datasets opened to public yeah\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Datasets\n        \n         \n          Sources\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nDatasets\n\n\nSources\n\n\nDescription\n\n\n\n\n\n\nFeb 28, 2024\n\n\nKansas Action for Children\n\n\n \n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nKansas Action for Children\n\n\n \n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Dataset"
     ]
@@ -118,19 +118,19 @@
   {
     "objectID": "about_us.html",
     "href": "about_us.html",
-    "title": "About us",
+    "title": "We are KDSC",
     "section": "",
-    "text": "Back to top",
+    "text": "We are KDSC\n\n\n\n\n Back to top",
     "crumbs": [
-      "About us"
+      "Who We Are"
     ]
   },
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "KDSC",
     "section": "",
-    "text": "This will be a listing - card\n\n\n\n Back to top",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "People"
     ]
@@ -139,6 +139,74 @@
     "objectID": "docs/people.html",
     "href": "docs/people.html",
     "title": "people",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "people.html#administrative-staff",
+    "href": "people.html#administrative-staff",
+    "title": "KDSC",
+    "section": "",
+    "text": "This will be a listing - card",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
+    "objectID": "people.html#data-science-faculty",
+    "href": "people.html#data-science-faculty",
+    "title": "KDSC",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "KDSC",
+    "section": "Research staff",
+    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
+    "objectID": "people.html#ad-hoc-steering-committee",
+    "href": "people.html#ad-hoc-steering-committee",
+    "title": "KDSC",
+    "section": "Ad Hoc Steering Committee",
+    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
+    "objectID": "docs/docs/docs/docs/project/datasets/dataset_ex1.html",
+    "href": "docs/docs/docs/docs/project/datasets/dataset_ex1.html",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "docs/project/datasets/dataset_ex1.html",
+    "href": "docs/project/datasets/dataset_ex1.html",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "docs/docs/project/datasets/dataset_ex1.html",
+    "href": "docs/docs/project/datasets/dataset_ex1.html",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "people/faculty/faculty_jeff.html",
+    "href": "people/faculty/faculty_jeff.html",
+    "title": "Jeffery Girard",
     "section": "",
     "text": "Back to top"
   }
