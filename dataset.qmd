@@ -5,10 +5,10 @@ listing:
   - id: datasets-listings
     contents: 
       - "project/datasets/*.qmd"
-    fields: [date, title, author, description]
+    fields: [date, title, author]
     field-display-names: 
-      title: "Datasets"
-      author: "Sources"
+      title: "Project"
+      author: "Provider"
     type: table
     categories: true
     sort:

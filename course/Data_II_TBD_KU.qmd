@@ -1,0 +1,13 @@
+---
+title: "Data II"
+author: "TBD"
+subtitle: "Data Wrangling"
+description: "University of Kansas"
+categories: [programming skills, data wrangling]
+---
+
+## Description
+
+Course description.
+
+{{< pdf Data_II_Syllabus.pdf width=600 height=400 >}}

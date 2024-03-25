@@ -1,0 +1,13 @@
+---
+title: "Data V"
+author: "TBD"
+subtitle: "Modeling Building"
+description: "University of Kansas"
+categories: [data wrangling, data mining, model building]
+---
+
+## Description
+
+Course description.
+
+{{< pdf Data_V_Syllabus.pdf width=600 height=400 >}}

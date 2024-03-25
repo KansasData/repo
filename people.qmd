@@ -36,23 +36,23 @@ listing:
       subtitle: "Role"
     sort:
       - "subtitle"
-
 ---
 
 ## Data Science Faculty
-This will be a listing - card 
 
-:::{#faculty-listings}
+This will be a listing - card
+
+::: {#faculty-listings}
 :::
 
 ## Research staff
+
 reserach staff, graduate students
 
-:::{#staff-listings}
+::: {#staff-listings}
 :::
-
 
 ## Ad Hoc Steering Committee
 
-:::{#committee-listings}
+::: {#committee-listings}
 :::

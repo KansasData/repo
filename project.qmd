@@ -1,13 +1,13 @@
 ---
-title: "Projects"
-toc: true
+pagetitle: "ARISE | Community Data Lab"
+toc: false
 listing:
   - id: project-listings
     contents:
       - "project/projects/*.qmd"
     fields: [date, title, author, description]
     field-display-names: 
-      title: "Projects"
+      title: "Project"
       author: "Customer"
     type: table
     categories: true
@@ -17,12 +17,15 @@ listing:
     table-hover: true
 ---
 
-Projects requested by our community partners. 
+# Community Data Lab
+
+Data science empowers users to provide data-driven solutions to problems and questions worldwide.
+Community Data Lab is designed to provide students an opportunity to work on real-world problems that come from local
+and state governments, health care, education, and small businesses across the state of Kansas. 
 
 ## Projects
 
-You can explore our projects
+You can explore project descriptions.
 
 ::: {#project-listings}
 :::
-

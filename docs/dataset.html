@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>KDSC - Dataset</title>
+<title>ARISE - Dataset</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -139,7 +139,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo">
+    <img src="./arise_logo.png" alt="ARISE logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -153,28 +153,13 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About us</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-community-data-lab" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Community Data Lab</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-about-us">    
-        <li>
-    <a class="dropdown-item" href="./about_us.html">
- <span class="dropdown-text">Who We Are</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./people.html">
- <span class="dropdown-text">People</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-project" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Project</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-project">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-community-data-lab">    
         <li>
     <a class="dropdown-item" href="./project.html">
- <span class="dropdown-text">Projects</span></a>
+ <span class="dropdown-text">Project</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./dataset.html">
@@ -188,8 +173,12 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-curriculum">    
         <li>
-    <a class="dropdown-item" href="./curriculum.html">
- <span class="dropdown-text">Currliculum</span></a>
+    <a class="dropdown-item" href="./competency.html">
+ <span class="dropdown-text">Competency</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course.html">
+ <span class="dropdown-text">Course</span></a>
   </li>  
     </ul>
   </li>
@@ -244,7 +233,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./project.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Projects</span></a>
+ <span class="menu-text">Project</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -266,7 +255,7 @@ window.Quarto = {
   <li><a href="#datasets" id="toc-datasets" class="nav-link active" data-scroll-target="#datasets">Datasets</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Kansas Action">Kansas Action <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Child Care">Child Care <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -307,10 +296,10 @@ window.Quarto = {
           Date - Newest
         </option>
          <option value="listing-title-sort" data-direction="asc">
-          Datasets
+          Project
         </option>
          <option value="listing-author" data-direction="asc">
-          Sources
+          Provider
         </option>
      </select>
   </div>
@@ -326,45 +315,24 @@ window.Quarto = {
 <a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Datasets</a>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Sources</a>
-</th>
-<th>
-Description
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Provider</a>
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Kansas Action" data-listing-date-sort="1709100000000" data-listing-file-modified-sort="1709171497053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Kansas Action for Children" data-listing-filename-sort="dataset_ex1.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+<tr data-index="0" data-categories="Child Care" data-listing-date-sort="1704088800000" data-listing-file-modified-sort="1711047378378" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Kansas Action for Children" data-listing-filename-sort="dataset_ex1.qmd" onclick="href = this.querySelector('a').getAttribute('href');
  if (href) { window.location=href ; return false; }">
 <td>
-<span class="listing-date">Feb 28, 2024</span>
-</td>
-<td>
-<a href="./docs/project/datasets/dataset_ex1.html" class="title listing-title">Kansas Action for Children</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"></span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Kansas Action" data-listing-date-sort="1709100000000" data-listing-file-modified-sort="1709171497053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Kansas Action for Children" data-listing-filename-sort="dataset_ex1.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">Feb 28, 2024</span>
+<span class="listing-date">Jan 1, 2024</span>
 </td>
 <td>
 <a href="./project/datasets/dataset_ex1.html" class="title listing-title">Kansas Action for Children</a>
 </td>
 <td>
 <span class="listing-author">&nbsp;</span>
-</td>
-<td>
-<span class="listing-description"></span>
 </td>
 </tr>
 </tbody>
@@ -767,6 +735,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Proudly supported by <a href="https://www.nsf.gov"><img src="NSF.png" class="img-fluid" width="200" alt="NSF image"></a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

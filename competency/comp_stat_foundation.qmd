@@ -1,0 +1,7 @@
+---
+title: "Statistical Foundation"
+image: "stat_foundation.jpg"
+
+---
+
+Statistical Foundation for Data Science

@@ -8,17 +8,16 @@ excute:
 website: 
   bread-crumbs: false
   back-to-top-navigation: true
-  title: "KDSC"
+  title: "ARISE"
   navbar:
     background: light
-    logo: kdsc_logo.png
-    logo-alt: "KDSC logo"
+    logo: arise_logo.png
+    logo-alt: "ARISE logo"
     title: false
     collapse-below: lg
     left:
       - text: Home
         file: index.qmd
-      - sidebar:about_us
       - sidebar:projects
       - sidebar:curriculum
     tools:
@@ -34,32 +33,30 @@ website:
             url: https://github.com/KansasData
     
   sidebar: 
-    - id: about_us
-      title: "About us"
-      style: "docked"
-      background: light
-      foreground: dark
-      collapse-level: 2
-      contents: 
-        - text: "Who We Are"
-          href: about_us.qmd
-        - text: "People"
-          href: people.qmd
-        
     - id: projects
-      title: "Project"
+      title: "Community Data Lab"
       style: "docked"
       collapse-level: 2
       contents: 
-        - project.qmd
-        - dataset.qmd
+        - text: "Project"
+          href: project.qmd
+        - text: "Dataset"
+          href: dataset.qmd
         
     - id: curriculum
       title: "Curriculum"
       style: "docked"
       contents:
-        - curriculum.qmd
-
+        - text: "Competency"
+          href: competency.qmd
+        - text: "Course"
+          href: course.qmd
+  
+  page-footer:
+    left: | 
+      Proudly supported by 
+      [![NSF image](NSF.png){width=200}](https://www.nsf.gov)
+      
 format:
   html:
     theme: cosmo

@@ -1,0 +1,19 @@
+---
+pagetitle: "ARISE | Competency"
+toc: false
+listing:
+  contents: 
+    - competency/comp_stat_foundation.qmd
+    - competency/comp_programming.qmd
+    - competency/comp_data_mining.qmd
+    - competency/comp_data_wrangling.qmd
+    - competency/comp_data_eng.qmd
+    - competency/comp_model_build.qmd
+  type: grid
+  fields: [image, title]
+  sort: false
+---
+
+# Data Science Competency
+
+Our courses are designed to develop data science competency. Explore each data science competency and corresponding courses. 

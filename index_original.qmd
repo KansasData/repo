@@ -1,0 +1,40 @@
+---
+title: "Welcome to ARISE's Repository"
+toc: false
+---
+
+This is an online repository for data science curriculum material developed by ARISE team. The faculty from the [KDSC](https://data.ku.edu/kdsc) works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.
+
+::: content-block
+::: features
+::: grid
+::: {.g-col-lg-6 .g-col-12}
+::: feature
+### Community Data Lab
+
+With permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.
+<br>
+<br>
+
+::: learn-more
+[Learn more »](project.qmd)
+:::
+:::
+:::
+
+::: {.g-col-lg-6 .g-col-12}
+::: feature
+### Curriculum
+
+Teaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.
+
+::: learn-more
+[Learn more »](competency.qmd)
+:::
+:::
+:::
+:::
+:::
+:::
+
+A unique aspect of the KDSC is that its network of community partners can provide feedback on the material to help tune the coursework to the needs of the state. Over the course of the project, the KDSC expands access to the open-source framework including other schools and K-12 programs.

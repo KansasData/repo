@@ -1,4 +1,0 @@
----
-title: "Jeffery Girard"
-subtitle: "Principal Investigator"
----

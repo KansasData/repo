@@ -1,0 +1,23 @@
+---
+pagetitle: "ARISE | Course"
+toc: false
+listing:
+  - id: course-listings
+    contents: "course/*.qmd"
+    type: table
+    table-striped: true
+    fields: [title, author, subtitle, description]
+    field-display-names: 
+      title: "Course"
+      author: "Instructor"
+      subtitle: "Core Competency"
+      description: "Provider"
+    categories: true
+---
+
+# Course Materials
+
+Explore our courses designed build data science competency
+
+::: {course-listings}
+:::

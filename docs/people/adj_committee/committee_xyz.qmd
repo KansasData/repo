@@ -1,4 +1,0 @@
----
-title: "Committee XYZ"
-subtitle: "Department of Music"
----

@@ -1,99 +1,239 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "curriculum.html",
-    "href": "curriculum.html",
-    "title": "Currliculum",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Data\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nData\n\n\nAuthor\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\n\n\n\nNo matching items\n\n Back to top",
-    "crumbs": [
-      "Currliculum"
-    ]
-  },
-  {
-    "objectID": "repo/about.html",
-    "href": "repo/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Projects requested by our community partners. You can explore our projects and download datasets opened to public"
-  },
-  {
-    "objectID": "repo/curriculum.html",
-    "href": "repo/curriculum.html",
-    "title": "Currliculum",
-    "section": "",
-    "text": "Home\n    Curriculum\n  \n\n\n\n    \n      \n      \n    \n\n\n\n  \n    Data I\n    Will Duncun\n    \n    ()\n    \n      Details\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data.html#datasets",
-    "href": "data.html#datasets",
-    "title": "Projects",
-    "section": "Datasets",
-    "text": "Datasets\nYou can explore and download datasets opened to public"
-  },
-  {
-    "objectID": "data.html#projects",
-    "href": "data.html#projects",
-    "title": "Projects",
-    "section": "Projects",
-    "text": "Projects\nYou can explore our projects\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Projects\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProjects\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nFeb 28, 2024\n\n\nProject XYZ\n\n\nDaiil Jun\n\n\nDaiil’s example\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "Projects",
+    "title": "Community Data Lab",
     "section": "",
-    "text": "Projects requested by our community partners.",
+    "text": "Data science empowers users to provide data-driven solutions to problems and questions worldwide. Community Data Lab is designed to provide students an opportunity to work on real-world problems that come from local and state governments, health care, education, and small businesses across the state of Kansas.\n\n\nYou can explore project descriptions.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nJan 1, 2023\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Projects"
+      "Project"
     ]
   },
   {
     "objectID": "project.html#projects",
     "href": "project.html#projects",
-    "title": "Projects",
-    "section": "Projects",
-    "text": "Projects\nYou can explore our projects\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Projects\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProjects\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nFeb 28, 2024\n\n\nProject XYZ\n\n\nDaiil Jun\n\n\nDaiil’s example\n\n\n\n\n\nNo matching items",
+    "title": "Community Data Lab",
+    "section": "",
+    "text": "You can explore project descriptions.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nJan 1, 2023\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Projects"
+      "Project"
     ]
   },
   {
-    "objectID": "project.html#datasets",
-    "href": "project.html#datasets",
-    "title": "Projects",
-    "section": "Datasets",
-    "text": "Datasets\nYou can explore and download datasets opened to public",
+    "objectID": "project/datasets/dataset_ex1.html",
+    "href": "project/datasets/dataset_ex1.html",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "people/staff/staff_daiil.html",
+    "href": "people/staff/staff_daiil.html",
+    "title": "Daiil Jun",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "people/adj_committee/committee_xyz.html",
+    "href": "people/adj_committee/committee_xyz.html",
+    "title": "Committee XYZ",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to ARISE’s Repository",
+    "section": "",
+    "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.\n\nLearn more »\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n         \n          Instructor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nInstructor\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nTBD \n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nTBD \n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nTBD \n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nTBD \n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
-      "Projects"
+      "Course"
     ]
   },
   {
-    "objectID": "project/projects/projects_ex1.html",
-    "href": "project/projects/projects_ex1.html",
-    "title": "Project XYZ",
+    "objectID": "course/Data_I_Duncun_KU.html",
+    "href": "course/Data_I_Duncun_KU.html",
+    "title": "Data I",
     "section": "",
-    "text": "Project description goes here"
+    "text": "Course description"
   },
   {
-    "objectID": "project/projects/projects_ex1.html#project-description",
-    "href": "project/projects/projects_ex1.html#project-description",
-    "title": "Project XYZ",
+    "objectID": "course/Data_I_Duncun_KU.html#description",
+    "href": "course/Data_I_Duncun_KU.html#description",
+    "title": "Data I",
     "section": "",
-    "text": "Project description goes here"
+    "text": "Course description"
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#syllabus",
+    "href": "course/Data_I_Duncun_KU.html#syllabus",
+    "title": "Data I",
+    "section": "Syllabus",
+    "text": "Syllabus\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#lecture-slides",
+    "href": "course/Data_I_Duncun_KU.html#lecture-slides",
+    "title": "Data I",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\nLecture 1: Introduction Click!\nLecture 2: Causality Click!\nLecture 3: Introduction to Tables and Data Types Click!\nLecture 4:Arrays & Ranges Click!\nLecture 5: Creating Tables Click!\nLecture 6: Data Visualization Click!\nLecture 7: Functions Click!\nLecture 8: Groups, Pivots and Joins Click!\nLecture 9: Iteration, Sampling, and Chance Click!\nLecture 10: Probability & Samples Click!\nLecture 11: Models and Assessing Models Part 1 Click! Part 2 Click!\nLecture 12: Decisions under Uncertainty Click!\nLecture 13: Causality and A/B Testing Click!\nLecture 14: Estimation and Confidence Click!\nLecture 15: Center. Spread, and Normal Distribution Click!\nLecture 16: Sampling Variability Click!\nLecture 17: Correlation Click!\nLecture 18: Regression Click!\nLecture 19: Regression Inference Click!\nLecture 20: Classification Click!"
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#lab",
+    "href": "course/Data_I_Duncun_KU.html#lab",
+    "title": "Data I",
+    "section": "Lab",
+    "text": "Lab\nLab 1: Introduction Click!\nLab 2: Table Operations Click!\nLab 3: Data Types and Arrays Click!\nLab 4: Functions and Visualizations Click!\nLab 5: Simulations Click!\nLab 6: Assessing Models Click!\nLab 7: Crime and Penalty Click!\nLab 8: Normal Distribution and Variance of Sample Means Click!\nLab 9: Correlation and Regression Click!\nLab 10: Classification Click!"
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#homework-assignments",
+    "href": "course/Data_I_Duncun_KU.html#homework-assignments",
+    "title": "Data I",
+    "section": "Homework Assignments",
+    "text": "Homework Assignments\nHomework Assignment 1: Causality Click!\nHomework Assignment 2: Arrays and Tables Click!\nHomework Assignment 3: Table Manipulation and Visualization Click!\nHomework Assignment 4: Functions, Histograms, and Groups Click!\nHomework Assignment 5: Functions, Iterations Click!\nHomework Assignment 6: Probability, Simulation, Estimation, Assessing Models Click!\nHomework Assignment 7: Testing Hypotheses Click!\nHomework Assignment 8: Confidence Intervals Click\nHomework Assignment 9: Bootstrap, Resampling, CLT Click!\nHomework Assignment 10: Linear Regression Click!\nHomework Assignment 11: Regression Inference Click!"
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#data",
+    "href": "course/Data_I_Duncun_KU.html#data",
+    "title": "Data I",
+    "section": "Data",
+    "text": "Data\nTBD"
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#resources",
+    "href": "course/Data_I_Duncun_KU.html#resources",
+    "title": "Data I",
+    "section": "Resources",
+    "text": "Resources\n\nTextbook\nTextbook: Computational and Inferential Thinking: The Foundations of Data Science\n\n\nGoogle Colab\nHomework Assignments and Data Lab use Google Colab"
+  },
+  {
+    "objectID": "course/Data_II_TBD_KU.html",
+    "href": "course/Data_II_TBD_KU.html",
+    "title": "Data II",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_II_TBD_KU.html#description",
+    "href": "course/Data_II_TBD_KU.html#description",
+    "title": "Data II",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "competency.html",
+    "href": "competency.html",
+    "title": "Data Science Competency",
+    "section": "",
+    "text": "Data Science Competency\nOur courses are designed to develop data science competency. Explore each data science competency and corresponding courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Competency"
+    ]
+  },
+  {
+    "objectID": "competency/comp_programming.html",
+    "href": "competency/comp_programming.html",
+    "title": "Programming Skills",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "competency/comp_data_wrangling.html",
+    "href": "competency/comp_data_wrangling.html",
+    "title": "Data Wrangling",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "competency/comp_data_eng.html",
+    "href": "competency/comp_data_eng.html",
+    "title": "Data Engineering",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about_us.html",
+    "href": "about_us.html",
+    "title": "We are KDSC",
+    "section": "",
+    "text": "We are KDSC\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competency/comp_data_mining.html",
+    "href": "competency/comp_data_mining.html",
+    "title": "Data Mining",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "competency/comp_model_build.html",
+    "href": "competency/comp_model_build.html",
+    "title": "Model Building",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "competency/comp_stat_foundation.html",
+    "href": "competency/comp_stat_foundation.html",
+    "title": "Statistical Foundation",
+    "section": "",
+    "text": "Statistical Foundation for Data Science\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "course/Data_III_TBD_KU.html",
+    "href": "course/Data_III_TBD_KU.html",
+    "title": "Data III",
+    "section": "",
+    "text": "Course description.\npdf to be uploaded"
+  },
+  {
+    "objectID": "course/Data_III_TBD_KU.html#description",
+    "href": "course/Data_III_TBD_KU.html#description",
+    "title": "Data III",
+    "section": "",
+    "text": "Course description.\npdf to be uploaded"
+  },
+  {
+    "objectID": "course/Data_IV_TBD_KU.html",
+    "href": "course/Data_IV_TBD_KU.html",
+    "title": "Data IV",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_IV_TBD_KU.html#description",
+    "href": "course/Data_IV_TBD_KU.html#description",
+    "title": "Data IV",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_V_TBD_KU.html",
+    "href": "course/Data_V_TBD_KU.html",
+    "title": "Data V",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_V_TBD_KU.html#description",
+    "href": "course/Data_V_TBD_KU.html#description",
+    "title": "Data V",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
   },
   {
     "objectID": "dataset.html",
@@ -110,104 +250,72 @@
     "href": "dataset.html#datasets",
     "title": "Dataset",
     "section": "Datasets",
-    "text": "Datasets\nYou can explore and download datasets opened to public yeah\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Datasets\n        \n         \n          Sources\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nDatasets\n\n\nSources\n\n\nDescription\n\n\n\n\n\n\nFeb 28, 2024\n\n\nKansas Action for Children\n\n\n \n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nKansas Action for Children\n\n\n \n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Datasets\nYou can explore and download datasets opened to public yeah\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Provider\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nProvider\n\n\n\n\n\n\nJan 1, 2024\n\n\nKansas Action for Children\n\n\n \n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Dataset"
     ]
   },
   {
-    "objectID": "about_us.html",
-    "href": "about_us.html",
-    "title": "We are KDSC",
+    "objectID": "index_original.html",
+    "href": "index_original.html",
+    "title": "Welcome to ARISE’s Repository",
     "section": "",
-    "text": "We are KDSC\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Who We Are"
-    ]
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "KDSC",
-    "section": "",
-    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "docs/people.html",
-    "href": "docs/people.html",
-    "title": "people",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "people.html#administrative-staff",
-    "href": "people.html#administrative-staff",
-    "title": "KDSC",
-    "section": "",
-    "text": "This will be a listing - card",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#data-science-faculty",
-    "href": "people.html#data-science-faculty",
-    "title": "KDSC",
-    "section": "",
-    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#research-staff",
-    "href": "people.html#research-staff",
-    "title": "KDSC",
-    "section": "Research staff",
-    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#ad-hoc-steering-committee",
-    "href": "people.html#ad-hoc-steering-committee",
-    "title": "KDSC",
-    "section": "Ad Hoc Steering Committee",
-    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "docs/docs/docs/docs/project/datasets/dataset_ex1.html",
-    "href": "docs/docs/docs/docs/project/datasets/dataset_ex1.html",
-    "title": "Kansas Action for Children",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "docs/project/datasets/dataset_ex1.html",
-    "href": "docs/project/datasets/dataset_ex1.html",
-    "title": "Kansas Action for Children",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "docs/docs/project/datasets/dataset_ex1.html",
-    "href": "docs/docs/project/datasets/dataset_ex1.html",
-    "title": "Kansas Action for Children",
-    "section": "",
-    "text": "Back to top"
+    "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\n\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.  \n\nLearn more »\n\n\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\nA unique aspect of the KDSC is that its network of community partners can provide feedback on the material to help tune the coursework to the needs of the state. Over the course of the project, the KDSC expands access to the open-source framework including other schools and K-12 programs.\n\n\n\n Back to top"
   },
   {
     "objectID": "people/faculty/faculty_jeff.html",
     "href": "people/faculty/faculty_jeff.html",
-    "title": "Jeffery Girard",
+    "title": "Jeffrey Girard",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "ARISE",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#data-science-faculty",
+    "href": "people.html#data-science-faculty",
+    "title": "ARISE",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "ARISE",
+    "section": "Research staff",
+    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#ad-hoc-steering-committee",
+    "href": "people.html#ad-hoc-steering-committee",
+    "title": "ARISE",
+    "section": "Ad Hoc Steering Committee",
+    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project/projects/project_FEMA.html",
+    "href": "project/projects/project_FEMA.html",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "",
+    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+  },
+  {
+    "objectID": "project/projects/project_FEMA.html#abstract",
+    "href": "project/projects/project_FEMA.html#abstract",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "",
+    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+  },
+  {
+    "objectID": "project/projects/project_FEMA.html#project-proposal",
+    "href": "project/projects/project_FEMA.html#project-proposal",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "Project Proposal",
+    "text": "Project Proposal\nUnable to display PDF file. Download instead."
   }
 ]

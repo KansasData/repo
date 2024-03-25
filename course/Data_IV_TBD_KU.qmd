@@ -1,0 +1,13 @@
+---
+title: "Data IV"
+author: "TBD"
+subtitle: "Modeling Building"
+description: "University of Kansas"
+categories: [statistical foundation, model building]
+---
+
+## Description
+
+Course description.
+
+{{< pdf Data_IV_Syllabus.pdf width=600 height=400 >}}

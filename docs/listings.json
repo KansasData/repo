@@ -1,44 +1,42 @@
 [
   {
-    "listing": "/curriculum.html",
-    "items": [
-      "/curriculum/Data_I_Duncun_KU.html"
-    ]
-  },
-  {
-    "listing": "/data.html",
-    "items": [
-      "/data/projects/projects_ex1.html",
-      "/data/rawdata/rawdata_ex1.html"
-    ]
-  },
-  {
-    "listing": "/repo/curriculum.html",
-    "items": [
-      "/repo/curriculum/Data_I_Duncun_KU.html"
-    ]
-  },
-  {
     "listing": "/project.html",
     "items": [
-      "/project/projects/projects_ex1.html"
+      "/project/projects/project_FEMA.html"
+    ]
+  },
+  {
+    "listing": "/course.html",
+    "items": [
+      "/course/Data_I_Duncun_KU.html",
+      "/course/Data_II_TBD_KU.html",
+      "/course/Data_III_TBD_KU.html",
+      "/course/Data_IV_TBD_KU.html",
+      "/course/Data_V_TBD_KU.html"
+    ]
+  },
+  {
+    "listing": "/competency.html",
+    "items": [
+      "/competency/comp_stat_foundation.html",
+      "/competency/comp_programming.html",
+      "/competency/comp_data_mining.html",
+      "/competency/comp_data_wrangling.html",
+      "/competency/comp_data_eng.html",
+      "/competency/comp_model_build.html"
     ]
   },
   {
     "listing": "/dataset.html",
     "items": [
-      "/docs/project/datasets/dataset_ex1.html",
       "/project/datasets/dataset_ex1.html"
     ]
   },
   {
     "listing": "/people.html",
     "items": [
-      "/docs/people/faculty/faculty_jeff.html",
       "/people/faculty/faculty_jeff.html",
-      "/docs/people/staff/staff_daiil.html",
       "/people/staff/staff_daiil.html",
-      "/docs/people/adj_committee/committee_xyz.html",
       "/people/adj_committee/committee_xyz.html"
     ]
   }
