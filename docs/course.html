@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ARISE | Course</title>
+<title>KDSC | Course</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-title","listing-author"],
     };
@@ -139,7 +139,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./arise_logo.png" alt="ARISE logo" class="navbar-logo">
+    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -179,6 +179,10 @@ window.Quarto = {
         <li>
     <a class="dropdown-item" href="./course.html">
  <span class="dropdown-text">Course</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./module.html">
+ <span class="dropdown-text">Module</span></a>
   </li>  
     </ul>
   </li>
@@ -242,6 +246,12 @@ window.Quarto = {
  <span class="menu-text">Course</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./module.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Module</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
@@ -276,9 +286,6 @@ window.Quarto = {
          <option value="listing-title-sort" data-direction="asc">
           Course
         </option>
-         <option value="listing-author" data-direction="asc">
-          Instructor
-        </option>
      </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -293,9 +300,6 @@ window.Quarto = {
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Course</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Instructor</a>
-</th>
-<th>
 Core Competency
 </th>
 <th>
@@ -304,12 +308,9 @@ Provider
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="programming skills,model building" data-listing-file-modified-sort="1711394054541" data-listing-reading-time-sort="2" data-listing-word-count-sort="209" data-listing-title-sort="Data I" data-listing-filename-sort="Data_I_Duncun_KU.qmd">
+<tr data-index="0" data-categories="programming skills,model building" data-listing-file-modified-sort="1712933451565" data-listing-reading-time-sort="3" data-listing-word-count-sort="406" data-listing-title-sort="Data I" data-listing-filename-sort="Data_I_Duncun_KU.qmd">
 <td>
 <a href="./course/Data_I_Duncun_KU.html" class="title listing-title">Data I</a>
-</td>
-<td>
-<span class="listing-author">Will Duncun</span>
 </td>
 <td>
 <span class="listing-subtitle">Programming Skills</span>
@@ -323,9 +324,6 @@ Provider
 <a href="./course/Data_II_TBD_KU.html" class="title listing-title">Data II</a>
 </td>
 <td>
-<span class="listing-author">TBD </span>
-</td>
-<td>
 <span class="listing-subtitle">Data Wrangling</span>
 </td>
 <td>
@@ -335,9 +333,6 @@ Provider
 <tr data-index="2" data-categories="programming skills,data engineering" data-listing-file-modified-sort="1711047822874" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="Data III" data-listing-filename-sort="Data_III_TBD_KU.qmd">
 <td>
 <a href="./course/Data_III_TBD_KU.html" class="title listing-title">Data III</a>
-</td>
-<td>
-<span class="listing-author">TBD </span>
 </td>
 <td>
 <span class="listing-subtitle">Data Engineering</span>
@@ -351,9 +346,6 @@ Provider
 <a href="./course/Data_IV_TBD_KU.html" class="title listing-title">Data IV</a>
 </td>
 <td>
-<span class="listing-author">TBD </span>
-</td>
-<td>
 <span class="listing-subtitle">Modeling Building</span>
 </td>
 <td>
@@ -363,9 +355,6 @@ Provider
 <tr data-index="4" data-categories="data wrangling,data mining,model building" data-listing-file-modified-sort="1711047979123" data-listing-reading-time-sort="1" data-listing-word-count-sort="7" data-listing-title-sort="Data V" data-listing-filename-sort="Data_V_TBD_KU.qmd">
 <td>
 <a href="./course/Data_V_TBD_KU.html" class="title listing-title">Data V</a>
-</td>
-<td>
-<span class="listing-author">TBD </span>
 </td>
 <td>
 <span class="listing-subtitle">Modeling Building</span>
@@ -771,14 +760,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Proudly supported by <a href="https://www.nsf.gov"><img src="NSF.png" class="img-fluid" width="200" alt="NSF image"></a></p>
+<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src="NSF.png" class="img-fluid" width="200" alt="NSF image"></a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src="arise_logo.png" class="img-fluid" width="100"></a></p>
+</div>
   </div>
 </footer>
 

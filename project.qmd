@@ -1,5 +1,5 @@
 ---
-pagetitle: "ARISE | Community Data Lab"
+pagetitle: "KDSC | Community Data Lab"
 toc: false
 listing:
   - id: project-listings

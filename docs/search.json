@@ -24,7 +24,7 @@
     "href": "project/datasets/dataset_ex1.html",
     "title": "Kansas Action for Children",
     "section": "",
-    "text": "Back to top"
+    "text": "Link to github repository - processed data set (uploaded on github) - raw data set (link to the original provider’s website) - code used for processing the original file - readme file\n\n\n\n Back to top"
   },
   {
     "objectID": "people/staff/staff_daiil.html",
@@ -41,18 +41,39 @@
     "text": "Back to top"
   },
   {
+    "objectID": "module/wsu_yan_neural_network.html",
+    "href": "module/wsu_yan_neural_network.html",
+    "title": "Intro to Neural Network",
+    "section": "",
+    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
+  },
+  {
+    "objectID": "module/wsu_yan_neural_network.html#material-description",
+    "href": "module/wsu_yan_neural_network.html#material-description",
+    "title": "Intro to Neural Network",
+    "section": "",
+    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
+  },
+  {
+    "objectID": "module/wsu_yan_neural_network.html#module-materials",
+    "href": "module/wsu_yan_neural_network.html#module-materials",
+    "title": "Intro to Neural Network",
+    "section": "Module Materials",
+    "text": "Module Materials\nUnable to display PDF file. Download instead."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to ARISE’s Repository",
+    "title": "Welcome to KDSC’s Repository",
     "section": "",
-    "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.\n\nLearn more »\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\n Back to top"
+    "text": "This website serves as an online repository for data science curriculum materials developed by the ARISE team. Faculty from the KDSC collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.\n\n\nCommunity Data Lab\nThe Community Data Lab serves as a repository where, with the consent of our community partners, we store deidentified data, analysis code, materials, and project reports. This open-source framework is designed for future use in the Community Data Lab and other data science courses, fostering an environment of shared resources and collective learning.\n\nLearn more »\n\n\n\nCurriculum\nOur curriculum encompasses a wide range of data science courses, from introductory classes to advanced machine learning. It includes lecture materials, analysis code, exercises, and datasets, all systematically organized and accessible. This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience.\n\nLearn more »\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "course.html",
     "href": "course.html",
     "title": "Course Materials",
     "section": "",
-    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n         \n          Instructor\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nInstructor\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nWill Duncun\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nTBD \n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nTBD \n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nTBD \n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nTBD \n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Course"
     ]
@@ -62,14 +83,21 @@
     "href": "course/Data_I_Duncun_KU.html",
     "title": "Data I",
     "section": "",
-    "text": "Course description"
+    "text": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and sys- tems to derive knowledge and insights from data. This course teaches students the critical concepts of inference and computing, working with real behavioral, economic, geographic, physical, social, and text data. Students obtain basic statistics training from a computational perspective using simulation to answer questions, explore problems, and delve into social issues surrounding data analysis such as privacy and design."
   },
   {
-    "objectID": "course/Data_I_Duncun_KU.html#description",
-    "href": "course/Data_I_Duncun_KU.html#description",
+    "objectID": "course/Data_I_Duncun_KU.html#course-description",
+    "href": "course/Data_I_Duncun_KU.html#course-description",
     "title": "Data I",
     "section": "",
-    "text": "Course description"
+    "text": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and sys- tems to derive knowledge and insights from data. This course teaches students the critical concepts of inference and computing, working with real behavioral, economic, geographic, physical, social, and text data. Students obtain basic statistics training from a computational perspective using simulation to answer questions, explore problems, and delve into social issues surrounding data analysis such as privacy and design."
+  },
+  {
+    "objectID": "course/Data_I_Duncun_KU.html#course-objective",
+    "href": "course/Data_I_Duncun_KU.html#course-objective",
+    "title": "Data I",
+    "section": "Course Objective",
+    "text": "Course Objective\nUpon successful completion of this course, students will be able to: - Have learned the basic concepts and skills of data science. – Work with data from multiple sources and identify relevant questions. – Understand and process data and organize information. – Analyze data by identifying and applying statistical methods. – Visualize and communicate data. – Translate results into solutions and communicate findings in a way that positively affects policy or organizational decisions. - Become familiar with the programming language of Python, particularly in the use of data science and statistical modeling.\nPrerequisite: NONE"
   },
   {
     "objectID": "course/Data_I_Duncun_KU.html#syllabus",
@@ -79,25 +107,25 @@
     "text": "Syllabus\nUnable to display PDF file. Download instead."
   },
   {
-    "objectID": "course/Data_I_Duncun_KU.html#lecture-slides",
-    "href": "course/Data_I_Duncun_KU.html#lecture-slides",
+    "objectID": "course/Data_I_Duncun_KU.html#lecture",
+    "href": "course/Data_I_Duncun_KU.html#lecture",
     "title": "Data I",
-    "section": "Lecture Slides",
-    "text": "Lecture Slides\nLecture 1: Introduction Click!\nLecture 2: Causality Click!\nLecture 3: Introduction to Tables and Data Types Click!\nLecture 4:Arrays & Ranges Click!\nLecture 5: Creating Tables Click!\nLecture 6: Data Visualization Click!\nLecture 7: Functions Click!\nLecture 8: Groups, Pivots and Joins Click!\nLecture 9: Iteration, Sampling, and Chance Click!\nLecture 10: Probability & Samples Click!\nLecture 11: Models and Assessing Models Part 1 Click! Part 2 Click!\nLecture 12: Decisions under Uncertainty Click!\nLecture 13: Causality and A/B Testing Click!\nLecture 14: Estimation and Confidence Click!\nLecture 15: Center. Spread, and Normal Distribution Click!\nLecture 16: Sampling Variability Click!\nLecture 17: Correlation Click!\nLecture 18: Regression Click!\nLecture 19: Regression Inference Click!\nLecture 20: Classification Click!"
+    "section": "Lecture",
+    "text": "Lecture\nLecture 1: Introduction Click!\nLecture 2: Causality Click!\nLecture 3: Introduction to Tables and Data Types Click!\nLecture 4:Arrays & Ranges Click!\nLecture 5: Creating Tables Click!\nLecture 6: Data Visualization Click!\nLecture 7: Functions Click!\nLecture 8: Groups, Pivots and Joins Click!\nLecture 9: Iteration, Sampling, and Chance Click!\nLecture 10: Probability & Samples Click!\nLecture 11: Models and Assessing Models Part 1 Click! Part 2 Click!\nLecture 12: Decisions under Uncertainty Click!\nLecture 13: Causality and A/B Testing Click!\nLecture 14: Estimation and Confidence Click!\nLecture 15: Center. Spread, and Normal Distribution Click!\nLecture 16: Sampling Variability Click!\nLecture 17: Correlation Click!\nLecture 18: Regression Click!\nLecture 19: Regression Inference Click!\nLecture 20: Classification Click!"
   },
   {
-    "objectID": "course/Data_I_Duncun_KU.html#lab",
-    "href": "course/Data_I_Duncun_KU.html#lab",
+    "objectID": "course/Data_I_Duncun_KU.html#in-class-activity",
+    "href": "course/Data_I_Duncun_KU.html#in-class-activity",
     "title": "Data I",
-    "section": "Lab",
-    "text": "Lab\nLab 1: Introduction Click!\nLab 2: Table Operations Click!\nLab 3: Data Types and Arrays Click!\nLab 4: Functions and Visualizations Click!\nLab 5: Simulations Click!\nLab 6: Assessing Models Click!\nLab 7: Crime and Penalty Click!\nLab 8: Normal Distribution and Variance of Sample Means Click!\nLab 9: Correlation and Regression Click!\nLab 10: Classification Click!"
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nLab 1: Introduction Click!\nLab 2: Table Operations Click!\nLab 3: Data Types and Arrays Click!\nLab 4: Functions and Visualizations Click!\nLab 5: Simulations Click!\nLab 6: Assessing Models Click!\nLab 7: Crime and Penalty Click!\nLab 8: Normal Distribution and Variance of Sample Means Click!\nLab 9: Correlation and Regression Click!\nLab 10: Classification Click!"
   },
   {
-    "objectID": "course/Data_I_Duncun_KU.html#homework-assignments",
-    "href": "course/Data_I_Duncun_KU.html#homework-assignments",
+    "objectID": "course/Data_I_Duncun_KU.html#assignment",
+    "href": "course/Data_I_Duncun_KU.html#assignment",
     "title": "Data I",
-    "section": "Homework Assignments",
-    "text": "Homework Assignments\nHomework Assignment 1: Causality Click!\nHomework Assignment 2: Arrays and Tables Click!\nHomework Assignment 3: Table Manipulation and Visualization Click!\nHomework Assignment 4: Functions, Histograms, and Groups Click!\nHomework Assignment 5: Functions, Iterations Click!\nHomework Assignment 6: Probability, Simulation, Estimation, Assessing Models Click!\nHomework Assignment 7: Testing Hypotheses Click!\nHomework Assignment 8: Confidence Intervals Click\nHomework Assignment 9: Bootstrap, Resampling, CLT Click!\nHomework Assignment 10: Linear Regression Click!\nHomework Assignment 11: Regression Inference Click!"
+    "section": "Assignment",
+    "text": "Assignment\nHomework Assignment 1: Causality Click!\nHomework Assignment 2: Arrays and Tables Click!\nHomework Assignment 3: Table Manipulation and Visualization Click!\nHomework Assignment 4: Functions, Histograms, and Groups Click!\nHomework Assignment 5: Functions, Iterations Click!\nHomework Assignment 6: Probability, Simulation, Estimation, Assessing Models Click!\nHomework Assignment 7: Testing Hypotheses Click!\nHomework Assignment 8: Confidence Intervals Click\nHomework Assignment 9: Bootstrap, Resampling, CLT Click!\nHomework Assignment 10: Linear Regression Click!\nHomework Assignment 11: Regression Inference Click!"
   },
   {
     "objectID": "course/Data_I_Duncun_KU.html#data",
@@ -132,7 +160,7 @@
     "href": "competency.html",
     "title": "Data Science Competency",
     "section": "",
-    "text": "Data Science Competency\nOur courses are designed to develop data science competency. Explore each data science competency and corresponding courses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Data Science Competency\nData science competency encompasses a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, it involves a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, thereby playing a pivotal role in guiding strategic business moves and optimizing processes.\nThis repository stores a wide range of modules designed to develop the data science competency. Explore each data science competency and corresponding modules.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Competency"
     ]
@@ -142,21 +170,21 @@
     "href": "competency/comp_programming.html",
     "title": "Programming Skills",
     "section": "",
-    "text": "Back to top"
+    "text": "Programming skills are fundamental to data science. These skills involve the ability to write and understand code, primarily in languages such as Python, R, or SQL. Programming allows data scientists to manipulate data, automate tasks, and implement algorithms that help in analyzing and interpreting data.\nGood programming skills enable a data scientist to be versatile and innovative in solving problems. They can write scripts to automate repetitive tasks, develop models to make predictions, or create interactive data visualizations. This competency is indispensable because it directly affects a data scientist’s ability to turn raw data into actionable insights.\nThis repository stores a wide range of materials that people can use to develop their programming skills. If you are interested in, please check out our materials!\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competency/comp_data_wrangling.html",
     "href": "competency/comp_data_wrangling.html",
     "title": "Data Wrangling",
     "section": "",
-    "text": "Back to top"
+    "text": "Data wrangling, also known as data cleaning or munging, involves transforming and mapping raw data into a more usable format. This competency is critical because data often comes from various sources and is not in a form suitable for analysis. Data wrangling includes dealing with missing values, correcting errors, and standardizing data formats.\nA data scientist spends a significant amount of time in the data wrangling phase, ensuring that the data is accurate and well-prepared for analysis. This step is crucial because the quality of data directly affects the accuracy of the analysis and predictions. Good data wrangling practices lead to reliable data insights, which are essential for any analytical project.\nThis repository stores a wide range of materials that people can use to develop their data wrangling skills. If you are interested in, please check out our materials!\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competency/comp_data_eng.html",
     "href": "competency/comp_data_eng.html",
     "title": "Data Engineering",
     "section": "",
-    "text": "Back to top"
+    "text": "Data engineering focuses on the practical application of data collection and data processing frameworks that are scalable and optimized for performance. This competency involves the architecture of data systems and the management of data flow, which includes data gathering, data storage, and data access. Technologies such as databases, big data frameworks, and cloud services are commonly utilized tools in data engineering.\nFor data scientists, understanding data engineering is crucial because it enables them to design systems that handle and process large volumes of data efficiently. Efficient data systems help ensure that data analysis tasks can be performed quickly and reliably, allowing organizations to leverage their data effectively and gain competitive advantages.\nThis repository stores a wide range of materials that people can use to develop their data engineering skills. If you are interested in, please check out our materials!\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -177,21 +205,21 @@
     "href": "competency/comp_data_mining.html",
     "title": "Data Mining",
     "section": "",
-    "text": "Back to top"
+    "text": "Data mining is the process of discovering patterns and knowledge from large amounts of data. The competency involves not just handling data, but also selecting the appropriate methods to extract useful information that may not be immediately obvious. Techniques such as clustering, classification, association rule mining, and anomaly detection are commonly used in this area.\nFor a data scientist, data mining means sifting through massive datasets to find meaningful insights that can influence decision-making processes. It’s like being a digital prospector, looking for nuggets of valuable information among the vast expanses of data. This skill is especially useful in environments where data is not only big but also complex, such as in marketing or financial analysis.\nThis repository stores a wide range of materials that people can use to develop their data mining skills. If you are interested in, please check out our materials!\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competency/comp_model_build.html",
     "href": "competency/comp_model_build.html",
     "title": "Model Building",
     "section": "",
-    "text": "Back to top"
+    "text": "Model building is the process of creating data-driven models for predictive analysis or to understand data relationships. This competency requires both an understanding of the algorithms used in modeling and the ability to apply them appropriately. Common tasks include selecting the right model, training the model with data, testing it, and refining it to improve accuracy.\nIn practical terms, model building allows data scientists to forecast future trends, classify data, and make decisions based on data predictions. It is a core component of many data science applications, such as risk management, algorithmic trading, and customer behavior prediction. Effective model building depends on not only technical skills but also on a deep understanding of the problem domain to ensure that the models are both accurate and relevant.\nThis repository stores a wide range of materials that people can use to develop their model building skills. If you are interested in, please check out our materials!\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competency/comp_stat_foundation.html",
     "href": "competency/comp_stat_foundation.html",
     "title": "Statistical Foundation",
     "section": "",
-    "text": "Statistical Foundation for Data Science\n\n\n\n Back to top"
+    "text": "Statistical foundation is the backbone of data science. It involves understanding the principles of statistics that allow data scientists to collect, analyze, and interpret data effectively. This competency includes knowledge of statistical tests, probability, regression analysis, and hypothesis testing. A strong statistical foundation helps in making informed decisions based on the data, identifying trends, and predicting future outcomes.\nIn practice, a data scientist uses statistical methods to make sense of large datasets and to determine the reliability of the conclusions drawn from the data. For example, they might use statistics to evaluate whether a difference between two groups is due to chance or represents a true difference in behavior. This is crucial in fields ranging from business to public health, where strategic decisions are often based on data analysis.\nThis repository stores a wide range of materials that people can use to develop their statistical foundation. If you are interested in, please check out our materials!\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
     "objectID": "course/Data_III_TBD_KU.html",
@@ -263,6 +291,16 @@
     "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\n\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.  \n\nLearn more »\n\n\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\nA unique aspect of the KDSC is that its network of community partners can provide feedback on the material to help tune the coursework to the needs of the state. Over the course of the project, the KDSC expands access to the open-source framework including other schools and K-12 programs.\n\n\n\n Back to top"
   },
   {
+    "objectID": "module.html",
+    "href": "module.html",
+    "title": "Module Materials",
+    "section": "",
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntro to Neural Network\n\n\nModel Building\n\n\nDr. Fuijan Yan\n\n\nWichita State University\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Module"
+    ]
+  },
+  {
     "objectID": "people/faculty/faculty_jeff.html",
     "href": "people/faculty/faculty_jeff.html",
     "title": "Jeffrey Girard",
@@ -272,28 +310,28 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "ARISE",
+    "title": "KDSC",
     "section": "",
     "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#data-science-faculty",
     "href": "people.html#data-science-faculty",
-    "title": "ARISE",
+    "title": "KDSC",
     "section": "",
     "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#research-staff",
     "href": "people.html#research-staff",
-    "title": "ARISE",
+    "title": "KDSC",
     "section": "Research staff",
     "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#ad-hoc-steering-committee",
     "href": "people.html#ad-hoc-steering-committee",
-    "title": "ARISE",
+    "title": "KDSC",
     "section": "Ad Hoc Steering Committee",
     "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
   },
@@ -317,5 +355,12 @@
     "title": "Who Receives FEMA Individual Assistance After Disasters",
     "section": "Project Proposal",
     "text": "Project Proposal\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "project/projects/project_FEMA.html#dataset",
+    "href": "project/projects/project_FEMA.html#dataset",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "Dataset",
+    "text": "Dataset\nDescription of Data\nExplore data Learn more »"
   }
 ]

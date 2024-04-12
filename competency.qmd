@@ -1,5 +1,5 @@
 ---
-pagetitle: "ARISE | Competency"
+pagetitle: "KDSC | Competency"
 toc: false
 listing:
   contents: 
@@ -16,4 +16,6 @@ listing:
 
 # Data Science Competency
 
-Our courses are designed to develop data science competency. Explore each data science competency and corresponding courses. 
+Data science competency encompasses a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, it involves a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, thereby playing a pivotal role in guiding strategic business moves and optimizing processes.
+
+This repository stores a wide range of modules designed to develop the data science competency. Explore each data science competency and corresponding modules. 

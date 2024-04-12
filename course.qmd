@@ -1,15 +1,14 @@
 ---
-pagetitle: "ARISE | Course"
+pagetitle: "KDSC | Course"
 toc: false
 listing:
   - id: course-listings
     contents: "course/*.qmd"
     type: table
     table-striped: true
-    fields: [title, author, subtitle, description]
+    fields: [title, subtitle, description]
     field-display-names: 
       title: "Course"
-      author: "Instructor"
       subtitle: "Core Competency"
       description: "Provider"
     categories: true

@@ -1,3 +1,13 @@
 ---
 title: "Programming Skills"
+image: "programming_skills.jpg"
 ---
+Programming skills are fundamental to data science. These skills involve the ability to write and understand code, primarily in languages such as Python, R, or SQL. Programming allows data scientists to manipulate data, automate tasks, and implement algorithms that help in analyzing and interpreting data.
+
+Good programming skills enable a data scientist to be versatile and innovative in solving problems. They can write scripts to automate repetitive tasks, develop models to make predictions, or create interactive data visualizations. This competency is indispensable because it directly affects a data scientist’s ability to turn raw data into actionable insights.
+
+This repository stores a wide range of materials that people can use to develop their programming skills. If you are interested in, please check out our materials! 
+
+::: Exlplore
+[Explore Materials »](../module.qmd)
+:::

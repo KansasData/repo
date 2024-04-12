@@ -5,6 +5,7 @@ author: "Withheld"
 description: "Community Data Lab Project"
 toc: true
 ---
+
 ## Abstract
 
 Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households.
@@ -12,3 +13,8 @@ Depending on the scale of impact, disasters can trigger the flow of Federal Emer
 ## Project Proposal
 
 {{< pdf CDL_Proposal_OpenFEMA.pdf width=800 height=800 >}}
+
+## Dataset
+Description of Data
+
+Explore data [Learn more »](../datasets/dataset_ex1.qmd)

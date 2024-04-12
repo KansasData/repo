@@ -6,3 +6,9 @@ date: "Spring 2024"
 Sources: "Community Provided"
 Description: "Kansas Action for Children Datasets"
 ---
+
+Link to github repository 
+-   processed data set (uploaded on github)
+-   raw data set (link to the original provider's website)
+-   code used for processing the original file
+-   readme file

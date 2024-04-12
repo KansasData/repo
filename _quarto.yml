@@ -8,11 +8,11 @@ excute:
 website: 
   bread-crumbs: false
   back-to-top-navigation: true
-  title: "ARISE"
+  title: "KDSC"
   navbar:
     background: light
-    logo: arise_logo.png
-    logo-alt: "ARISE logo"
+    logo: kdsc_logo.png
+    logo-alt: "KDSC logo"
     title: false
     collapse-below: lg
     left:
@@ -51,11 +51,16 @@ website:
           href: competency.qmd
         - text: "Course"
           href: course.qmd
+        - text: "Module"
+          href: module.qmd
   
   page-footer:
     left: | 
       Proudly supported by 
-      [![NSF image](NSF.png){width=200}](https://www.nsf.gov)
+      [![NSF image](NSF.png){width=200}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878)
+    right: |
+    
+      [![](arise_logo.png){width=100}](https://nsfepscor.ku.edu/track-1-arise/)
       
 format:
   html:

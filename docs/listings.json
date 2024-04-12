@@ -33,6 +33,12 @@
     ]
   },
   {
+    "listing": "/module.html",
+    "items": [
+      "/module/wsu_yan_neural_network.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/faculty/faculty_jeff.html",

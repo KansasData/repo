@@ -1,22 +1,28 @@
 ---
 title: "Data I"
-author: "Will Duncun"
 subtitle: "Programming Skills"
+author: "Will Duncan"
 description: "University of Kansas"
 categories: [programming skills, model building]
 toc: true
 toc-title: "Coure Materials"
 ---
 
-## Description
+## Course Description
 
-Course description
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and sys- tems to derive knowledge and insights from data. This course teaches students the critical concepts of inference and computing, working with real behavioral, economic, geographic, physical, social, and text data. Students obtain basic statistics training from a computational perspective using simulation to answer questions, explore problems, and delve into social issues surrounding data analysis such as privacy and design.
+
+## Course Objective
+
+Upon successful completion of this course, students will be able to: - Have learned the basic concepts and skills of data science. -- Work with data from multiple sources and identify relevant questions. -- Understand and process data and organize information. -- Analyze data by identifying and applying statistical methods. -- Visualize and communicate data. -- Translate results into solutions and communicate findings in a way that positively affects policy or organizational decisions. - Become familiar with the programming language of Python, particularly in the use of data science and statistical modeling.
+
+*Prerequisite*: NONE
 
 ## Syllabus
 
 {{< pdf Data_I_Syllabus.pdf width=600 height=400 >}}
 
-## Lecture Slides
+## Lecture 
 
 Lecture 1: Introduction [*Click*!](https://docs.google.com/presentation/d/1kIW-qFPKUH3zljggC2k9bZs4x-GQBVrtPGuqx6NMz5E/edit#slide=id.p)
 
@@ -24,59 +30,41 @@ Lecture 2: Causality [*Click*!](https://docs.google.com/presentation/d/1QZouHMcK
 
 Lecture 3: Introduction to Tables and Data Types [*Click*!](https://docs.google.com/presentation/d/1RacOvWh9CrNBLsFLqn0vymPMT90rvH4J9eLLTTt5tlQ/edit#slide=id.g610d9f86d0_0_5)
 
-Lecture 4:Arrays & Ranges
-[*Click*!](https://docs.google.com/presentation/d/1IIGFQzgOEkO3Gc-uuHP5BHIBgLsKaz4GOx9KlCcP17c/edit#slide=id.g610d9f86d0_0_5)
+Lecture 4:Arrays & Ranges [*Click*!](https://docs.google.com/presentation/d/1IIGFQzgOEkO3Gc-uuHP5BHIBgLsKaz4GOx9KlCcP17c/edit#slide=id.g610d9f86d0_0_5)
 
-Lecture 5: Creating Tables
-[*Click*!](https://docs.google.com/presentation/d/1BavSMoAn5qsVu2R4E47GPKcQ1eNA9Jh2g5R7v3_tR5I/edit#slide=id.g610d9f86d0_0_5)
+Lecture 5: Creating Tables [*Click*!](https://docs.google.com/presentation/d/1BavSMoAn5qsVu2R4E47GPKcQ1eNA9Jh2g5R7v3_tR5I/edit#slide=id.g610d9f86d0_0_5)
 
-Lecture 6: Data Visualization
-[*Click*!](https://docs.google.com/presentation/d/1CZ0-_nvxMGvIuy0XkJRMJzahcebganahap3Lj-c5pCE/edit#slide=id.g2fafb72925_1_26)
+Lecture 6: Data Visualization [*Click*!](https://docs.google.com/presentation/d/1CZ0-_nvxMGvIuy0XkJRMJzahcebganahap3Lj-c5pCE/edit#slide=id.g2fafb72925_1_26)
 
-Lecture 7: Functions
-[*Click*!](https://docs.google.com/presentation/d/1X8AJfxyanNYVed_o8ugdFWybEbtU9YJPp6rj8kChRd0/edit#slide=id.g2fafb72925_1_26)
+Lecture 7: Functions [*Click*!](https://docs.google.com/presentation/d/1X8AJfxyanNYVed_o8ugdFWybEbtU9YJPp6rj8kChRd0/edit#slide=id.g2fafb72925_1_26)
 
-Lecture 8: Groups, Pivots and Joins
-[*Click*!](https://docs.google.com/presentation/d/1xYKMFd342Pf5pS6d6b8VZVY76wgbBdzfuAdRuQA1X4k/edit#slide=id.p)
+Lecture 8: Groups, Pivots and Joins [*Click*!](https://docs.google.com/presentation/d/1xYKMFd342Pf5pS6d6b8VZVY76wgbBdzfuAdRuQA1X4k/edit#slide=id.p)
 
-Lecture 9: Iteration, Sampling, and Chance
-[*Click*!](https://docs.google.com/presentation/d/1GRALHBcIocImPWgSRKCVustEjFPilHEo-DsSqSoTSJg/edit#slide=id.g2fafb72925_1_26)
+Lecture 9: Iteration, Sampling, and Chance [*Click*!](https://docs.google.com/presentation/d/1GRALHBcIocImPWgSRKCVustEjFPilHEo-DsSqSoTSJg/edit#slide=id.g2fafb72925_1_26)
 
-Lecture 10: Probability & Samples
-[*Click*!](https://docs.google.com/presentation/d/1p_4xtsB1EPS0oXnNbbu1NSvzmG_jdlbG-zGaA-Aojwg/edit#slide=id.g30c77890ad_0_0)
+Lecture 10: Probability & Samples [*Click*!](https://docs.google.com/presentation/d/1p_4xtsB1EPS0oXnNbbu1NSvzmG_jdlbG-zGaA-Aojwg/edit#slide=id.g30c77890ad_0_0)
 
-Lecture 11: Models and Assessing Models
-Part 1 [*Click*!](https://docs.google.com/presentation/d/1AFRqn_rpWjKTXUnuQq5DnsuDT2WTK-pF8cxuqJyrgjw/edit)
-Part 2 [*Click*!](https://docs.google.com/presentation/d/1v75bCcg0FXGIL248UAC0xY2rSlUOT60nnxD6sKXoJLQ/edit#slide=id.p)
+Lecture 11: Models and Assessing Models Part 1 [*Click*!](https://docs.google.com/presentation/d/1AFRqn_rpWjKTXUnuQq5DnsuDT2WTK-pF8cxuqJyrgjw/edit) Part 2 [*Click*!](https://docs.google.com/presentation/d/1v75bCcg0FXGIL248UAC0xY2rSlUOT60nnxD6sKXoJLQ/edit#slide=id.p)
 
-Lecture 12: Decisions under Uncertainty
-[*Click*!](https://docs.google.com/presentation/d/1ldE4PleNimKvO79jaANzHFL7rFNYWWzGBewEqmIgmS0/edit#slide=id.p)
+Lecture 12: Decisions under Uncertainty [*Click*!](https://docs.google.com/presentation/d/1ldE4PleNimKvO79jaANzHFL7rFNYWWzGBewEqmIgmS0/edit#slide=id.p)
 
-Lecture 13: Causality and A/B Testing
-[*Click*!](https://docs.google.com/presentation/d/1uvH8KrA-zW0YTpdgziaIPWfEDYJAp5QPG8TfWgT8UUQ/edit#slide=id.g2fafb72925_1_26)
+Lecture 13: Causality and A/B Testing [*Click*!](https://docs.google.com/presentation/d/1uvH8KrA-zW0YTpdgziaIPWfEDYJAp5QPG8TfWgT8UUQ/edit#slide=id.g2fafb72925_1_26)
 
-Lecture 14: Estimation and Confidence 
-[*Click*!](https://docs.google.com/presentation/d/1--U4KhzNfU0h-PDX4vrikrzWAnwfXi4daiYBklhI4Ac/edit#slide=id.g30c77890ad_0_0)
+Lecture 14: Estimation and Confidence [*Click*!](https://docs.google.com/presentation/d/1--U4KhzNfU0h-PDX4vrikrzWAnwfXi4daiYBklhI4Ac/edit#slide=id.g30c77890ad_0_0)
 
-Lecture 15: Center. Spread, and Normal Distribution 
-[*Click*!](https://docs.google.com/presentation/d/1ae7R8x_zDB9prluVdVmUKs06lwn-aZtl98otAsp5oCQ/edit#slide=id.g30c77890ad_0_0)
+Lecture 15: Center. Spread, and Normal Distribution [*Click*!](https://docs.google.com/presentation/d/1ae7R8x_zDB9prluVdVmUKs06lwn-aZtl98otAsp5oCQ/edit#slide=id.g30c77890ad_0_0)
 
-Lecture 16: Sampling Variability 
-[*Click*!](https://colab.research.google.com/drive/1o5Q2OFYaxR48aF7O0xCVf3oR-Pi36zc1?usp=sharing)
+Lecture 16: Sampling Variability [*Click*!](https://colab.research.google.com/drive/1o5Q2OFYaxR48aF7O0xCVf3oR-Pi36zc1?usp=sharing)
 
-Lecture 17: Correlation
-[*Click*!](https://docs.google.com/presentation/d/19Hek3VBzEiR2m2nJd5As3OjBIuK3ua27Vcf_QsqW6rk/edit#slide=id.g30c77890ad_0_0)
+Lecture 17: Correlation [*Click*!](https://docs.google.com/presentation/d/19Hek3VBzEiR2m2nJd5As3OjBIuK3ua27Vcf_QsqW6rk/edit#slide=id.g30c77890ad_0_0)
 
-Lecture 18: Regression
-[*Click*!](https://docs.google.com/presentation/d/13eDO6uaDv_cRwOUgPcRGa6FAM54sl9Mf2z6kQq-I094/edit#slide=id.g30c77890ad_0_0)
+Lecture 18: Regression [*Click*!](https://docs.google.com/presentation/d/13eDO6uaDv_cRwOUgPcRGa6FAM54sl9Mf2z6kQq-I094/edit#slide=id.g30c77890ad_0_0)
 
-Lecture 19: Regression Inference
-[*Click*!](https://docs.google.com/presentation/d/1sDoPYobAp6YEbBVg2onf2JhBX-k7vvUpsio34xpjvcE/edit#slide=id.g30c77890ad_0_0)
+Lecture 19: Regression Inference [*Click*!](https://docs.google.com/presentation/d/1sDoPYobAp6YEbBVg2onf2JhBX-k7vvUpsio34xpjvcE/edit#slide=id.g30c77890ad_0_0)
 
-Lecture 20: Classification
-[*Click*!](https://docs.google.com/presentation/d/1ex3FFNwpEDobej_Vj190aQJyfpXGZcEVsXXr9T69pjk/edit#slide=id.g30c77890ad_0_0)
+Lecture 20: Classification [*Click*!](https://docs.google.com/presentation/d/1ex3FFNwpEDobej_Vj190aQJyfpXGZcEVsXXr9T69pjk/edit#slide=id.g30c77890ad_0_0)
 
-## Lab
+## In-Class Activity
 
 Lab 1: Introduction [*Click*!](https://colab.research.google.com/drive/149HV3Eif24PfcXj323fs0Og5VP6EhQJy?usp=sharing)
 
@@ -84,60 +72,43 @@ Lab 2: Table Operations [*Click*!](https://colab.research.google.com/drive/1uzSs
 
 Lab 3: Data Types and Arrays [*Click*!](https://colab.research.google.com/drive/1jyAdGCAg6t5Rm3tDH5JgyOA1r7KUxBP1?usp=sharing)
 
-Lab 4: Functions and Visualizations
-[*Click*!](https://colab.research.google.com/drive/1jrwdjCC3bvon0_GwagJi-yScwPwnaMWy?usp=sharing)
+Lab 4: Functions and Visualizations [*Click*!](https://colab.research.google.com/drive/1jrwdjCC3bvon0_GwagJi-yScwPwnaMWy?usp=sharing)
 
-Lab 5: Simulations
-[*Click*!](https://canvas.ku.edu/courses/119109/assignments/752727?module_item_id=2536065)
+Lab 5: Simulations [*Click*!](https://canvas.ku.edu/courses/119109/assignments/752727?module_item_id=2536065)
 
-Lab 6: Assessing Models
-[*Click*!](https://colab.research.google.com/drive/1wyg0OXYQWe9-yMllB8kj5yhuVTalwVpJ?usp=sharing)
+Lab 6: Assessing Models [*Click*!](https://colab.research.google.com/drive/1wyg0OXYQWe9-yMllB8kj5yhuVTalwVpJ?usp=sharing)
 
-Lab 7: Crime and Penalty
-[*Click*!](https://colab.research.google.com/drive/1flNB2OwxVkWF6_iPTKHVEwcqsNCcMLlP?usp=sharing)
+Lab 7: Crime and Penalty [*Click*!](https://colab.research.google.com/drive/1flNB2OwxVkWF6_iPTKHVEwcqsNCcMLlP?usp=sharing)
 
-Lab 8: Normal Distribution and Variance of Sample Means
-[*Click*!](https://colab.research.google.com/drive/1o5Q2OFYaxR48aF7O0xCVf3oR-Pi36zc1?usp=sharing)
+Lab 8: Normal Distribution and Variance of Sample Means [*Click*!](https://colab.research.google.com/drive/1o5Q2OFYaxR48aF7O0xCVf3oR-Pi36zc1?usp=sharing)
 
-Lab 9: Correlation and Regression
-[*Click*!](https://colab.research.google.com/drive/1TXTPClHUi7R4CUnOIU9fZelij5moyRCU?usp=sharing)
+Lab 9: Correlation and Regression [*Click*!](https://colab.research.google.com/drive/1TXTPClHUi7R4CUnOIU9fZelij5moyRCU?usp=sharing)
 
-Lab 10: Classification
-[*Click*!](https://colab.research.google.com/drive/14nPK7ClHyJimuf_Xb6XlJm-utgEvhrsJ)
+Lab 10: Classification [*Click*!](https://colab.research.google.com/drive/14nPK7ClHyJimuf_Xb6XlJm-utgEvhrsJ)
 
-## Homework Assignments
+## Assignment
 
 Homework Assignment 1: Causality [*Click*!](https://colab.research.google.com/drive/1Axq7SwhjKIDo7Jbxk_VLuxlJbuontyB2?usp=sharing)
 
-Homework Assignment 2: Arrays and Tables
-[*Click*!](https://colab.research.google.com/drive/1GnruKBvGV-BRFDxNAZ9Jr415rWwiiMdc?usp=sharing)
+Homework Assignment 2: Arrays and Tables [*Click*!](https://colab.research.google.com/drive/1GnruKBvGV-BRFDxNAZ9Jr415rWwiiMdc?usp=sharing)
 
-Homework Assignment 3: Table Manipulation and Visualization
-[*Click*!](https://colab.research.google.com/drive/1-paZ2h0h19TXHRKX_bOzA2bhY-usbNTl?usp=sharing)
+Homework Assignment 3: Table Manipulation and Visualization [*Click*!](https://colab.research.google.com/drive/1-paZ2h0h19TXHRKX_bOzA2bhY-usbNTl?usp=sharing)
 
-Homework Assignment 4: Functions, Histograms, and Groups
-[*Click*!](https://colab.research.google.com/drive/1oQs3f-SuyJLDu3eU3YIIGBHsh0ZpeMK5?usp=sharing)
+Homework Assignment 4: Functions, Histograms, and Groups [*Click*!](https://colab.research.google.com/drive/1oQs3f-SuyJLDu3eU3YIIGBHsh0ZpeMK5?usp=sharing)
 
-Homework Assignment 5: Functions, Iterations
-[*Click*!](https://colab.research.google.com/drive/1t65E4blts-0mczq8uvPhBWXch4fXFa_Q?usp=sharing)
+Homework Assignment 5: Functions, Iterations [*Click*!](https://colab.research.google.com/drive/1t65E4blts-0mczq8uvPhBWXch4fXFa_Q?usp=sharing)
 
-Homework Assignment 6: Probability, Simulation, Estimation, Assessing Models
-[*Click*!](https://colab.research.google.com/drive/1xLIzLZU4AYkKiwSR6MY5pkXn_WsZXONf?usp=sharing)
+Homework Assignment 6: Probability, Simulation, Estimation, Assessing Models [*Click*!](https://colab.research.google.com/drive/1xLIzLZU4AYkKiwSR6MY5pkXn_WsZXONf?usp=sharing)
 
-Homework Assignment 7: Testing Hypotheses
-[*Click*!](https://colab.research.google.com/drive/12t9x0Y8V1EttdRLTJ_j7qe9Evg8P6Sbu?usp=sharing)
+Homework Assignment 7: Testing Hypotheses [*Click*!](https://colab.research.google.com/drive/12t9x0Y8V1EttdRLTJ_j7qe9Evg8P6Sbu?usp=sharing)
 
-Homework Assignment 8: Confidence Intervals
-[*Click*](https://colab.research.google.com/drive/1lv3wfDvq95ukbcxrXd-pRxN1SwTTGevj?usp=sharing)
+Homework Assignment 8: Confidence Intervals [*Click*](https://colab.research.google.com/drive/1lv3wfDvq95ukbcxrXd-pRxN1SwTTGevj?usp=sharing)
 
-Homework Assignment 9: Bootstrap, Resampling, CLT
-[*Click*!](https://colab.research.google.com/drive/18y5WKPPVep1pvJyj7ptKgwwZ8gCpv3oZ?usp=sharing)
+Homework Assignment 9: Bootstrap, Resampling, CLT [*Click*!](https://colab.research.google.com/drive/18y5WKPPVep1pvJyj7ptKgwwZ8gCpv3oZ?usp=sharing)
 
-Homework Assignment 10: Linear Regression
-[*Click*!](https://colab.research.google.com/drive/1OyKPEq26WxbjJinYoM0kzVGyzyoLxCxt?usp=sharing)
+Homework Assignment 10: Linear Regression [*Click*!](https://colab.research.google.com/drive/1OyKPEq26WxbjJinYoM0kzVGyzyoLxCxt?usp=sharing)
 
-Homework Assignment 11: Regression Inference
-[*Click*!](https://colab.research.google.com/drive/1i2G7I0nof469o9Zn0jFKpisSlEYqwrI2?usp=sharing)
+Homework Assignment 11: Regression Inference [*Click*!](https://colab.research.google.com/drive/1i2G7I0nof469o9Zn0jFKpisSlEYqwrI2?usp=sharing)
 
 ## Data
 

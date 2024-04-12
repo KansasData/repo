@@ -1,4 +1,5 @@
 ---
+pagetitle: "KDSC | Dataset"
 title: "Dataset"
 toc: true
 listing:
