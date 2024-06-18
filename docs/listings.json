@@ -2,17 +2,30 @@
   {
     "listing": "/project.html",
     "items": [
-      "/project/projects/project_FEMA.html"
+      "/project/projects/project_FEMA.html",
+      "/project/projects/project_KAC.html"
     ]
   },
   {
-    "listing": "/course.html",
+    "listing": "/people.html",
     "items": [
-      "/course/Data_I_Duncun_KU.html",
-      "/course/Data_II_TBD_KU.html",
-      "/course/Data_III_TBD_KU.html",
-      "/course/Data_IV_TBD_KU.html",
-      "/course/Data_V_TBD_KU.html"
+      "/people/faculty/faculty_jeff.html",
+      "/people/staff/staff_daiil.html",
+      "/people/adj_committee/committee_xyz.html"
+    ]
+  },
+  {
+    "listing": "/module/module_lecture.html",
+    "items": [
+      "/module/module_lecture/ku_dataI_casuality_slide.html",
+      "/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html"
+    ]
+  },
+  {
+    "listing": "/dataset.html",
+    "items": [
+      "/project/datasets/dataset_ex1.html"
     ]
   },
   {
@@ -27,23 +40,26 @@
     ]
   },
   {
-    "listing": "/dataset.html",
+    "listing": "/course.html",
     "items": [
-      "/project/datasets/dataset_ex1.html"
+      "/course/Data_I_Duncun_KU.html",
+      "/course/Data_II_TBD_KU.html",
+      "/course/Data_III_TBD_KU.html",
+      "/course/Data_IV_TBD_KU.html",
+      "/course/Data_V_TBD_KU.html"
     ]
   },
   {
-    "listing": "/module.html",
+    "listing": "/module/module_tutorial.html",
     "items": [
-      "/module/wsu_yan_neural_network.html"
+      "/module/module_tutorial/tutorial_intro_colab.html",
+      "/module/module_tutorial/tutorial_ex.html"
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/module/module_workshop.html",
     "items": [
-      "/people/faculty/faculty_jeff.html",
-      "/people/staff/staff_daiil.html",
-      "/people/adj_committee/committee_xyz.html"
+      "/module/module_workshop/workshop_ex.html"
     ]
   }
 ]

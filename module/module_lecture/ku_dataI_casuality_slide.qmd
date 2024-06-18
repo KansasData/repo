@@ -1,0 +1,17 @@
+---
+title: "Casuality"
+subtitle: "Lecture Slide"
+author: "TBD"
+description: "University of Kansas"
+categories: [Statistical Foundation]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This module is a lecture slide that explains casuality.
+
+## Module Materials
+
+You can access the material [here](https://docs.google.com/presentation/d/1QZouHMcKb1czioT0ISUqtFnOcHXMDt-QRy_4GbD5b64/edit#slide=id.g10c859c8454_0_0)

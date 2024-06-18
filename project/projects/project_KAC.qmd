@@ -1,0 +1,23 @@
+---
+title: "Kansas Action for Children"
+date: "Spring 2024"
+author: "Withheld"
+description: "Community Data Lab Project"
+toc: true
+---
+
+## Abstract
+
+Kansas Action for Children’s (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students’ findings.
+
+## Project Proposal
+
+{{< pdf CDL_Proposal_KAC.pdf width=800 height=800 >}}
+
+## Project Report
+
+You can access to the project report [Learn more »](report_KAC.html)
+
+## Dataset 
+
+You can access to the dataset used for this project [here](../datasets/dataset_ex1.qmd)

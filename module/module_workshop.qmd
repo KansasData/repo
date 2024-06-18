@@ -1,0 +1,22 @@
+---
+pagetitle: "KDSC | Module - Workshop"
+toc: false
+listing:
+  - id: module_workshop-listings
+    contents: "module_workshop/*.qmd"
+    type: table
+    table-striped: true
+    fields: [title, subtitle, author, description]
+    field-display-names: 
+      title: "Module"
+      subtitle: "Core Competency"
+      description: "Institution"
+    categories: true
+---
+
+# Module Materials
+
+Explore our modules designed to build specific data science skill sets.
+
+::: {module-listings}
+:::

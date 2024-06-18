@@ -1,14 +1,17 @@
 ---
 title: "Intro to Neural Network"
-subtitle: "Model Building"
+subtitle: "Lecture Slide"
 author: "Dr. Fuijan Yan"
 description: "Wichita State University"
-categories: [Lecture Materials]
+categories: [Model Building]
 toc: true
 toc-title: "On this page"
 ---
+
 ## Material Description
+
 This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction.
 
 ## Module Materials
+
 {{< pdf CS896_WSU_NeuralNetwork.pdf width=600 height=400 >}}

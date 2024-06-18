@@ -15,6 +15,7 @@ Depending on the scale of impact, disasters can trigger the flow of Federal Emer
 {{< pdf CDL_Proposal_OpenFEMA.pdf width=800 height=800 >}}
 
 ## Dataset
+
 Description of Data
 
 Explore data [Learn more »](../datasets/dataset_ex1.qmd)

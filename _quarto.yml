@@ -16,10 +16,11 @@ website:
     title: false
     collapse-below: lg
     left:
-      - text: Home
-        file: index.qmd
+      - text: "Home"
+        href: index.qmd
       - sidebar:projects
-      - sidebar:curriculum
+      - text: "Curriculum"
+        href: competency.qmd
     tools:
       - icon: buildings
         menu: 
@@ -45,22 +46,31 @@ website:
         
     - id: curriculum
       title: "Curriculum"
-      style: "docked"
+      collapse-level: 1
       contents:
         - text: "Competency"
           href: competency.qmd
         - text: "Course"
           href: course.qmd
-        - text: "Module"
-          href: module.qmd
+        - section: "Module"
+          contents: 
+            - text: Overview
+              href: module.qmd
+            - text: Lecture Materials
+              href: module/module_lecture.qmd
+            - text: Tutorial Materials
+              href: module/module_tutorial.qmd
+            - text: Workshop/Presentation 
+              href: module/module_workshop.qmd
+        
   
   page-footer:
     left: | 
       Proudly supported by 
-      [![NSF image](NSF.png){width=200}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878)
+      [![NSF image](NSF.png){width=150}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878)
     right: |
     
-      [![](arise_logo.png){width=100}](https://nsfepscor.ku.edu/track-1-arise/)
+      [![](arise_logo.png){width=60}](https://nsfepscor.ku.edu/track-1-arise/)
       
 format:
   html:
