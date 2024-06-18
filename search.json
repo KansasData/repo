@@ -4,7 +4,7 @@
     "href": "project.html",
     "title": "Community Data Lab",
     "section": "",
-    "text": "Data science empowers users to provide data-driven solutions to problems and questions worldwide. Community Data Lab is designed to provide students an opportunity to work on real-world problems that come from local and state governments, health care, education, and small businesses across the state of Kansas.\n\n\nYou can explore project descriptions.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nJan 1, 2023\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items",
+    "text": "Data science empowers users to provide data-driven solutions to problems and questions worldwide. Community Data Lab is designed to provide students an opportunity to work on real-world problems that come from local and state governments, health care, education, and small businesses across the state of Kansas.\n\n\nYou can explore project descriptions.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nJan 1, 2023\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\nJan 1, 2024\n\n\nKansas Action for Children\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Project"
     ]
@@ -14,67 +14,132 @@
     "href": "project.html#projects",
     "title": "Community Data Lab",
     "section": "",
-    "text": "You can explore project descriptions.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nJan 1, 2023\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items",
+    "text": "You can explore project descriptions.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nJan 1, 2023\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\nJan 1, 2024\n\n\nKansas Action for Children\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Project"
     ]
   },
   {
-    "objectID": "project/datasets/dataset_ex1.html",
-    "href": "project/datasets/dataset_ex1.html",
-    "title": "Kansas Action for Children",
+    "objectID": "project/projects/project_FEMA.html",
+    "href": "project/projects/project_FEMA.html",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
     "section": "",
-    "text": "Link to github repository - processed data set (uploaded on github) - raw data set (link to the original provider’s website) - code used for processing the original file - readme file\n\n\n\n Back to top"
+    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
   },
   {
-    "objectID": "people/staff/staff_daiil.html",
-    "href": "people/staff/staff_daiil.html",
-    "title": "Daiil Jun",
+    "objectID": "project/projects/project_FEMA.html#abstract",
+    "href": "project/projects/project_FEMA.html#abstract",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "",
+    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+  },
+  {
+    "objectID": "project/projects/project_FEMA.html#project-proposal",
+    "href": "project/projects/project_FEMA.html#project-proposal",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "Project Proposal",
+    "text": "Project Proposal\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "project/projects/project_FEMA.html#dataset",
+    "href": "project/projects/project_FEMA.html#dataset",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "Dataset",
+    "text": "Dataset\nDescription of Data\nExplore data Learn more »"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "KDSC",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#data-science-faculty",
+    "href": "people.html#data-science-faculty",
+    "title": "KDSC",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "KDSC",
+    "section": "Research staff",
+    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#ad-hoc-steering-committee",
+    "href": "people.html#ad-hoc-steering-committee",
+    "title": "KDSC",
+    "section": "Ad Hoc Steering Committee",
+    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/faculty/faculty_jeff.html",
+    "href": "people/faculty/faculty_jeff.html",
+    "title": "Jeffrey Girard",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "people/adj_committee/committee_xyz.html",
-    "href": "people/adj_committee/committee_xyz.html",
-    "title": "Committee XYZ",
+    "objectID": "module.html",
+    "href": "module.html",
+    "title": "KDSC",
     "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "module/module_workshop.html",
-    "href": "module/module_workshop.html",
-    "title": "Module Materials",
-    "section": "",
-    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nWorkshop example\n\n\nProgramming skills\n\n\nDaiil Jun\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Module Overview\nThis page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.\n\nLecture Materials »\n\n\nTutorial Materials »\n\n\nWorkshop Materials »\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Curriculum",
       "Module",
-      "Workshop/Presentation"
+      "Overview"
     ]
   },
   {
-    "objectID": "module/module_tutorial.html",
-    "href": "module/module_tutorial.html",
-    "title": "Module Materials",
+    "objectID": "module/module_workshop/workshop_ex.html",
+    "href": "module/module_workshop/workshop_ex.html",
+    "title": "Workshop example",
     "section": "",
-    "text": "Module Materials\nExplore our modules related to lecture materials\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nTutorial example\n\n\nProgramming skills\n\n\nDaiil Jun\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
-    "crumbs": [
-      "Curriculum",
-      "Module",
-      "Tutorial Materials"
-    ]
+    "text": "Good example of workshop or presentation materials\nhttps://affcom.ku.edu/posts/mvac2023/\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "module/module_tutorial/tutorial_intro_colab.html",
+    "href": "module/module_tutorial/tutorial_intro_colab.html",
+    "title": "Introduction to Google Colab",
+    "section": "",
+    "text": "You can access this tutorial here\n\n\n\n Back to top"
   },
   {
     "objectID": "module/module_lecture.html",
     "href": "module/module_lecture.html",
     "title": "Module Materials",
     "section": "",
-    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntro to Neural Network\n\n\nModel Building\n\n\nDr. Fuijan Yan\n\n\nWichita State University\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Module Materials\nExplore our modules that can be helpful for building course materials.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nCasuality\n\n\nLecture Slide\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nCasuality Homework\n\n\nHomework Assignment\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nIntro to Neural Network\n\n\nLecture Slide\n\n\nDr. Fuijan Yan\n\n\nWichita State University\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Curriculum",
       "Module",
       "Lecture Materials"
     ]
+  },
+  {
+    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html",
+    "href": "module/module_lecture/ku_dataI_casuality_slide.html",
+    "title": "Casuality",
+    "section": "",
+    "text": "This module is a lecture slide that explains casuality."
+  },
+  {
+    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html#material-description",
+    "href": "module/module_lecture/ku_dataI_casuality_slide.html#material-description",
+    "title": "Casuality",
+    "section": "",
+    "text": "This module is a lecture slide that explains casuality."
+  },
+  {
+    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
+    "href": "module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
+    "title": "Casuality",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here"
   },
   {
     "objectID": "index_original.html",
@@ -308,22 +373,43 @@
     "text": "This website serves as an online repository for data science curriculum materials developed by the ARISE team. Faculty from the KDSC collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.\n\n\nCommunity Data Lab\nThe Community Data Lab serves as a repository where, with the consent of our community partners, we store deidentified data, analysis code, materials, and project reports. This open-source framework is designed for future use in the Community Data Lab and other data science courses, fostering an environment of shared resources and collective learning.\n\nLearn more »\n\n\n\nCurriculum\nOur curriculum encompasses a wide range of data science courses, from introductory classes to advanced machine learning. It includes lecture materials, analysis code, exercises, and datasets, all systematically organized and accessible. This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience.\n\nLearn more »\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "module/module_lecture/wsu_yan_neural_network.html",
-    "href": "module/module_lecture/wsu_yan_neural_network.html",
+    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html",
+    "href": "module/module_lecture/ku_dataI_casuality_hw.html",
+    "title": "Casuality Homework",
+    "section": "",
+    "text": "This module is a hands-on homework assignment that studetns can enhance their understanding of casuality and develop porgramming skills via Google Colab."
+  },
+  {
+    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html#material-description",
+    "href": "module/module_lecture/ku_dataI_casuality_hw.html#material-description",
+    "title": "Casuality Homework",
+    "section": "",
+    "text": "This module is a hands-on homework assignment that studetns can enhance their understanding of casuality and develop porgramming skills via Google Colab."
+  },
+  {
+    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
+    "href": "module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
+    "title": "Casuality Homework",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here"
+  },
+  {
+    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html",
     "title": "Intro to Neural Network",
     "section": "",
     "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
   },
   {
-    "objectID": "module/module_lecture/wsu_yan_neural_network.html#material-description",
-    "href": "module/module_lecture/wsu_yan_neural_network.html#material-description",
+    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
+    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
     "title": "Intro to Neural Network",
     "section": "",
     "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
   },
   {
-    "objectID": "module/module_lecture/wsu_yan_neural_network.html#module-materials",
-    "href": "module/module_lecture/wsu_yan_neural_network.html#module-materials",
+    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
+    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
     "title": "Intro to Neural Network",
     "section": "Module Materials",
     "text": "Module Materials\nUnable to display PDF file. Download instead."
@@ -333,88 +419,86 @@
     "href": "module/module_tutorial/tutorial_ex.html",
     "title": "Tutorial example",
     "section": "",
-    "text": "Good example of tutorial materials\nhttps://affcom.ku.edu/posts/rowwise2023/\n\n\n\n Back to top"
+    "text": "Good example of tutorial materials here\n\n\n\n Back to top"
   },
   {
-    "objectID": "module/module_workshop/workshop_ex.html",
-    "href": "module/module_workshop/workshop_ex.html",
-    "title": "Workshop example",
+    "objectID": "module/module_tutorial.html",
+    "href": "module/module_tutorial.html",
+    "title": "Module Materials",
     "section": "",
-    "text": "Good example of workshop or presentation materials\nhttps://affcom.ku.edu/posts/mvac2023/\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "module.html",
-    "href": "module.html",
-    "title": "KDSC",
-    "section": "",
-    "text": "Module Overview\nThis page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.\n\nLecture Materials »\n\n\nTutorial Materials »\n\n\nWorkshop Materials »\n\n\n\n\n\n Back to top",
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nProgramming skills\n\n\nWithheld \n\n\nUniversity of Kansas\n\n\n\n\nTutorial example\n\n\nProgramming skills\n\n\nJeffrey Girard\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Curriculum",
       "Module",
-      "Overview"
+      "Tutorial Materials"
     ]
   },
   {
-    "objectID": "people/faculty/faculty_jeff.html",
-    "href": "people/faculty/faculty_jeff.html",
-    "title": "Jeffrey Girard",
+    "objectID": "module/module_workshop.html",
+    "href": "module/module_workshop.html",
+    "title": "Module Materials",
+    "section": "",
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nWorkshop example\n\n\nProgramming skills\n\n\nDaiil Jun\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "crumbs": [
+      "Curriculum",
+      "Module",
+      "Workshop/Presentation"
+    ]
+  },
+  {
+    "objectID": "people/adj_committee/committee_xyz.html",
+    "href": "people/adj_committee/committee_xyz.html",
+    "title": "Committee XYZ",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "KDSC",
+    "objectID": "people/staff/staff_daiil.html",
+    "href": "people/staff/staff_daiil.html",
+    "title": "Daiil Jun",
     "section": "",
-    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Back to top"
   },
   {
-    "objectID": "people.html#data-science-faculty",
-    "href": "people.html#data-science-faculty",
-    "title": "KDSC",
+    "objectID": "project/datasets/dataset_ex1.html",
+    "href": "project/datasets/dataset_ex1.html",
+    "title": "Kansas Action for Children",
     "section": "",
-    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Link to github repository - processed data set (uploaded on github) - raw data set (link to the original provider’s website) - code used for processing the original file - readme file\n\n\n\n Back to top"
   },
   {
-    "objectID": "people.html#research-staff",
-    "href": "people.html#research-staff",
-    "title": "KDSC",
-    "section": "Research staff",
-    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#ad-hoc-steering-committee",
-    "href": "people.html#ad-hoc-steering-committee",
-    "title": "KDSC",
-    "section": "Ad Hoc Steering Committee",
-    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "project/projects/project_FEMA.html",
-    "href": "project/projects/project_FEMA.html",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "objectID": "project/projects/project_KAC.html",
+    "href": "project/projects/project_KAC.html",
+    "title": "Kansas Action for Children",
     "section": "",
-    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+    "text": "Kansas Action for Children’s (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students’ findings."
   },
   {
-    "objectID": "project/projects/project_FEMA.html#abstract",
-    "href": "project/projects/project_FEMA.html#abstract",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "objectID": "project/projects/project_KAC.html#abstract",
+    "href": "project/projects/project_KAC.html#abstract",
+    "title": "Kansas Action for Children",
     "section": "",
-    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+    "text": "Kansas Action for Children’s (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students’ findings."
   },
   {
-    "objectID": "project/projects/project_FEMA.html#project-proposal",
-    "href": "project/projects/project_FEMA.html#project-proposal",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "objectID": "project/projects/project_KAC.html#project-proposal",
+    "href": "project/projects/project_KAC.html#project-proposal",
+    "title": "Kansas Action for Children",
     "section": "Project Proposal",
     "text": "Project Proposal\nUnable to display PDF file. Download instead."
   },
   {
-    "objectID": "project/projects/project_FEMA.html#dataset",
-    "href": "project/projects/project_FEMA.html#dataset",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "objectID": "project/projects/project_KAC.html#project-report",
+    "href": "project/projects/project_KAC.html#project-report",
+    "title": "Kansas Action for Children",
+    "section": "Project Report",
+    "text": "Project Report\nYou can access to the project report Learn more »"
+  },
+  {
+    "objectID": "project/projects/project_KAC.html#dataset",
+    "href": "project/projects/project_KAC.html#dataset",
+    "title": "Kansas Action for Children",
     "section": "Dataset",
-    "text": "Dataset\nDescription of Data\nExplore data Learn more »"
+    "text": "Dataset\nYou can access to the dataset used for this project here"
   }
 ]

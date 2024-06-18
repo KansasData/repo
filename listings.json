@@ -2,25 +2,24 @@
   {
     "listing": "/project.html",
     "items": [
-      "/project/projects/project_FEMA.html"
+      "/project/projects/project_FEMA.html",
+      "/project/projects/project_KAC.html"
     ]
   },
   {
-    "listing": "/module/module_workshop.html",
+    "listing": "/people.html",
     "items": [
-      "/module/module_workshop/workshop_ex.html"
-    ]
-  },
-  {
-    "listing": "/module/module_tutorial.html",
-    "items": [
-      "/module/module_tutorial/tutorial_ex.html"
+      "/people/faculty/faculty_jeff.html",
+      "/people/staff/staff_daiil.html",
+      "/people/adj_committee/committee_xyz.html"
     ]
   },
   {
     "listing": "/module/module_lecture.html",
     "items": [
-      "/module/module_lecture/wsu_yan_neural_network.html"
+      "/module/module_lecture/ku_dataI_casuality_slide.html",
+      "/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html"
     ]
   },
   {
@@ -51,11 +50,16 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/module/module_tutorial.html",
     "items": [
-      "/people/faculty/faculty_jeff.html",
-      "/people/staff/staff_daiil.html",
-      "/people/adj_committee/committee_xyz.html"
+      "/module/module_tutorial/tutorial_intro_colab.html",
+      "/module/module_tutorial/tutorial_ex.html"
+    ]
+  },
+  {
+    "listing": "/module/module_workshop.html",
+    "items": [
+      "/module/module_workshop/workshop_ex.html"
     ]
   }
 ]
