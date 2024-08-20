@@ -1,6 +1,6 @@
 ---
 title: "Who Receives FEMA Individual Assistance After Disasters"
-date: "Fall 2023"
+date: "2023"
 author: "Withheld"
 description: "Community Data Lab Project"
 toc: true
@@ -16,6 +16,6 @@ Depending on the scale of impact, disasters can trigger the flow of Federal Emer
 
 ## Dataset
 
-Description of Data
+Datasets include the Individuals and Households Program Valid Registrations (IHP-VR) from OpenFEMA and the Disaster Declarations Summaries also from OpenFEMA.
 
-Explore data [Learn more »](../datasets/dataset_ex1.qmd)
+[Explore Data »](../datasets/dataset_ex1.qmd)

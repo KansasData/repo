@@ -1,7 +1,6 @@
 ---
 pagetitle: "KDSC | Module"
 toc: false
-
 ---
 
 ### Module Overview

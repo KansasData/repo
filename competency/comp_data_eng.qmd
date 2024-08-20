@@ -2,11 +2,12 @@
 title: "Data Engineering"
 image: "data_engineering.jpg"
 ---
-Data engineering focuses on the practical application of data collection and data processing frameworks that are scalable and optimized for performance. This competency involves the architecture of data systems and the management of data flow, which includes data gathering, data storage, and data access. Technologies such as databases, big data frameworks, and cloud services are commonly utilized tools in data engineering.
 
-For data scientists, understanding data engineering is crucial because it enables them to design systems that handle and process large volumes of data efficiently. Efficient data systems help ensure that data analysis tasks can be performed quickly and reliably, allowing organizations to leverage their data effectively and gain competitive advantages.
+Data engineering focuses on the practical applications of data collection and processing frameworks that are scalable and optimized for performance. This competency involves the architecture of data systems and the management of data flow, including gathering, storage, and access. Technologies such as databases, big data frameworks, and cloud services are commonly utilized tools in data engineering.
 
-This repository stores a wide range of materials that people can use to develop their data engineering skills. If you are interested in, please check out our materials! 
+For data scientists, understanding data engineering is crucial because it enables them to design systems that handle and process large volumes of data efficiently. Efficient data systems help ensure that data analysis tasks can be performed quickly and reliably, allowing organizations to leverage their data effectively and gain competitive advantages. Like data mining, data engineering is most important in fields with large and complicated datasets like marketing and finance.
+
+Although plenty of materials will involve some amount of data engineering, several of our modules are designed specifically around building these skills.
 
 ::: Exlplore
 [Explore Materials »](../module.qmd)

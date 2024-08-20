@@ -1,6 +1,6 @@
 ---
 title: "Kansas Action for Children"
-date: "Spring 2024"
+date: "2024"
 author: "Withheld"
 description: "Community Data Lab Project"
 toc: true
@@ -20,4 +20,6 @@ You can access to the project report [Learn more »](report_KAC.html)
 
 ## Dataset 
 
-You can access to the dataset used for this project [here](../datasets/dataset_ex1.qmd)
+Datasets include child care facility status across counties in Kansas state. 
+
+[Explore Data](../datasets/dataset_ex1.qmd)
