@@ -1,0 +1,20 @@
+---
+pagetitle: "KDSC | Module"
+toc: false
+---
+
+### Module Overview
+
+This page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.
+
+::: Lecture-Materials
+[Lecture Materials »](module/module_lecture.qmd)
+:::
+
+::: Tutorial-Materials
+[Tutorial Materials »](module/module_tutorial.qmd)
+:::
+
+::: Workshop-Materials
+[Workshop Materials »](module/module_workshop.qmd)
+:::

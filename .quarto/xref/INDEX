@@ -1,0 +1,296 @@
+{
+  "index.qmd": {
+    "index.html": "4013c484"
+  },
+  "about.qmd": {
+    "about.html": "aad0e773"
+  },
+  "about_us.qmd": {
+    "about_us.html": "303f8dd8"
+  },
+  "curriculum.qmd": {
+    "curriculum.html": "62444a6b"
+  },
+  "data.qmd": {
+    "data.html": "e469fbf8"
+  },
+  "curriculum/Data_I_Duncun_KU.qmd": {
+    "Data_I_Duncun_KU.html": "58f980b0"
+  },
+  "data/projects/projects_ex1.qmd": {
+    "projects_ex1.html": "cf1c0adf"
+  },
+  "data/rawdata/rawdata_ex1.qmd": {
+    "rawdata_ex1.html": "ca4caad7"
+  },
+  "repo/about.qmd": {
+    "about.html": "a19e3764"
+  },
+  "repo/about_us.qmd": {
+    "about_us.html": "eedb7094"
+  },
+  "repo/curriculum/Data_I_Duncun_KU.qmd": {
+    "Data_I_Duncun_KU.html": "9b2b6b05"
+  },
+  "repo/curriculum.qmd": {
+    "curriculum.html": "4fd6e20b"
+  },
+  "repo/data.qmd": {
+    "data.html": "7796ba88"
+  },
+  "repo/index.qmd": {
+    "index.html": "2c7104b7"
+  },
+  "project/projects/projects_ex1.qmd": {
+    "projects_ex1.html": "d16984b0"
+  },
+  "project/rawdata/rawdata_ex1.qmd": {
+    "rawdata_ex1.html": "958aba08"
+  },
+  "project.qmd": {
+    "project.html": "6df8141b"
+  },
+  "dataset.qmd": {
+    "dataset.html": "6aad0234"
+  },
+  "people.qmd": {
+    "people.html": "89734758"
+  },
+  "docs/people.qmd": {
+    "people.html": "dd91586f"
+  },
+  "docs/docs/docs/docs/project/datasets/dataset_ex1.qmd": {
+    "dataset_ex1.html": "887aa283"
+  },
+  "docs/project/datasets/dataset_ex1.qmd": {
+    "dataset_ex1.html": "c201e1e6"
+  },
+  "docs/docs/docs/project/datasets/dataset_ex1.qmd": {
+    "dataset_ex1.html": "aa0a9f71"
+  },
+  "docs/docs/project/datasets/dataset_ex1.qmd": {
+    "dataset_ex1.html": "d2e4fe6f"
+  },
+  "project/datasets/dataset_ex1.qmd": {
+    "dataset_ex1.html": "98fe82d4"
+  },
+  "docs/people/adj_committee/committee_xyz.qmd": {
+    "committee_xyz.html": "2b75ad53"
+  },
+  "docs/people/faculty/faculty_jeff.qmd": {
+    "faculty_jeff.html": "8b4a087d"
+  },
+  "docs/people/staff/staff_daiil.qmd": {
+    "staff_daiil.html": "97a8e703"
+  },
+  "people/adj_committee/committee_xyz.qmd": {
+    "committee_xyz.html": "e630aca3"
+  },
+  "people/faculty/faculty_jeff.qmd": {
+    "faculty_jeff.html": "a246bece"
+  },
+  "people/staff/staff_daiil.qmd": {
+    "staff_daiil.html": "13a28a2d"
+  },
+  "course.qmd": {
+    "course.html": "9aff1b39"
+  },
+  "course/Data_I_Duncun_KU.qmd": {
+    "Data_I_Duncun_KU.html": "c5b1e108"
+  },
+  "curriculum/curri_foundation.qmd": {
+    "curri_foundation.html": "03bf6e41"
+  },
+  "docs/curriculum/curri_foundation.qmd": {
+    "curri_foundation.html": "1d903aea"
+  },
+  "competency/comp_stat_foundation.qmd": {
+    "comp_stat_foundation.html": "08b12ddf"
+  },
+  "competency.qmd": {
+    "competency.html": "82fee3e0"
+  },
+  "competency/comp_data_eng.qmd": {
+    "comp_data_eng.html": "f3f30de9"
+  },
+  "competency/comp_data_mining.qmd": {
+    "comp_data_mining.html": "bffb5a11"
+  },
+  "competency/comp_data_wrangling.qmd": {
+    "comp_data_wrangling.html": "7192ffb3"
+  },
+  "competency/comp_model_build.qmd": {
+    "comp_model_build.html": "564f0412"
+  },
+  "competency/comp_programming.qmd": {
+    "comp_programming.html": "dfc86951"
+  },
+  "project/projects/project_FEMA.qmd": {
+    "project_FEMA.html": "857db8d7"
+  },
+  "course/Data_III_TBD_KU.qmd": {
+    "Data_III_TBD_KU.html": "bd479f7d"
+  },
+  "course/Data_II_TBD_KU.qmd": {
+    "Data_II_TBD_KU.html": "c6111910"
+  },
+  "course/Data_IV_TBD_KU.qmd": {
+    "Data_IV_TBD_KU.html": "2776e6e2"
+  },
+  "course/Data_V_TBD_KU.qmd": {
+    "Data_V_TBD_KU.html": "fd0c7c5b"
+  },
+  "index_original.qmd": {
+    "index_original.html": "7cf44a7e"
+  },
+  "module/wsu_yan_neural_network.qmd": {
+    "wsu_yan_neural_network.html": "6ecb5220"
+  },
+  "module.qmd": {
+    "module.html": "a0a8e23f"
+  },
+  "module/module_blog.qmd": {
+    "module_blog.html": "869ba27c"
+  },
+  "module/module_lecture.qmd": {
+    "module_lecture.html": "60154e65"
+  },
+  "module/module_workshop.qmd": {
+    "module_workshop.html": "50fc9edd"
+  },
+  "module/module_exercise/module_blog.qmd": {
+    "module_blog.html": "064d4678"
+  },
+  "module/module_lecture/module_lecture.qmd": {
+    "module_lecture.html": "65689776"
+  },
+  "module/module_workshop/module_workshop.qmd": {
+    "module_workshop.html": "3f68cb70"
+  },
+  "module/module_lecture/wsu_yan_neural_network.qmd": {
+    "wsu_yan_neural_network.html": "e8bc6281"
+  },
+  "module/module_tutorial/tutorial_ex.qmd": {
+    "tutorial_ex.html": "f3308dca"
+  },
+  "module/module_tutorial.qmd": {
+    "module_tutorial.html": "28ae0c8e"
+  },
+  "module/module_workshop/workshop_ex.qmd": {
+    "workshop_ex.html": "81995246"
+  },
+  "project/projects/project_KAC.qmd": {
+    "project_KAC.html": "e22796fb"
+  },
+  "module/module_lecture/ku_dataI_casuality_hw.qmd": {
+    "ku_dataI_casuality_hw.html": "fcbd558f"
+  },
+  "module/module_lecture/ku_dataI_casuality_slide.qmd": {
+    "ku_dataI_casuality_slide.html": "cf5484f8"
+  },
+  "module/module_lecture/wsu_yan_neuralnetwork_slide.qmd": {
+    "wsu_yan_neuralnetwork_slide.html": "2d6b021a"
+  },
+  "module/module_tutorial/tutorial_intro_colab.qmd": {
+    "tutorial_intro_colab.html": "3b1200bf"
+  },
+  "repo/competency/comp_data_eng.qmd": {
+    "comp_data_eng.html": "003a325d"
+  },
+  "repo/competency/comp_data_mining.qmd": {
+    "comp_data_mining.html": "3305ef91"
+  },
+  "repo/competency/comp_data_wrangling.qmd": {
+    "comp_data_wrangling.html": "5b0d66a2"
+  },
+  "repo/competency/comp_model_build.qmd": {
+    "comp_model_build.html": "c85e3a6d"
+  },
+  "repo/competency/comp_programming.qmd": {
+    "comp_programming.html": "1b05430f"
+  },
+  "repo/competency/comp_stat_foundation.qmd": {
+    "comp_stat_foundation.html": "a956bdc7"
+  },
+  "repo/competency.qmd": {
+    "competency.html": "688497a7"
+  },
+  "repo/course/Data_III_TBD_KU.qmd": {
+    "Data_III_TBD_KU.html": "2e28bd38"
+  },
+  "repo/course/Data_II_TBD_KU.qmd": {
+    "Data_II_TBD_KU.html": "f9d334bc"
+  },
+  "repo/course/Data_IV_TBD_KU.qmd": {
+    "Data_IV_TBD_KU.html": "22e5a844"
+  },
+  "repo/course/Data_I_Duncun_KU.qmd": {
+    "Data_I_Duncun_KU.html": "c7921930"
+  },
+  "repo/course/Data_V_TBD_KU.qmd": {
+    "Data_V_TBD_KU.html": "3043a3d6"
+  },
+  "repo/course.qmd": {
+    "course.html": "16294189"
+  },
+  "repo/dataset.qmd": {
+    "dataset.html": "f10b78ad"
+  },
+  "repo/index_original.qmd": {
+    "index_original.html": "c7130708"
+  },
+  "repo/module/module_lecture/ku_dataI_casuality_hw.qmd": {
+    "ku_dataI_casuality_hw.html": "1b3dc43e"
+  },
+  "repo/module/module_lecture/ku_dataI_casuality_slide.qmd": {
+    "ku_dataI_casuality_slide.html": "b416356c"
+  },
+  "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.qmd": {
+    "wsu_yan_neuralnetwork_slide.html": "5a45ca44"
+  },
+  "repo/module/module_lecture.qmd": {
+    "module_lecture.html": "7e98f996"
+  },
+  "repo/module/module_tutorial/tutorial_ex.qmd": {
+    "tutorial_ex.html": "332f8c23"
+  },
+  "repo/module/module_tutorial/tutorial_intro_colab.qmd": {
+    "tutorial_intro_colab.html": "39ddf4a5"
+  },
+  "repo/module/module_tutorial.qmd": {
+    "module_tutorial.html": "6a4fbf26"
+  },
+  "repo/module/module_workshop/workshop_ex.qmd": {
+    "workshop_ex.html": "224e0e64"
+  },
+  "repo/module/module_workshop.qmd": {
+    "module_workshop.html": "383416e0"
+  },
+  "repo/module.qmd": {
+    "module.html": "79e262b4"
+  },
+  "repo/people/adj_committee/committee_xyz.qmd": {
+    "committee_xyz.html": "9f8a7b2a"
+  },
+  "repo/people/faculty/faculty_jeff.qmd": {
+    "faculty_jeff.html": "4e557873"
+  },
+  "repo/people/staff/staff_daiil.qmd": {
+    "staff_daiil.html": "eb229425"
+  },
+  "repo/people.qmd": {
+    "people.html": "21c53f26"
+  },
+  "repo/project/datasets/dataset_ex1.qmd": {
+    "dataset_ex1.html": "44baa6b8"
+  },
+  "repo/project/projects/project_FEMA.qmd": {
+    "project_FEMA.html": "d2f3d355"
+  },
+  "repo/project/projects/project_KAC.qmd": {
+    "project_KAC.html": "ff69829b"
+  },
+  "repo/project.qmd": {
+    "project.html": "478a0a97"
+  }
+}

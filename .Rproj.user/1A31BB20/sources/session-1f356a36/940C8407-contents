@@ -1,0 +1,14 @@
+---
+title: "Data Mining"
+image: "data_mining.jpg"
+---
+
+Data mining is the process of discovering patterns and knowledge hidden within large amounts of data. The competency involves not just handling data, but also selecting and employing the appropriate methods to extract useful information. Techniques in this area include clustering, classification, association rule mining, and anomaly detection.
+
+For a data scientist, data mining means sifting through massive datasets to find meaningful insights. It’s like being a digital prospector, looking for nuggets of valuable information among the vast expanses of data. This skill is especially useful in environments where data is not only big but also complex, such as in marketing or financial analysis.
+
+Our repository contains a wide range of materials designed to develop data mining skills.
+
+::: Exlplore
+[Explore Materials »](../module.qmd)
+:::

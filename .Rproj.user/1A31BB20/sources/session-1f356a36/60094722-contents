@@ -1,0 +1,31 @@
+---
+pagetitle: "KDSC | Dataset"
+title: "Dataset"
+toc: true
+listing:
+  - id: datasets-listings
+    contents: 
+      - "project/datasets/*.qmd"
+    fields: [date, title, author]
+    field-display-names: 
+      date: "Year"
+      title: "Project"
+      author: "Provider"
+    type: table
+    categories: true
+    sort:
+      - "date"
+      - "title desc"
+    table-hover: true
+---
+
+## Community Data Lab Datasets
+
+Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available.
+
+## Datasets
+
+Our datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section
+
+::: {#datasets-listings}
+:::

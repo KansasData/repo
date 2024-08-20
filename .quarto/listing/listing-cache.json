@@ -1,0 +1,35 @@
+{
+  "listingMap": {
+    "competency.qmd": [
+      "competency/comp_stat_foundation.qmd",
+      "competency/comp_programming.qmd",
+      "competency/comp_data_mining.qmd",
+      "competency/comp_data_wrangling.qmd",
+      "competency/comp_data_eng.qmd",
+      "competency/comp_model_build.qmd"
+    ],
+    "course.qmd": [
+      "course/*.qmd"
+    ],
+    "dataset.qmd": [
+      "project/datasets/*.qmd"
+    ],
+    "module\\module_lecture.qmd": [
+      "module_lecture/*.qmd"
+    ],
+    "module\\module_tutorial.qmd": [
+      "module_tutorial/*.qmd"
+    ],
+    "module\\module_workshop.qmd": [
+      "module_workshop/*.qmd"
+    ],
+    "people.qmd": [
+      "people/faculty/*.qmd",
+      "people/staff/*.qmd",
+      "people/adj_committee/*.qmd"
+    ],
+    "project.qmd": [
+      "project/projects/*.qmd"
+    ]
+  }
+}

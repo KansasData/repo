@@ -1,0 +1,22 @@
+---
+pagetitle: "KDSC | Module - Lecture"
+toc: false
+listing:
+  - id: module_lecture-listings
+    contents: "module_lecture/*.qmd"
+    type: table
+    table-striped: true
+    fields: [title, subtitle, author, description]
+    field-display-names: 
+      title: "Title"
+      subtitle: "Type of Material"
+      description: "Institution"
+    categories: true
+---
+
+# Module Materials
+
+Explore our modules that can be helpful for building course materials.
+
+::: {module-listings}
+:::

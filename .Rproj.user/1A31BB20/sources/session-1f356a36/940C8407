@@ -1,0 +1,32 @@
+{
+    "id": "940C8407",
+    "path": "C:/github/repo/competency/comp_data_mining.qmd",
+    "project_path": "competency/comp_data_mining.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1724196434505.0,
+    "source_on_save": false,
+    "relative_order": 19,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "7,69",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "30:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1724196439,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1724196464826,
+    "read_only": false,
+    "read_only_alternatives": []
+}
