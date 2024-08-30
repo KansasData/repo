@@ -1,0 +1,9 @@
+Program Type,Total Facilities,Total Capacity
+Licensed Day Care Home,1999,19982
+Group Day Care Home,1261,15136
+Preschool,123,2873
+Child Care Center,634,51376
+Head Start Center,47,1765
+School Age Programs for Children and Youth,375,33360
+Drop In Program for School Age Children and Youth,55,10365
+Child Care Resource and Referral Agency,8,N/A
