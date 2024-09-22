@@ -474,7 +474,28 @@
     "href": "project/datasets/dataset_ex1.html",
     "title": "Kansas Action for Children",
     "section": "",
-    "text": "Link to github repository - processed data set (uploaded on github) - raw data set (link to the original provider’s website) - code used for processing the original file - readme file\n\n\n\n Back to top"
+    "text": "You can download the dataset using the link below:\nDownload Dataset"
+  },
+  {
+    "objectID": "project/datasets/dataset_ex1.html#download-the-dataset",
+    "href": "project/datasets/dataset_ex1.html#download-the-dataset",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "You can download the dataset using the link below:\nDownload Dataset"
+  },
+  {
+    "objectID": "project/datasets/dataset_ex1.html#data-description",
+    "href": "project/datasets/dataset_ex1.html#data-description",
+    "title": "Kansas Action for Children",
+    "section": "Data Description",
+    "text": "Data Description\nThe project utilizes a variety of datasets to assess the child care climate in Kansas state. Key data sources include Kansas child care licensing information from the KIDS COUNT Data Center, accessibility data from Child Care Aware of Kansas. This dataset provides a comprehensive landscape of the child care in Kansas from 2017 to 2024. It includes data on various types of child care facilities, including child care centers and licensed family/group homes, as well as their capacities and enrollment figures.\nThe data includes original data source (i.e., PDF file) from the Child Care Aware of Kansas report as well as refined dataset used in the analysis."
+  },
+  {
+    "objectID": "project/datasets/dataset_ex1.html#data-preview",
+    "href": "project/datasets/dataset_ex1.html#data-preview",
+    "title": "Kansas Action for Children",
+    "section": "Data Preview",
+    "text": "Data Preview\n\nKansas care facility trend data from 2017 to 2023\n\n\n\n\n\n\n\n\nChild care facility landscape for Kansas county"
   },
   {
     "objectID": "project/projects/project_KAC.html",

@@ -71,7 +71,12 @@ website:
     right: |
     
       [![](arise_logo.png){width=60}](https://nsfepscor.ku.edu/track-1-arise/)
-      
+    
+    center: |
+      Except where otherwise [noted](https://creativecommons.org/policies/#license) content on this site is licensed under </br> a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/)</br>
+      ![](creative-commons-brands-solid.svg){width=30}
+      ![](creative-commons-by-brands-solid.svg){width=30}
+
 format:
   html:
     theme: cosmo
