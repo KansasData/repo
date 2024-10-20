@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-project','listing-excute','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-partnership','listing-license','listing-toc','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-dataset',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-partnership","listing-year"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -131,7 +131,7 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar docked nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -236,8 +236,7 @@ window.Quarto = {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -250,24 +249,24 @@ window.Quarto = {
 <section id="projects" class="level2">
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
 <p>Each project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.</p>
-<div id="listing-project-listings" class="quarto-listing quarto-listing-container-table">
+<div id="listing-project-listings" class="quarto-listing quarto-listing-container-custom">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
      <select id="listing-project-listings-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-project-listings'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Year - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Year - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Project
+         <option value="listing-title" data-direction="asc">
+          Title
         </option>
          <option value="listing-author" data-direction="asc">
-          Customer
+          Author
+        </option>
+         <option value="listing-partnership" data-direction="asc">
+          Partner
+        </option>
+         <option value="listing-year" data-direction="asc">
+          Year
         </option>
      </select>
   </div>
@@ -276,56 +275,46 @@ window.Quarto = {
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<table class="quarto-listing-table table table-hover">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Year</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Customer</a>
-</th>
-<th>
-Description
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1724197889090" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="173" data-listing-title-sort="Who Receives FEMA Individual Assistance After Disasters" data-listing-filename-sort="project_FEMA.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">Dec 31, 2022</span>
-</td>
-<td>
-<a href="./project/projects/project_FEMA.html" class="title listing-title">Who Receives FEMA Individual Assistance After Disasters</a>
-</td>
-<td>
-<span class="listing-author">Withheld </span>
-</td>
-<td>
-<span class="listing-description">Community Data Lab Project</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1724197889091" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="151" data-listing-title-sort="Kansas Action for Children" data-listing-filename-sort="project_KAC.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">Dec 31, 2023</span>
-</td>
-<td>
-<a href="./project/projects/project_KAC.html" class="title listing-title">Kansas Action for Children</a>
-</td>
-<td>
-<span class="listing-author">Withheld </span>
-</td>
-<td>
-<span class="listing-description">Community Data Lab Project</span>
-</td>
-</tr>
-</tbody>
-</table>
+<ul class="pub-list list">
+
+  <li data-index="0" data-listing-file-modified-sort="1729460192076" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
+    <span class="listing-title lead">Kansas Action for Children</span><br>
+    <span class="listing-author">Withheld </span><br>
+    <span class="listing-partnership fst-italic ">Kansas Action for Children</span>
+    <span class="listing-year">(2024)</span><br>
+    <a href="./project/projects/project_KAC.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      LICESNE
+    </a>
+    
+    
+    <a href="https://kansasdata.github.io/repo/project/datasets/dataset_ex1.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Dataset
+    </a>
+    
+  </li>
+
+  <li data-index="1" data-listing-file-modified-sort="1729460370391" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
+    <span class="listing-title lead">Who Receives FEMA Individual Assistance After Disasters</span><br>
+    <span class="listing-author">Withheld </span><br>
+    <span class="listing-partnership fst-italic ">FEMA</span>
+    <span class="listing-year">(2024)</span><br>
+    <a href="./project/projects/project_FEMA.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      LICESNE
+    </a>
+    
+    
+  </li>
+
+</ul>
+
 <div class="listing-no-matching d-none">
 No matching items
 </div>
