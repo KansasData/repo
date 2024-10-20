@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-excute','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-partnership','listing-license','listing-toc','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-dataset',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-excute','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-partnership','listing-license','listing-toc','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-dataset','listing-code','listing-date','listing-date-modified',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: ["listing-title","listing-author","listing-partnership","listing-year"],
     };
@@ -277,16 +277,39 @@ window.Quarto = {
 </div>
 <ul class="pub-list list">
 
-  <li data-index="0" data-listing-file-modified-sort="1729464198057" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
+  <li data-index="0" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1729465405247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
     <span class="listing-title lead">Kansas Action for Children</span><br>
-    <span class="listing-author">Withheld </span><br>
+    <span class="listing-partnership fst-italic "></span>
+    <span class="listing-year">()</span><br>
+    <a href="./repo/project/projects/project_KAC.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    
+    
+  </li>
+
+  <li data-index="1" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1729465405247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
+    <span class="listing-title lead">Who Receives FEMA Individual Assistance After Disasters</span><br>
+    <span class="listing-partnership fst-italic "></span>
+    <span class="listing-year">()</span><br>
+    <a href="./repo/project/projects/project_FEMA.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    
+    
+  </li>
+
+  <li data-index="2" data-listing-file-modified-sort="1729465373339" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
+    <span class="listing-title lead">Kansas Action for Children</span><br>
     <span class="listing-partnership fst-italic ">Kansas Action for Children</span>
     <span class="listing-year">(2024)</span><br>
     <a href="./project/projects/project_KAC.html" class="btn btn-primary">
       Details
     </a>
     
-    <a href="[object Object],[object Object]" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       License
     </a>
     
@@ -295,11 +318,15 @@ window.Quarto = {
       <i class="bi bi-file-earmark-zip"></i> Dataset
     </a>
     
+    
+    <a href="https://kansasdata.github.io/repo/project/datasets/dataset_ex1.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-code-fill"></i>
+    </a>
+    
   </li>
 
-  <li data-index="1" data-listing-file-modified-sort="1729460778696" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
+  <li data-index="3" data-listing-file-modified-sort="1729460778696" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
     <span class="listing-title lead">Who Receives FEMA Individual Assistance After Disasters</span><br>
-    <span class="listing-author">Withheld </span><br>
     <span class="listing-partnership fst-italic ">FEMA</span>
     <span class="listing-year">(2024)</span><br>
     <a href="./project/projects/project_FEMA.html" class="btn btn-primary">
@@ -309,6 +336,7 @@ window.Quarto = {
     <a href="[CC BY-NC] (https://creativecommons.org/licenses/by-nc/4.0/deed.en)" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       License
     </a>
+    
     
     
   </li>

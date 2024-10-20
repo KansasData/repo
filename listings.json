@@ -1,7 +1,38 @@
 [
   {
+    "listing": "/repo/project.html",
+    "items": [
+      "/repo/project/projects/project_FEMA.html",
+      "/repo/project/projects/project_KAC.html"
+    ]
+  },
+  {
+    "listing": "/repo/people.html",
+    "items": [
+      "/repo/people/faculty/faculty_jeff.html",
+      "/repo/people/staff/staff_daiil.html",
+      "/repo/people/adj_committee/committee_xyz.html"
+    ]
+  },
+  {
+    "listing": "/repo/module/module_lecture.html",
+    "items": [
+      "/repo/module/module_lecture/ku_dataI_casuality_slide.html",
+      "/repo/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html"
+    ]
+  },
+  {
+    "listing": "/repo/dataset.html",
+    "items": [
+      "/repo/project/datasets/dataset_ex1.html"
+    ]
+  },
+  {
     "listing": "/project.html",
     "items": [
+      "/repo/project/projects/project_KAC.html",
+      "/repo/project/projects/project_FEMA.html",
       "/project/projects/project_KAC.html",
       "/project/projects/project_FEMA.html"
     ]
@@ -10,8 +41,11 @@
     "listing": "/people.html",
     "items": [
       "/people/faculty/faculty_jeff.html",
+      "/repo/people/faculty/faculty_jeff.html",
       "/people/staff/staff_daiil.html",
-      "/people/adj_committee/committee_xyz.html"
+      "/repo/people/staff/staff_daiil.html",
+      "/people/adj_committee/committee_xyz.html",
+      "/repo/people/adj_committee/committee_xyz.html"
     ]
   },
   {
@@ -25,6 +59,7 @@
   {
     "listing": "/dataset.html",
     "items": [
+      "/repo/project/datasets/dataset_ex1.html",
       "/project/datasets/dataset_ex1.html"
     ]
   },
@@ -32,21 +67,32 @@
     "listing": "/competency.html",
     "items": [
       "/competency/comp_stat_foundation.html",
+      "/repo/competency/comp_stat_foundation.html",
       "/competency/comp_programming.html",
+      "/repo/competency/comp_programming.html",
       "/competency/comp_data_mining.html",
+      "/repo/competency/comp_data_mining.html",
       "/competency/comp_data_wrangling.html",
+      "/repo/competency/comp_data_wrangling.html",
       "/competency/comp_data_eng.html",
-      "/competency/comp_model_build.html"
+      "/repo/competency/comp_data_eng.html",
+      "/competency/comp_model_build.html",
+      "/repo/competency/comp_model_build.html"
     ]
   },
   {
     "listing": "/course.html",
     "items": [
       "/course/Data_I_Duncun_KU.html",
+      "/repo/course/Data_I_Duncun_KU.html",
       "/course/Data_II_TBD_KU.html",
+      "/repo/course/Data_II_TBD_KU.html",
       "/course/Data_III_TBD_KU.html",
+      "/repo/course/Data_III_TBD_KU.html",
       "/course/Data_IV_TBD_KU.html",
-      "/course/Data_V_TBD_KU.html"
+      "/repo/course/Data_IV_TBD_KU.html",
+      "/course/Data_V_TBD_KU.html",
+      "/repo/course/Data_V_TBD_KU.html"
     ]
   },
   {
@@ -60,6 +106,40 @@
     "listing": "/module/module_workshop.html",
     "items": [
       "/module/module_workshop/workshop_ex.html"
+    ]
+  },
+  {
+    "listing": "/repo/competency.html",
+    "items": [
+      "/repo/competency/comp_stat_foundation.html",
+      "/repo/competency/comp_programming.html",
+      "/repo/competency/comp_data_mining.html",
+      "/repo/competency/comp_data_wrangling.html",
+      "/repo/competency/comp_data_eng.html",
+      "/repo/competency/comp_model_build.html"
+    ]
+  },
+  {
+    "listing": "/repo/course.html",
+    "items": [
+      "/repo/course/Data_I_Duncun_KU.html",
+      "/repo/course/Data_II_TBD_KU.html",
+      "/repo/course/Data_III_TBD_KU.html",
+      "/repo/course/Data_IV_TBD_KU.html",
+      "/repo/course/Data_V_TBD_KU.html"
+    ]
+  },
+  {
+    "listing": "/repo/module/module_tutorial.html",
+    "items": [
+      "/repo/module/module_tutorial/tutorial_intro_colab.html",
+      "/repo/module/module_tutorial/tutorial_ex.html"
+    ]
+  },
+  {
+    "listing": "/repo/module/module_workshop.html",
+    "items": [
+      "/repo/module/module_workshop/workshop_ex.html"
     ]
   }
 ]
