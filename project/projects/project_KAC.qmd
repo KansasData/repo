@@ -4,10 +4,9 @@ type: "project"
 author: "Withheld"
 year: "2024"
 partnership: "Kansas Action for Children"
-license: 
-  - text: "CC BY-NC"
-  - href: https://creativecommons.org/licenses/by-nc/4.0/deed.en 
+license: "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
 dataset: "https://kansasdata.github.io/repo/project/datasets/dataset_ex1.html"
+code: "https://kansasdata.github.io/repo/project/datasets/dataset_ex1.html"
 toc: false
 ---
 

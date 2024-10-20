@@ -4,7 +4,6 @@
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
     <span class="listing-title lead"><%= item.title %></span><br />
-    <span class="listing-author"><%= item.author %></span><br />
     <span class="listing-partnership fst-italic "><%= item.partnership %></span>
     <span class="listing-year">(<%= item.year %>)</span><br />
     <a href="<%- item.path %>" class="btn btn-primary">
@@ -18,6 +17,11 @@
     <% if (item.dataset) { %>
     <a href="<%- item.dataset %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-zip"></i> Dataset
+    </a>
+    <% } %>
+    <% if (item.code) { %>
+    <a href="<%- item.code %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-code-fill"></i>
     </a>
     <% } %>
   </li>
