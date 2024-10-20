@@ -5,17 +5,17 @@ listing:
   - id: project-listings
     contents:
       - "project/projects/*.qmd"
-    fields: [date, title, author, description]
-    field-display-names:
-      date: "Year" 
-      title: "Project"
-      author: "Customer"
-    type: table
-    categories: true
+    template: ./ejs/project.ejs
+    categories: false
     sort:
-      - "date"
-      - "title desc"
-    table-hover: true
+      - "year desc"
+      - "title"
+    sort-ui: [title,author,partnership,year]
+    filter-ui: [title,author,partnership,year]
+    field-display-names: 
+      partnership: "Partner"
+      year: "Year"
+      
 ---
 
 # Community Data Lab Projects
@@ -24,7 +24,7 @@ Community Data Labs are specially-structured classes devoted to independent, sma
 
 ## Projects
 
-Each project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.
+Each project contains a proposal - a document describing background information, the current problem, and desired inquiries -- in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.
 
 ::: {#project-listings}
 :::
