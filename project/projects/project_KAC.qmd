@@ -1,6 +1,6 @@
 ---
 title: "Kansas Action for Children"
-type: "project"
+type: "article"
 author: "Withheld"
 year: "2024"
 partnership: "Kansas Action for Children"

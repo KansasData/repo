@@ -1,10 +1,234 @@
 [
   {
+    "objectID": "repo/project.html",
+    "href": "repo/project.html",
+    "title": "Community Data Lab Projects",
+    "section": "",
+    "text": "Community Data Labs are specially-structured classes devoted to independent, small group inquiry focused on real-world projects provided by our Community Partners. These partners are businesses, government agencies, non-profits, and other organizations who have agreed to contribute a problem and related dataset. With the consent of our partners, some of these projects and datasets have been made available for public access.\n\n\nEach project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nDec 31, 2022\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\nDec 31, 2023\n\n\nKansas Action for Children\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/project.html#projects",
+    "href": "repo/project.html#projects",
+    "title": "Community Data Lab Projects",
+    "section": "",
+    "text": "Each project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Customer\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nCustomer\n\n\nDescription\n\n\n\n\n\n\nDec 31, 2022\n\n\nWho Receives FEMA Individual Assistance After Disasters\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\nDec 31, 2023\n\n\nKansas Action for Children\n\n\nWithheld \n\n\nCommunity Data Lab Project\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/project/projects/project_FEMA.html",
+    "href": "repo/project/projects/project_FEMA.html",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "",
+    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+  },
+  {
+    "objectID": "repo/project/projects/project_FEMA.html#abstract",
+    "href": "repo/project/projects/project_FEMA.html#abstract",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "",
+    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+  },
+  {
+    "objectID": "repo/project/projects/project_FEMA.html#project-proposal",
+    "href": "repo/project/projects/project_FEMA.html#project-proposal",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "Project Proposal",
+    "text": "Project Proposal\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/project/projects/project_FEMA.html#dataset",
+    "href": "repo/project/projects/project_FEMA.html#dataset",
+    "title": "Who Receives FEMA Individual Assistance After Disasters",
+    "section": "Dataset",
+    "text": "Dataset\nDatasets include the Individuals and Households Program Valid Registrations (IHP-VR) from OpenFEMA and the Disaster Declarations Summaries also from OpenFEMA.\nExplore Data »"
+  },
+  {
+    "objectID": "repo/people.html",
+    "href": "repo/people.html",
+    "title": "KDSC",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/people.html#data-science-faculty",
+    "href": "repo/people.html#data-science-faculty",
+    "title": "KDSC",
+    "section": "",
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/people.html#research-staff",
+    "href": "repo/people.html#research-staff",
+    "title": "KDSC",
+    "section": "Research staff",
+    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/people.html#ad-hoc-steering-committee",
+    "href": "repo/people.html#ad-hoc-steering-committee",
+    "title": "KDSC",
+    "section": "Ad Hoc Steering Committee",
+    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/people/faculty/faculty_jeff.html",
+    "href": "repo/people/faculty/faculty_jeff.html",
+    "title": "Jeffrey Girard",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "repo/module.html",
+    "href": "repo/module.html",
+    "title": "KDSC",
+    "section": "",
+    "text": "Module Overview\nThis page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.\n\nLecture Materials »\n\n\nTutorial Materials »\n\n\nWorkshop Materials »\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_workshop/workshop_ex.html",
+    "href": "repo/module/module_workshop/workshop_ex.html",
+    "title": "Workshop example",
+    "section": "",
+    "text": "Good example of workshop or presentation materials\nhttps://affcom.ku.edu/posts/mvac2023/\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_tutorial/tutorial_intro_colab.html",
+    "href": "repo/module/module_tutorial/tutorial_intro_colab.html",
+    "title": "Introduction to Google Colab",
+    "section": "",
+    "text": "You can access this tutorial here\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_lecture.html",
+    "href": "repo/module/module_lecture.html",
+    "title": "Module Materials",
+    "section": "",
+    "text": "Module Materials\nExplore our modules that can be helpful for building course materials.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nCasuality\n\n\nLecture Slide\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nCasuality Homework\n\n\nHomework Assignment\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nIntro to Neural Network\n\n\nLecture Slide\n\n\nDr. Fuijan Yan\n\n\nWichita State University\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_lecture/ku_dataI_casuality_slide.html",
+    "href": "repo/module/module_lecture/ku_dataI_casuality_slide.html",
+    "title": "Casuality",
+    "section": "",
+    "text": "This module is a lecture slide that explains casuality."
+  },
+  {
+    "objectID": "repo/module/module_lecture/ku_dataI_casuality_slide.html#material-description",
+    "href": "repo/module/module_lecture/ku_dataI_casuality_slide.html#material-description",
+    "title": "Casuality",
+    "section": "",
+    "text": "This module is a lecture slide that explains casuality."
+  },
+  {
+    "objectID": "repo/module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
+    "href": "repo/module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
+    "title": "Casuality",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here"
+  },
+  {
+    "objectID": "repo/index_original.html",
+    "href": "repo/index_original.html",
+    "title": "Welcome to ARISE’s Repository",
+    "section": "",
+    "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\n\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.  \n\nLearn more »\n\n\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\nA unique aspect of the KDSC is that its network of community partners can provide feedback on the material to help tune the coursework to the needs of the state. Over the course of the project, the KDSC expands access to the open-source framework including other schools and K-12 programs.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/dataset.html",
+    "href": "repo/dataset.html",
+    "title": "Dataset",
+    "section": "",
+    "text": "Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available."
+  },
+  {
+    "objectID": "repo/dataset.html#community-data-lab-datasets",
+    "href": "repo/dataset.html#community-data-lab-datasets",
+    "title": "Dataset",
+    "section": "",
+    "text": "Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available."
+  },
+  {
+    "objectID": "repo/dataset.html#datasets",
+    "href": "repo/dataset.html#datasets",
+    "title": "Dataset",
+    "section": "Datasets",
+    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Provider\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nProvider\n\n\n\n\n\n\nDec 31, 2023\n\n\nKansas Action for Children\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "repo/course/Data_V_TBD_KU.html",
+    "href": "repo/course/Data_V_TBD_KU.html",
+    "title": "Data V",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_V_TBD_KU.html#description",
+    "href": "repo/course/Data_V_TBD_KU.html#description",
+    "title": "Data V",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_IV_TBD_KU.html",
+    "href": "repo/course/Data_IV_TBD_KU.html",
+    "title": "Data IV",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_IV_TBD_KU.html#description",
+    "href": "repo/course/Data_IV_TBD_KU.html#description",
+    "title": "Data IV",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_III_TBD_KU.html",
+    "href": "repo/course/Data_III_TBD_KU.html",
+    "title": "Data III",
+    "section": "",
+    "text": "Course description.\npdf to be uploaded"
+  },
+  {
+    "objectID": "repo/course/Data_III_TBD_KU.html#description",
+    "href": "repo/course/Data_III_TBD_KU.html#description",
+    "title": "Data III",
+    "section": "",
+    "text": "Course description.\npdf to be uploaded"
+  },
+  {
+    "objectID": "repo/competency/comp_stat_foundation.html",
+    "href": "repo/competency/comp_stat_foundation.html",
+    "title": "Statistical Foundation",
+    "section": "",
+    "text": "Statistical reasoning is the framework in which data science is enacted. Having the context and logic of statistics allows data scientists to collect, analyze, and interpret data effectively. This competency includes knowledge of statistical tests, probability, regression analysis, and hypothesis testing.Strong statistical foundations help with making informed decisions based on the data, identifying trends, and predicting future outcomes.\nIn practice, a data scientist uses statistical methods to make sense of large datasets and to determine the reliability of the conclusions drawn from the data. For example, data scientists might use statistics to evaluate whether a difference in air quality between two regions is more affiliated with differences in nearby pollutants or nearby plant life. This is crucial in fields ranging from business to public health, where strategic decisions, particularly the allocation of limited resources, are often based on data analysis.\nOur repository prioritizes curriculum materials which employ and develop foundational statistic skills. Modules which involve statistical foundations can be combined with other educational materials to embellish coursework and may mesh particularly well with courses which are already covering statistics.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/competency/comp_model_build.html",
+    "href": "repo/competency/comp_model_build.html",
+    "title": "Model Building",
+    "section": "",
+    "text": "Model building involves creating data-driven models to understand data relationships or to perform predictive analysis. This competency requires an understanding of the algorithms used in modeling and the ability to apply them appropriately. Common tasks include selecting the right model, training the model with data, testing it, and refining it to improve accuracy.\nIn practical terms, model building allows data scientists to forecast future trends, classify data, and make decisions based on data predictions. It is a core component of many data science applications, such as risk management, algorithmic trading, and customer behavior prediction. Effective model building depends on technical skills and on a deep understanding of the problem domain to ensure that the models are both accurate and relevant.\nModel building relies on the confluence of all competencies. Materials from our repository which are designed to develop model building skills can be combined with other coursework to enrich the experience.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/competency/comp_data_mining.html",
+    "href": "repo/competency/comp_data_mining.html",
+    "title": "Data Mining",
+    "section": "",
+    "text": "Data mining is the process of discovering patterns and knowledge hidden within large amounts of data. The competency involves not just handling data, but also selecting and employing the appropriate methods to extract useful information. Techniques in this area include clustering, classification, association rule mining, and anomaly detection.\nFor a data scientist, data mining means sifting through massive datasets to find meaningful insights. It’s like being a digital prospector, looking for nuggets of valuable information among the vast expanses of data. This skill is especially useful in environments where data is not only big but also complex, such as in marketing or financial analysis.\nOur repository contains a wide range of materials designed to develop data mining skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/about_us.html",
+    "href": "repo/about_us.html",
+    "title": "We are KDSC",
+    "section": "",
+    "text": "We are KDSC\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Community Data Lab Projects",
     "section": "",
-    "text": "Community Data Labs are specially-structured classes devoted to independent, small group inquiry focused on real-world projects provided by our Community Partners. These partners are businesses, government agencies, non-profits, and other organizations who have agreed to contribute a problem and related dataset. With the consent of our partners, some of these projects and datasets have been made available for public access.\n\n\nEach project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Partner\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Kansas Action for Children\n    Withheld \n    Kansas Action for Children\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n    \n       Dataset\n    \n    \n  \n\n  \n    Who Receives FEMA Individual Assistance After Disasters\n    Withheld \n    FEMA\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n  \n\n\n\n\nNo matching items",
+    "text": "Community Data Labs are specially-structured classes devoted to independent, small group inquiry focused on real-world projects provided by our Community Partners. These partners are businesses, government agencies, non-profits, and other organizations who have agreed to contribute a problem and related dataset. With the consent of our partners, some of these projects and datasets have been made available for public access.\n\n\nEach project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Partner\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Kansas Action for Children\n    \n    ()\n    \n      Details\n    \n    \n    \n    \n  \n\n  \n    Who Receives FEMA Individual Assistance After Disasters\n    \n    ()\n    \n      Details\n    \n    \n    \n    \n  \n\n  \n    Kansas Action for Children\n    Kansas Action for Children\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n    \n       Dataset\n    \n    \n    \n    \n      \n    \n    \n  \n\n  \n    Who Receives FEMA Individual Assistance After Disasters\n    FEMA\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items",
     "crumbs": [
       "Project"
     ]
@@ -14,7 +238,7 @@
     "href": "project.html#projects",
     "title": "Community Data Lab Projects",
     "section": "",
-    "text": "Each project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Partner\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Kansas Action for Children\n    Withheld \n    Kansas Action for Children\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n    \n       Dataset\n    \n    \n  \n\n  \n    Who Receives FEMA Individual Assistance After Disasters\n    Withheld \n    FEMA\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n  \n\n\n\n\nNo matching items",
+    "text": "Each project contains a proposal - a document describing background information, the current problem, and desired inquiries – in addition to relevant datasets. Projects may also contain sample code, visualizations, reports, and analyses.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Partner\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Kansas Action for Children\n    \n    ()\n    \n      Details\n    \n    \n    \n    \n  \n\n  \n    Who Receives FEMA Individual Assistance After Disasters\n    \n    ()\n    \n      Details\n    \n    \n    \n    \n  \n\n  \n    Kansas Action for Children\n    Kansas Action for Children\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n    \n       Dataset\n    \n    \n    \n    \n      \n    \n    \n  \n\n  \n    Who Receives FEMA Individual Assistance After Disasters\n    FEMA\n    (2024)\n    \n      Details\n    \n    \n    \n      License\n    \n    \n    \n    \n  \n\n\n\n\nNo matching items",
     "crumbs": [
       "Project"
     ]
@@ -52,28 +276,28 @@
     "href": "people.html",
     "title": "KDSC",
     "section": "",
-    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#data-science-faculty",
     "href": "people.html#data-science-faculty",
     "title": "KDSC",
     "section": "",
-    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This will be a listing - card\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#research-staff",
     "href": "people.html#research-staff",
     "title": "KDSC",
     "section": "Research staff",
-    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research staff\nreserach staff, graduate students\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\n\n\n\n\nDaiil Jun\n\n\nGraduate Research Assistant\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#ad-hoc-steering-committee",
     "href": "people.html#ad-hoc-steering-committee",
     "title": "KDSC",
     "section": "Ad Hoc Steering Committee",
-    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
+    "text": "Ad Hoc Steering Committee\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\nCommittee XYZ\n\n\nDepartment of Music\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/faculty/faculty_jeff.html",
@@ -173,7 +397,7 @@
     "href": "dataset.html#datasets",
     "title": "Dataset",
     "section": "Datasets",
-    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Provider\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nProvider\n\n\n\n\n\n\nMay 1, 2024\n\n\nKansas Action for Children\n\n\nCommunity Provided\n\n\n\n\n\nNo matching items",
+    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Provider\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nProvider\n\n\n\n\n\n\nDec 31, 2023\n\n\nKansas Action for Children\n\n\n \n\n\n\n\nMay 1, 2024\n\n\nKansas Action for Children\n\n\nCommunity Provided\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Dataset"
     ]
@@ -281,7 +505,7 @@
     "href": "competency.html",
     "title": "Data Science Competency",
     "section": "",
-    "text": "Data Science Competency\nData science competencies encompass a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, data science requires a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, and play a pivotal role in guiding strategic business moves and optimizing processes.\nThis repository is organized around these six competencies. Each category contains modules which pertain to specific skill-building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Data Science Competency\nData science competencies encompass a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, data science requires a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, and play a pivotal role in guiding strategic business moves and optimizing processes.\nThis repository is organized around these six competencies. Each category contains modules which pertain to specific skill-building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Curriculum",
       "Competency"
@@ -369,7 +593,7 @@
     "href": "course.html",
     "title": "Course Materials",
     "section": "",
-    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Curriculum",
       "Course"
@@ -528,6 +752,251 @@
   {
     "objectID": "project/projects/project_KAC.html#dataset",
     "href": "project/projects/project_KAC.html#dataset",
+    "title": "Kansas Action for Children",
+    "section": "Dataset",
+    "text": "Dataset\nDatasets include child care facility status across counties in Kansas state.\nExplore Data"
+  },
+  {
+    "objectID": "repo/about.html",
+    "href": "repo/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/competency/comp_data_eng.html",
+    "href": "repo/competency/comp_data_eng.html",
+    "title": "Data Engineering",
+    "section": "",
+    "text": "Data engineering focuses on the practical applications of data collection and processing frameworks that are scalable and optimized for performance. This competency involves the architecture of data systems and the management of data flow, including gathering, storage, and access. Technologies such as databases, big data frameworks, and cloud services are commonly utilized tools in data engineering.\nFor data scientists, understanding data engineering is crucial because it enables them to design systems that handle and process large volumes of data efficiently. Efficient data systems help ensure that data analysis tasks can be performed quickly and reliably, allowing organizations to leverage their data effectively and gain competitive advantages. Like data mining, data engineering is most important in fields with large and complicated datasets like marketing and finance.\nAlthough plenty of materials will involve some amount of data engineering, several of our modules are designed specifically around building these skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/competency/comp_data_wrangling.html",
+    "href": "repo/competency/comp_data_wrangling.html",
+    "title": "Data Wrangling",
+    "section": "",
+    "text": "Data wrangling, also known as data cleaning or munging, involves transforming and mapping raw data into more usable formats. This competency is critical because data often comes from various sources and may not be in a form suitable for analysis. Data wrangling includes dealing with missing values, correcting errors, and standardizing formatting.\nData scientists spend a significant amount of time in the data wrangling phase, ensuring that the data is accurate and well-prepared for analysis. This step is crucial because the quality of data directly affects the accuracy of the analysis and predictions. Good data wrangling practices lead to reliable data insights, which are essential for any analytical project.\nOur repository contains an array of materials which are designed to train and develop data wrangling skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/competency/comp_programming.html",
+    "href": "repo/competency/comp_programming.html",
+    "title": "Programming Skills",
+    "section": "",
+    "text": "Programming skills are the building blocks of data science. These skills involve the ability to write and understand code, primarily in languages such as Python, R, or SQL. Programming allows data scientists to interact with data, perform tasks, create automations, and implement algorithms that help in analyzing and interpreting data.\nBasic programming skills are vital to modern data science because they are the method through which all data science is performed. Advanced programming skills enable data scientists to be versatile and innovative in solving problems. They can write scripts to automate repetitive tasks, develop models to make predictions, or create interactive data visualizations. This competency is indispensable to all fields which rely on data science to turn raw data into actionable insights.\nOur repository contains materials which utilize and improve programming skills. Although most modules will interact with programming, some are specifically designed around building this competency.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/competency.html",
+    "href": "repo/competency.html",
+    "title": "Data Science Competency",
+    "section": "",
+    "text": "Data Science Competency\nData science competencies encompass a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, data science requires a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, and play a pivotal role in guiding strategic business moves and optimizing processes.\nThis repository is organized around these six competencies. Each category contains modules which pertain to specific skill-building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "repo/course/Data_II_TBD_KU.html",
+    "href": "repo/course/Data_II_TBD_KU.html",
+    "title": "Data II",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_II_TBD_KU.html#description",
+    "href": "repo/course/Data_II_TBD_KU.html#description",
+    "title": "Data II",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html",
+    "href": "repo/course/Data_I_Duncun_KU.html",
+    "title": "Data I",
+    "section": "",
+    "text": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and sys- tems to derive knowledge and insights from data. This course teaches students the critical concepts of inference and computing, working with real behavioral, economic, geographic, physical, social, and text data. Students obtain basic statistics training from a computational perspective using simulation to answer questions, explore problems, and delve into social issues surrounding data analysis such as privacy and design."
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#course-description",
+    "href": "repo/course/Data_I_Duncun_KU.html#course-description",
+    "title": "Data I",
+    "section": "",
+    "text": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and sys- tems to derive knowledge and insights from data. This course teaches students the critical concepts of inference and computing, working with real behavioral, economic, geographic, physical, social, and text data. Students obtain basic statistics training from a computational perspective using simulation to answer questions, explore problems, and delve into social issues surrounding data analysis such as privacy and design."
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#course-objective",
+    "href": "repo/course/Data_I_Duncun_KU.html#course-objective",
+    "title": "Data I",
+    "section": "Course Objective",
+    "text": "Course Objective\nUpon successful completion of this course, students will be able to: - Have learned the basic concepts and skills of data science. – Work with data from multiple sources and identify relevant questions. – Understand and process data and organize information. – Analyze data by identifying and applying statistical methods. – Visualize and communicate data. – Translate results into solutions and communicate findings in a way that positively affects policy or organizational decisions. - Become familiar with the programming language of Python, particularly in the use of data science and statistical modeling.\nPrerequisite: NONE"
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#syllabus",
+    "href": "repo/course/Data_I_Duncun_KU.html#syllabus",
+    "title": "Data I",
+    "section": "Syllabus",
+    "text": "Syllabus\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#lecture",
+    "href": "repo/course/Data_I_Duncun_KU.html#lecture",
+    "title": "Data I",
+    "section": "Lecture",
+    "text": "Lecture\nLecture 1: Introduction Click!\nLecture 2: Causality Click!\nLecture 3: Introduction to Tables and Data Types Click!\nLecture 4:Arrays & Ranges Click!\nLecture 5: Creating Tables Click!\nLecture 6: Data Visualization Click!\nLecture 7: Functions Click!\nLecture 8: Groups, Pivots and Joins Click!\nLecture 9: Iteration, Sampling, and Chance Click!\nLecture 10: Probability & Samples Click!\nLecture 11: Models and Assessing Models Part 1 Click! Part 2 Click!\nLecture 12: Decisions under Uncertainty Click!\nLecture 13: Causality and A/B Testing Click!\nLecture 14: Estimation and Confidence Click!\nLecture 15: Center. Spread, and Normal Distribution Click!\nLecture 16: Sampling Variability Click!\nLecture 17: Correlation Click!\nLecture 18: Regression Click!\nLecture 19: Regression Inference Click!\nLecture 20: Classification Click!"
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#in-class-activity",
+    "href": "repo/course/Data_I_Duncun_KU.html#in-class-activity",
+    "title": "Data I",
+    "section": "In-Class Activity",
+    "text": "In-Class Activity\nLab 1: Introduction Click!\nLab 2: Table Operations Click!\nLab 3: Data Types and Arrays Click!\nLab 4: Functions and Visualizations Click!\nLab 5: Simulations Click!\nLab 6: Assessing Models Click!\nLab 7: Crime and Penalty Click!\nLab 8: Normal Distribution and Variance of Sample Means Click!\nLab 9: Correlation and Regression Click!\nLab 10: Classification Click!"
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#assignment",
+    "href": "repo/course/Data_I_Duncun_KU.html#assignment",
+    "title": "Data I",
+    "section": "Assignment",
+    "text": "Assignment\nHomework Assignment 1: Causality Click!\nHomework Assignment 2: Arrays and Tables Click!\nHomework Assignment 3: Table Manipulation and Visualization Click!\nHomework Assignment 4: Functions, Histograms, and Groups Click!\nHomework Assignment 5: Functions, Iterations Click!\nHomework Assignment 6: Probability, Simulation, Estimation, Assessing Models Click!\nHomework Assignment 7: Testing Hypotheses Click!\nHomework Assignment 8: Confidence Intervals Click\nHomework Assignment 9: Bootstrap, Resampling, CLT Click!\nHomework Assignment 10: Linear Regression Click!\nHomework Assignment 11: Regression Inference Click!"
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#data",
+    "href": "repo/course/Data_I_Duncun_KU.html#data",
+    "title": "Data I",
+    "section": "Data",
+    "text": "Data\nTBD"
+  },
+  {
+    "objectID": "repo/course/Data_I_Duncun_KU.html#resources",
+    "href": "repo/course/Data_I_Duncun_KU.html#resources",
+    "title": "Data I",
+    "section": "Resources",
+    "text": "Resources\n\nTextbook\nTextbook: Computational and Inferential Thinking: The Foundations of Data Science\n\n\nGoogle Colab\nHomework Assignments and Data Lab use Google Colab"
+  },
+  {
+    "objectID": "repo/course.html",
+    "href": "repo/course.html",
+    "title": "Course Materials",
+    "section": "",
+    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "repo/index.html",
+    "href": "repo/index.html",
+    "title": "Welcome to KDSC’s Repository",
+    "section": "",
+    "text": "This website serves as an online repository for data science curriculum materials developed by the Kansas Data Science Consortium KDSC team. Faculty from our educational partners collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.\n\n\nProjects\nThe Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, analysis code, materials, and project reports from previous semesters. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.\n\nProjects »\n\n\n\nCurriculum\nOur curriculum repository contains content from a wide range of data science courses- from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets, all systematically organized . This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience. Our modules can be implemented in data science education settings to enrich and expand students’ understanding.\n\nCurriculum Repository »\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_lecture/ku_dataI_casuality_hw.html",
+    "href": "repo/module/module_lecture/ku_dataI_casuality_hw.html",
+    "title": "Casuality Homework",
+    "section": "",
+    "text": "This module is a hands-on homework assignment that studetns can enhance their understanding of casuality and develop porgramming skills via Google Colab."
+  },
+  {
+    "objectID": "repo/module/module_lecture/ku_dataI_casuality_hw.html#material-description",
+    "href": "repo/module/module_lecture/ku_dataI_casuality_hw.html#material-description",
+    "title": "Casuality Homework",
+    "section": "",
+    "text": "This module is a hands-on homework assignment that studetns can enhance their understanding of casuality and develop porgramming skills via Google Colab."
+  },
+  {
+    "objectID": "repo/module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
+    "href": "repo/module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
+    "title": "Casuality Homework",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here"
+  },
+  {
+    "objectID": "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+    "href": "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+    "title": "Intro to Neural Network",
+    "section": "",
+    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
+  },
+  {
+    "objectID": "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
+    "href": "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
+    "title": "Intro to Neural Network",
+    "section": "",
+    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
+  },
+  {
+    "objectID": "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
+    "href": "repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
+    "title": "Intro to Neural Network",
+    "section": "Module Materials",
+    "text": "Module Materials\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/module/module_tutorial/tutorial_ex.html",
+    "href": "repo/module/module_tutorial/tutorial_ex.html",
+    "title": "Tutorial example",
+    "section": "",
+    "text": "Good example of tutorial materials here\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_tutorial.html",
+    "href": "repo/module/module_tutorial.html",
+    "title": "Module Materials",
+    "section": "",
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nHands-on Practice\n\n\nWithheld \n\n\nUniversity of Kansas\n\n\n\n\nTutorial example\n\n\nTeaching\n\n\nJeffrey Girard\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "repo/module/module_workshop.html",
+    "href": "repo/module/module_workshop.html",
+    "title": "Module Materials",
+    "section": "",
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nCore Competency\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nWorkshop example\n\n\nProgramming skills\n\n\nDaiil Jun\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "repo/people/adj_committee/committee_xyz.html",
+    "href": "repo/people/adj_committee/committee_xyz.html",
+    "title": "Committee XYZ",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "repo/people/staff/staff_daiil.html",
+    "href": "repo/people/staff/staff_daiil.html",
+    "title": "Daiil Jun",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "repo/project/datasets/dataset_ex1.html",
+    "href": "repo/project/datasets/dataset_ex1.html",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Link to github repository - processed data set (uploaded on github) - raw data set (link to the original provider’s website) - code used for processing the original file - readme file\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "repo/project/projects/project_KAC.html",
+    "href": "repo/project/projects/project_KAC.html",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Kansas Action for Children’s (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students’ findings."
+  },
+  {
+    "objectID": "repo/project/projects/project_KAC.html#abstract",
+    "href": "repo/project/projects/project_KAC.html#abstract",
+    "title": "Kansas Action for Children",
+    "section": "",
+    "text": "Kansas Action for Children’s (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students’ findings."
+  },
+  {
+    "objectID": "repo/project/projects/project_KAC.html#project-proposal",
+    "href": "repo/project/projects/project_KAC.html#project-proposal",
+    "title": "Kansas Action for Children",
+    "section": "Project Proposal",
+    "text": "Project Proposal\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "repo/project/projects/project_KAC.html#project-report",
+    "href": "repo/project/projects/project_KAC.html#project-report",
+    "title": "Kansas Action for Children",
+    "section": "Project Report",
+    "text": "Project Report\nYou can access to the project report Learn more »"
+  },
+  {
+    "objectID": "repo/project/projects/project_KAC.html#dataset",
+    "href": "repo/project/projects/project_KAC.html#dataset",
     "title": "Kansas Action for Children",
     "section": "Dataset",
     "text": "Dataset\nDatasets include child care facility status across counties in Kansas state.\nExplore Data"
