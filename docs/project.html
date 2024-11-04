@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-excute','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-partnership','listing-license','listing-toc','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-dataset','listing-code',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-excute','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-type','listing-author','listing-year','listing-partnership','listing-license','listing-toc','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-licenseType','listing-dataset',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-partnership","listing-year"],
+      searchColumns: ["listing-title","listing-partnership","listing-year"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -259,9 +259,6 @@ window.Quarto = {
          <option value="listing-title" data-direction="asc">
           Title
         </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
          <option value="listing-partnership" data-direction="asc">
           Partner
         </option>
@@ -275,29 +272,31 @@ window.Quarto = {
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<ul class="pub-list list">
+<ul class="p-list list">
 
-  <li data-index="0" data-listing-file-modified-sort="1730727593670" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+  <li data-index="0" data-listing-file-modified-sort="1730730026899" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
     <span class="listing-title lead">Kansas Action for Children</span><br>
     <span class="listing-partnership fst-italic ">Kansas Action for Children</span>
     <span class="listing-year">(2024)</span><br>
+    
+    <div class="d-flex justify-content-between align-items-center quarto-title-meta">
+      <span class="listing-partnership fst-italic">Kansas Action for Children</span>
+      
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" class="listing-license fst-italic" target="_blank" rel="noopener noreferrer">
+          CC-BY NC
+        </a>
+      
+    </div>
+    
     <a href="./project/projects/project_KAC.html" class="btn btn-primary">
       Details
     </a>
     
-    <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      License
+    <a href="https://kansasdata.github.io/repo/project/datasets/data_KAC.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> 
+      Dataset
     </a>
     
-    
-    <a href="https://kansasdata.github.io/repo/project/datasets/dataset_ex1.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Dataset
-    </a>
-    
-    
-    <a href="https://kansasdata.github.io/repo/project/datasets/dataset_ex1.html" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-code-fill"></i> Code
-    </a>
     
   </li>
 
@@ -305,14 +304,15 @@ window.Quarto = {
     <span class="listing-title lead">Who Receives FEMA Individual Assistance After Disasters</span><br>
     <span class="listing-partnership fst-italic ">FEMA</span>
     <span class="listing-year">(2024)</span><br>
+    
+    <div class="d-flex justify-content-between align-items-center quarto-title-meta">
+      <span class="listing-partnership fst-italic">FEMA</span>
+      
+    </div>
+    
     <a href="./project/projects/project_FEMA.html" class="btn btn-primary">
       Details
     </a>
-    
-    <a href="[CC BY-NC] (https://creativecommons.org/licenses/by-nc/4.0/deed.en)" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      License
-    </a>
-    
     
     
   </li>
