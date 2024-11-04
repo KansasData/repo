@@ -1,10 +1,9 @@
 ---
 title: "Who Receives FEMA Individual Assistance After Disasters"
-type: "project"
-author: "Withheld"
-year: "2024"
 partnership: "FEMA"
-license: "[CC BY-NC] (https://creativecommons.org/licenses/by-nc/4.0/deed.en)"
+license: "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+licenseType: "CC-BY NC"
+year: "2024"
 toc: false
 ---
 
@@ -15,9 +14,3 @@ Depending on the scale of impact, disasters can trigger the flow of Federal Emer
 ## Project Proposal
 
 {{< pdf CDL_Proposal_OpenFEMA.pdf width=800 height=800 >}}
-
-## Dataset
-
-Datasets include the Individuals and Households Program Valid Registrations (IHP-VR) from OpenFEMA and the Disaster Declarations Summaries also from OpenFEMA.
-
-[Explore Data »](../datasets/data_KAC.qmd)
