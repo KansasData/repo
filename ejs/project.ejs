@@ -1,27 +1,34 @@
 
 ```{=html}
-<ul class="pub-list list">
+<ul class="p-list list">
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
     <span class="listing-title lead"><%= item.title %></span><br />
     <span class="listing-partnership fst-italic "><%= item.partnership %></span>
     <span class="listing-year">(<%= item.year %>)</span><br />
+    
+    <div class="d-flex justify-content-between align-items-center quarto-title-meta">
+      <span class="listing-partnership fst-italic"><%= item.partnership %></span>
+      <% if (item.license && item.licenseType) { %>
+        <a href="<%- item.license %>" class="listing-license fst-italic" target="_blank" rel="noopener noreferrer">
+          <%= item.licenseType %>
+        </a>
+      <% } %>
+    </div>
+    
     <a href="<%- item.path %>" class="btn btn-primary">
       Details
     </a>
-    <% if (item.license) { %>
-    <a href="<%- item.license %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-      License
-    </a>
-    <% } %>
     <% if (item.dataset) { %>
     <a href="<%- item.dataset %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-zip"></i> Dataset
+      <i class="bi bi-file-earmark-zip"></i> 
+      Dataset
     </a>
     <% } %>
     <% if (item.code) { %>
     <a href="<%- item.code %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-code-fill"></i> Code
+      <i class="bi bi-file-earmark-code-fill"></i> 
+      Code
     </a>
     <% } %>
   </li>

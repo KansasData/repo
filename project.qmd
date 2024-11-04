@@ -10,8 +10,8 @@ listing:
     sort:
       - "year desc"
       - "title"
-    sort-ui: [title,author,partnership,year]
-    filter-ui: [title,author,partnership,year]
+    sort-ui: [title,partnership,year]
+    filter-ui: [title,partnership,year]
     field-display-names: 
       partnership: "Partner"
       year: "Year"
