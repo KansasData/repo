@@ -18,12 +18,8 @@ Kansas Action for Children's (KAC) mission is to shape health, education, and ec
 
 {{< pdf CDL_Proposal_KAC.pdf width=800 height=800 >}}
 
-## Project Report
-
-You can access to the project report [Learn more »](report_KAC.html)
-
 ## Dataset
 
 Datasets include child care facility status across counties in Kansas state.
 
-[Explore Data](../datasets/dataset_ex1.qmd)
+[Explore Data](../datasets/data_KAC.qmd)
