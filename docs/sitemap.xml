@@ -9,32 +9,48 @@
     <lastmod>2024-11-04T14:34:04.091Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/people.html</loc>
-    <lastmod>2024-08-20T23:51:29.087Z</lastmod>
+    <loc>https://KansasData.github.io/repo/project/datasets/data_KAC.html</loc>
+    <lastmod>2024-11-04T13:32:12.669Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/people/faculty/faculty_jeff.html</loc>
+    <loc>https://KansasData.github.io/repo/people/staff/staff_daiil.html</loc>
     <lastmod>2024-08-20T23:51:29.089Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module.html</loc>
-    <lastmod>2024-08-20T23:51:29.057Z</lastmod>
+    <loc>https://KansasData.github.io/repo/people/adj_committee/committee_xyz.html</loc>
+    <lastmod>2024-08-20T23:51:29.087Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_workshop/workshop_ex.html</loc>
-    <lastmod>2024-08-20T23:51:29.087Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_workshop.html</loc>
+    <lastmod>2024-08-20T23:51:29.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/ku_duncan_business_analytics4.html</loc>
+    <lastmod>2024-11-11T14:54:03.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/ku_duncan_business_analytics2.html</loc>
+    <lastmod>2024-11-11T14:52:58.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/kstate_shamir_textanalysis.html</loc>
+    <lastmod>2024-11-11T14:41:20.966Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/butler_cc_akao_tableau.html</loc>
+    <lastmod>2024-11-11T14:45:58.149Z</lastmod>
   </url>
   <url>
     <loc>https://KansasData.github.io/repo/module/module_tutorial/tutorial_intro_colab.html</loc>
     <lastmod>2024-08-20T23:51:29.085Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_lecture.html</loc>
-    <lastmod>2024-08-20T23:51:29.082Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html</loc>
+    <lastmod>2024-08-20T23:51:29.084Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_lecture/ku_dataI_casuality_slide.html</loc>
-    <lastmod>2024-08-20T23:51:29.084Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_lecture/ku_dataI_casuality_hw.html</loc>
+    <lastmod>2024-11-11T14:25:55.537Z</lastmod>
   </url>
   <url>
     <loc>https://KansasData.github.io/repo/index_original.html</loc>
@@ -109,39 +125,55 @@
     <lastmod>2024-10-20T20:44:37.002Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_lecture/ku_dataI_casuality_hw.html</loc>
-    <lastmod>2024-08-20T23:51:29.083Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html</loc>
+    <lastmod>2024-11-11T14:37:30.204Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_lecture/wsu_yan_neuralnetwork_slide.html</loc>
+    <loc>https://KansasData.github.io/repo/module/module_lecture/ku_dataI_casuality_slide.html</loc>
     <lastmod>2024-08-20T23:51:29.084Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_tutorial/tutorial_ex.html</loc>
-    <lastmod>2024-08-20T23:51:29.085Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_lecture.html</loc>
+    <lastmod>2024-08-20T23:51:29.082Z</lastmod>
   </url>
   <url>
     <loc>https://KansasData.github.io/repo/module/module_tutorial.html</loc>
     <lastmod>2024-08-20T23:51:29.084Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/module/module_workshop.html</loc>
-    <lastmod>2024-08-20T23:51:29.086Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/kstate_shamir_arthistory.html</loc>
+    <lastmod>2024-11-11T14:41:37.784Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/people/adj_committee/committee_xyz.html</loc>
-    <lastmod>2024-08-20T23:51:29.087Z</lastmod>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/ku_duncan_business_analytics1.html</loc>
+    <lastmod>2024-11-11T14:52:00.043Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/people/staff/staff_daiil.html</loc>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/ku_duncan_business_analytics3.html</loc>
+    <lastmod>2024-11-11T14:54:05.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/module/module_workshop/ku_duncan_stata.html</loc>
+    <lastmod>2024-11-11T14:56:22.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/module.html</loc>
+    <lastmod>2024-08-20T23:51:29.057Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/people/faculty/faculty_jeff.html</loc>
     <lastmod>2024-08-20T23:51:29.089Z</lastmod>
   </url>
   <url>
-    <loc>https://KansasData.github.io/repo/project/datasets/data_KAC.html</loc>
-    <lastmod>2024-11-04T13:32:12.669Z</lastmod>
+    <loc>https://KansasData.github.io/repo/people.html</loc>
+    <lastmod>2024-08-20T23:51:29.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://KansasData.github.io/repo/project/projects/project_CommunityCollegeStudents.html</loc>
+    <lastmod>2024-11-11T15:08:42.774Z</lastmod>
   </url>
   <url>
     <loc>https://KansasData.github.io/repo/project/projects/project_KAC.html</loc>
-    <lastmod>2024-11-04T14:20:26.899Z</lastmod>
+    <lastmod>2024-11-11T15:08:44.543Z</lastmod>
   </url>
 </urlset>

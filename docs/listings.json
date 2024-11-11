@@ -2,24 +2,22 @@
   {
     "listing": "/project.html",
     "items": [
+      "/project/projects/project_CommunityCollegeStudents.html",
       "/project/projects/project_KAC.html",
       "/project/projects/project_FEMA.html"
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/module/module_workshop.html",
     "items": [
-      "/people/faculty/faculty_jeff.html",
-      "/people/staff/staff_daiil.html",
-      "/people/adj_committee/committee_xyz.html"
-    ]
-  },
-  {
-    "listing": "/module/module_lecture.html",
-    "items": [
-      "/module/module_lecture/ku_dataI_casuality_slide.html",
-      "/module/module_lecture/ku_dataI_casuality_hw.html",
-      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html"
+      "/module/module_workshop/ku_duncan_business_analytics1.html",
+      "/module/module_workshop/ku_duncan_business_analytics2.html",
+      "/module/module_workshop/ku_duncan_business_analytics3.html",
+      "/module/module_workshop/ku_duncan_business_analytics4.html",
+      "/module/module_workshop/ku_duncan_stata.html",
+      "/module/module_workshop/kstate_shamir_arthistory.html",
+      "/module/module_workshop/butler_cc_akao_tableau.html",
+      "/module/module_workshop/kstate_shamir_textanalysis.html"
     ]
   },
   {
@@ -50,16 +48,26 @@
     ]
   },
   {
-    "listing": "/module/module_tutorial.html",
+    "listing": "/module/module_lecture.html",
     "items": [
-      "/module/module_tutorial/tutorial_intro_colab.html",
-      "/module/module_tutorial/tutorial_ex.html"
+      "/module/module_lecture/ku_dataI_casuality_slide.html",
+      "/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+      "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html"
     ]
   },
   {
-    "listing": "/module/module_workshop.html",
+    "listing": "/module/module_tutorial.html",
     "items": [
-      "/module/module_workshop/workshop_ex.html"
+      "/module/module_tutorial/tutorial_intro_colab.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/faculty/faculty_jeff.html",
+      "/people/staff/staff_daiil.html",
+      "/people/adj_committee/committee_xyz.html"
     ]
   }
 ]

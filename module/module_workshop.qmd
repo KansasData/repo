@@ -9,7 +9,7 @@ listing:
     fields: [title, subtitle, author, description]
     field-display-names: 
       title: "Module"
-      subtitle: "Core Competency"
+      subtitle: "Type of Material"
       description: "Institution"
     categories: true
 ---
