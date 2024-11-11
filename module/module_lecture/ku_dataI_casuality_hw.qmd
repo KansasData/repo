@@ -7,9 +7,10 @@ categories: [Statistical Foundation, Programming Skills]
 toc: true
 toc-title: "On this page"
 ---
+
 ## Material Description
 
-This module is a hands-on homework assignment that studetns can enhance their understanding of casuality and develop porgramming skills via Google Colab.
+This module is a hands-on homework assignment that students can enhance their understanding of causality and develop programming skills via Google Colab.
 
 ## Module Materials
 

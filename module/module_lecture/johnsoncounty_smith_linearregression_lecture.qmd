@@ -1,0 +1,20 @@
+---
+title: "Linear Regression"
+subtitle: "Lecture Material"
+author: "Suzanne Smith"
+description: "Johnson County Community College"
+categories: [Statistical Foundation, Model Building]
+toc: true
+toc-title: "On this page"
+---
+
+
+## Material Description
+
+This module contains a video lecture, notes, and a lab over Linear Regression. The correlation coefficient and "Line of Best Fit" are discussed. KNIME Analytics Platform (free, open source) is used to find the regression line and then students learn how to use that line to make predictions.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/johonsoncounty_smith_linear_regression/LinearRegressionLesson)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en) 

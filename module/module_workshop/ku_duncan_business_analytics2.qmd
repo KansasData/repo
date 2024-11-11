@@ -1,0 +1,19 @@
+---
+title: "Business Data Analytics 2"
+subtitle: "Workshop Material"
+author: "William Duncan"
+description: "University of Kansas"
+categories: [Data Wrangling]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the second workshop of four is a series of workshops for business analytics.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_business2)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)

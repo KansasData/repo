@@ -1,0 +1,19 @@
+---
+title: "Computer Approach to Art History"
+subtitle: "Workshop Material"
+author: "Lior Shamir"
+description: "Kansas State University"
+categories: [Data Mining]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/blob/main/kstate_shamir_arthistory/computer_art.pdf)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en) 

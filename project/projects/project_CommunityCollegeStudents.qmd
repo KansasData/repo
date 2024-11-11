@@ -1,0 +1,19 @@
+---
+title: "Community College Students and Pathways to Degree Attainment"
+year: "2024"
+license: "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
+licenseType: "CC-BY NC"
+toc: false
+---
+
+## Abstract
+
+This project seeks to better understand the relationship between community college attendance and future academic attainment and job success. In particular, the
+project focuses on state-level differences in outcomes for students who began at a
+community college.
+
+
+## Project Proposal
+
+{{< pdf CDL_Proposal_CommunityCollege.pdf.pdf width=800 height=800 >}}
+

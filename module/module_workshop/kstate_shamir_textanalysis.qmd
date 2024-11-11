@@ -1,0 +1,20 @@
+---
+title: "Text Analysis Protocol"
+subtitle: "Workshop Material"
+author: "Lior Shamir"
+description: "Kansas State University"
+categories: [Statistical Foundation, Data Mining, Data Wrangling]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files.
+
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/blob/main/kstate_shamir_textanalysis/text_analysis_protocol.pdf)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en) 

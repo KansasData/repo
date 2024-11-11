@@ -1,0 +1,20 @@
+---
+title: "Business Data Analytics 4"
+subtitle: "Workshop Material"
+author: "William Duncan"
+description: "University of Kansas"
+categories: [Statistical Foundation, Programming Skills]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is a set of workshop materials for introductory Stata analysis.
+
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_stata)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
