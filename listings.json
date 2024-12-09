@@ -21,9 +21,13 @@
     ]
   },
   {
-    "listing": "/dataset.html",
+    "listing": "/course.html",
     "items": [
-      "/project/datasets/data_KAC.html"
+      "/course/Data_I_Duncun_KU.html",
+      "/course/Data_II_TBD_KU.html",
+      "/course/Data_III_TBD_KU.html",
+      "/course/Data_IV_TBD_KU.html",
+      "/course/Data_V_TBD_KU.html"
     ]
   },
   {
@@ -38,13 +42,9 @@
     ]
   },
   {
-    "listing": "/course.html",
+    "listing": "/dataset.html",
     "items": [
-      "/course/Data_I_Duncun_KU.html",
-      "/course/Data_II_TBD_KU.html",
-      "/course/Data_III_TBD_KU.html",
-      "/course/Data_IV_TBD_KU.html",
-      "/course/Data_V_TBD_KU.html"
+      "/project/datasets/data_KAC.html"
     ]
   },
   {
@@ -53,7 +53,8 @@
       "/module/module_lecture/ku_dataI_casuality_slide.html",
       "/module/module_lecture/ku_dataI_casuality_hw.html",
       "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
-      "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html"
+      "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
+      "/module/module_lecture/wsu_mornroy_networkintrusion.html"
     ]
   },
   {
