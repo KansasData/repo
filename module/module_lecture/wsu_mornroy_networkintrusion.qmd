@@ -1,0 +1,21 @@
+---
+title: "Network Intrusion Detection with AI"
+subtitle: "Lecture Slide"
+author: "Dr. Sergio Salinas Mornroy"
+description: "Wichita State University"
+categories: [Data Wrangling, Programming Skills, Model Building]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This module provides data code to demonstrate how attacks can be detected in a packet capture file.
+
+## Module Materials
+
+You can access the lecture slide [here](https://github.com/KansasData/Module/blob/main/wstate_mornroy_attcks/Network%20Intrusion%20Detection%20with%20AI/Network%20Anomaly%20Detection%20with%20ML%20and%20AI.pdf)
+
+You can access the lecture materials including code and data [here](https://github.com/KansasData/Module/tree/main/wstate_mornroy_attacks_data)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)

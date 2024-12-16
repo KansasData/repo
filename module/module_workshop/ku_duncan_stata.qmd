@@ -12,7 +12,6 @@ toc-title: "On this page"
 
 This is a set of workshop materials for introductory Stata analysis.
 
-
 ## Module Materials
 
 You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_stata)

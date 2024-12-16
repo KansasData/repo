@@ -14,4 +14,6 @@ This module introduces neural networks, and how to design neural networks to sol
 
 ## Module Materials
 
-{{< pdf CS896_WSU_NeuralNetwork.pdf width=600 height=400 >}}
+You can access the material [here](https://github.com/KansasData/Module/tree/main/kstate_yan_neuralnetwork)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
