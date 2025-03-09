@@ -33,12 +33,12 @@
   {
     "listing": "/competency.html",
     "items": [
-      "/competency/comp_data_eng.html",
+      "/competency/comp_stat_foundation.html",
+      "/competency/comp_programming.html",
       "/competency/comp_data_mining.html",
       "/competency/comp_data_wrangling.html",
-      "/competency/comp_model_build.html",
-      "/competency/comp_programming.html",
-      "/competency/comp_stat_foundation.html"
+      "/competency/comp_data_eng.html",
+      "/competency/comp_model_build.html"
     ]
   },
   {
@@ -61,25 +61,6 @@
     "listing": "/module/module_tutorial.html",
     "items": [
       "/module/module_tutorial/tutorial_intro_colab.html"
-    ]
-  },
-  {
-    "listing": "/module.html",
-    "items": [
-      "/module/module_workshop/ku_duncan_business_analytics1.html",
-      "/module/module_workshop/ku_duncan_business_analytics2.html",
-      "/module/module_workshop/ku_duncan_business_analytics3.html",
-      "/module/module_workshop/ku_duncan_business_analytics4.html",
-      "/module/module_workshop/ku_duncan_stata.html",
-      "/module/module_lecture/ku_dataI_casuality_slide.html",
-      "/module/module_lecture/ku_dataI_casuality_hw.html",
-      "/module/module_workshop/kstate_shamir_arthistory.html",
-      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
-      "/module/module_tutorial/tutorial_intro_colab.html",
-      "/module/module_workshop/butler_cc_akao_tableau.html",
-      "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
-      "/module/module_lecture/wsu_mornroy_networkintrusion.html",
-      "/module/module_workshop/kstate_shamir_textanalysis.html"
     ]
   },
   {
