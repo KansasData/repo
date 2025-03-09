@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-excute:
+execute:
   freeze: auto
 
 website: 
@@ -15,12 +15,15 @@ website:
     logo-alt: "KDSC logo"
     title: false
     collapse-below: lg
+    
     left:
       - text: "Home"
         href: index.qmd
-      - sidebar:projects
+      - text: "Community Data Lab"
+        href: project.qmd
       - text: "Curriculum"
         href: competency.qmd
+  
     tools:
       - icon: buildings
         menu: 
@@ -32,18 +35,8 @@ website:
             url: https://github.com/KansasData
           - text: Report Bug
             url: https://github.com/KansasData
-    
-  sidebar: 
-    - id: projects
-      title: "Community Data Lab"
-      style: "docked"
-      collapse-level: 2
-      contents: 
-        - text: "Project"
-          href: project.qmd
-        - text: "Dataset"
-          href: dataset.qmd
-        
+
+  sidebar:
     - id: curriculum
       title: "Curriculum"
       collapse-level: 1
@@ -52,17 +45,8 @@ website:
           href: competency.qmd
         - text: "Course"
           href: course.qmd
-        - section: "Module"
-          contents: 
-            - text: Overview
-              href: module.qmd
-            - text: Lecture Materials
-              href: module/module_lecture.qmd
-            - text: Tutorial Materials
-              href: module/module_tutorial.qmd
-            - text: Workshop/Presentation 
-              href: module/module_workshop.qmd
-        
+        - text: "Module"
+          href: module.qmd
   
   page-footer:
     left: |
@@ -77,9 +61,13 @@ website:
 
 format:
   html:
+    grid: 
+      sidebar-width: 150px
+      body-width: 900px
+      margin-width: 200px
+      gutter-width: 1.5rem
     theme: cosmo
     css: styles.css
     toc: true
-
 editor: visual
 

@@ -15,10 +15,9 @@ listing:
     field-display-names: 
       partnership: "Partner"
       year: "Year"
-      
 ---
 
-# Community Data Lab Projects
+## Community Data Lab Projects
 
 Community Data Labs are specially-structured classes devoted to independent, small group inquiry focused on real-world projects provided by our Community Partners. These partners are businesses, government agencies, non-profits, and other organizations who have agreed to contribute a problem and related dataset. With the consent of our partners, some of these projects and datasets have been made available for public access.
 
