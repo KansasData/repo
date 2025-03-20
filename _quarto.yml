@@ -1,9 +1,8 @@
 project:
   type: website
+  resources:
+    - CNAME
   output-dir: docs
-
-execute:
-  freeze: auto
 
 website: 
   bread-crumbs: false
@@ -15,7 +14,6 @@ website:
     logo-alt: "KDSC logo"
     title: false
     collapse-below: lg
-    
     left:
       - text: "Home"
         href: index.qmd
@@ -23,7 +21,6 @@ website:
         href: project.qmd
       - text: "Curriculum"
         href: competency.qmd
-  
     tools:
       - icon: buildings
         menu: 
@@ -35,7 +32,6 @@ website:
             url: https://github.com/KansasData
           - text: Report Bug
             url: https://github.com/KansasData
-
   sidebar:
     - id: curriculum
       title: "Curriculum"
@@ -47,7 +43,6 @@ website:
           href: course.qmd
         - text: "Module"
           href: module.qmd
-  
   page-footer:
     left: |
       Proudly supported by 
@@ -58,6 +53,8 @@ website:
 
     center: | 
           Except where otherwise noted content on this site is </br> licensed under a [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)</br>
+  site-url: https://datarepository.ku.edu
+  repo-url: https://github.com/kansasdata/repo
 
 format:
   html:
@@ -69,5 +66,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-editor: visual
-
