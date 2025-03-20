@@ -1,0 +1,19 @@
+---
+title: "Federal Data Workshops: the Bureau of Economic Analysis"
+subtitle: "Workshop Material"
+author: "William Duncan"
+description: "University of Kansas"
+categories: [Programming Skills, Data Wrangling]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis.
+a
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_federal_economic)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/)

@@ -12,9 +12,8 @@ toc-title: "On this page"
 
 This module contains information that can be used to provide a 3 hour hand-on workshop where participants are exposed to data science through an introductory PowerPoint. and they learn to use Tableau. There is an outline that can be used to guide workshop participants in the development of 4 different visualizations and a dashboard.
 
-
 ## Module Materials
 
 You can access the material [here](https://github.com/KansasData/Module/tree/main/butlercc_akao_tableau)
 
-This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en) 
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)

@@ -1,0 +1,19 @@
+---
+title: "Federal Data Workshops: the National Center for Health Statistics"
+subtitle: "Workshop Material"
+author: "William Duncan"
+description: "University of Kansas"
+categories: [Programming Skills, Data Wrangling]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_federal_health)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/)

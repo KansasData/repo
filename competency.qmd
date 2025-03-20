@@ -2,16 +2,11 @@
 pagetitle: "KDSC | Competency"
 toc: false
 listing:
-  contents: 
-    - competency/comp_stat_foundation.qmd
-    - competency/comp_programming.qmd
-    - competency/comp_data_mining.qmd
-    - competency/comp_data_wrangling.qmd
-    - competency/comp_data_eng.qmd
-    - competency/comp_model_build.qmd
-  type: grid
-  fields: [image, title]
-  sort: false
+  - id: competency-listings
+    contents: "competency/*.qmd"
+    type: grid
+    fields: [image, title]
+    sort: false
 ---
 
 # Data Science Competency
@@ -19,3 +14,6 @@ listing:
 Data science competencies encompass a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, data science requires a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, and play a pivotal role in guiding strategic business moves and optimizing processes.
 
 This repository is organized around these six competencies. Each category contains modules which pertain to specific skill-building.
+
+::: {competency-listings}
+:::

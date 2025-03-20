@@ -1,0 +1,19 @@
+---
+title: "Stata Workshop 3:Data Wrangling"
+subtitle: "Workshop Material"
+author: "William Duncan"
+description: "University of Kansas"
+categories: [Statistical Foundation, Programming Skills]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_stata_25spring)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/)
