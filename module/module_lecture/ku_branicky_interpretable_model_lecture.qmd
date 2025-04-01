@@ -1,7 +1,7 @@
 ---
 title: "Multiple Models, Explainability, and Bias"
 subtitle: "Lecture Material"
-author: "	Michael S. Branicky"
+author: "Michael S. Branicky"
 description: "University of Kansas"
 categories: [Model Building, Ethical Problem Solving]
 toc: true

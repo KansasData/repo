@@ -27,7 +27,7 @@ This page features a comprehensive collection of modules curated by our partners
 
 ## Module Lists
 
-::: {.module-grid}
+
 ::: {#module-listings}
-:::
-:::
+::: 
+
