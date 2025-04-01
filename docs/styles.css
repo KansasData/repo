@@ -1,34 +1,4 @@
 /****************************************************************************/
-/*  CARD SUBTITLE STYLING                                                  */
-/****************************************************************************/
-.module-grid .quarto-grid-item .card-subtitle {
-    display: inline-block;
-    font-size: 0.9em;
-    font-style: italic;
-    color: #fff;
-    background-color: #757575;  /* fallback gray if data-subtitle doesn't match */
-    margin-bottom: 8px;
-    padding: 4px 8px;
-    border-radius: 4px;
-}
-
-.module-grid .quarto-grid-item .card-subtitle[listing-subtitle="Workshop Material"] {
-    background-color: #1E88E5; /* Blue */
-}
-
-.module-grid .quarto-grid-item .card-subtitle[listing-subtitle="Lecture Slide"] {
-    background-color: #D81B60; /* Pink */
-}
-
-.module-grid .quarto-grid-item .card-subtitle[listing-subtitle="Tutorial Material"] {
-    background-color: #004D40; /* Dark Green */
-}
-
-.module-grid .quarto-grid-item .card-subtitle[listing-subtitle="Homework Assignment"] {
-    background-color: #6A1B9A; /* Purple (example) */
-}
-
-/****************************************************************************/
 /*  AUTHOR STYLING                                                          */
 /****************************************************************************/
 .module-grid .quarto-grid-item .card-author {
