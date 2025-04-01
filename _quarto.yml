@@ -52,7 +52,7 @@ website:
     center: | 
           Except where otherwise noted content on this site is </br> licensed under a [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)</br>
   site-url: https://datarepository.ku.edu
-  repo-url: https://github.com/kansasdata/repo
+  repo-url: https://github.com/KansasData/repo
 
 format:
   html:
