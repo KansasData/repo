@@ -1,0 +1,21 @@
+---
+title: "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems"
+subtitle: "Workshop Material"
+author: "Xuhui Zhou"
+description: "Carnegie Mellon University"
+categories: [Ethical Problem Solving, Data Bias and Fairness]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Xuhui Zhou's presentation on "Safety, Ethics, and Biases in AI and NLP Systems" for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection.
+
+## Module Materials
+
+```{=html}
+<iframe id="kmsembed-1_n15hcm2l" width="400" height="285" src="https://mediahub.ku.edu/embed/secure/iframe/entryId/1_n15hcm2l/uiConfId/54254972/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Xuhui Zhou - Data Bias and Speaker Series"></iframe>
+```
+
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)

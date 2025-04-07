@@ -88,152 +88,173 @@
     "href": "module/module_workshop.html",
     "title": "Module Materials",
     "section": "",
-    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nBusiness Data Analytics 1\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 2\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 3\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nComputer Approach to Art History\n\n\nWorkshop Material\n\n\nLior Shamir\n\n\nKansas State University\n\n\n\n\nFederal Data Workshops: the Bureau of Economic Analysis\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the Bureau of Labor Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the Census Bureau\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the National Center for Education Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the National Center for Health Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nIntroduction to Tableau\n\n\nWorkshop Material\n\n\nJanice Akao\n\n\nButler Community College\n\n\n\n\nStata Workshop 1:Data Wrangling\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 2:Visualization\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 3:Data Wrangling\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nText Analysis Protocol\n\n\nWorkshop Material\n\n\nLior Shamir\n\n\nKansas State University\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nBusiness Data Analytics 1\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 2\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 3\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nComputer Approach to Art History\n\n\nWorkshop Material\n\n\nLior Shamir\n\n\nKansas State University\n\n\n\n\nData Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health\n\n\nWorkshop Material\n\n\nTheodora Chaspari\n\n\nUniversity of Colorado Boulder\n\n\n\n\nData Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems\n\n\nWorkshop Material\n\n\nXuhui Zhou\n\n\nCarnegie Mellon University\n\n\n\n\nFederal Data Workshops: the Bureau of Economic Analysis\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the Bureau of Labor Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the Census Bureau\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the National Center for Education Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the National Center for Health Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nIntroduction to Tableau\n\n\nWorkshop Material\n\n\nJanice Akao\n\n\nButler Community College\n\n\n\n\nStata Workshop 1:Data Wrangling\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 2:Visualization\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 3:Data Wrangling\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nText Analysis Protocol\n\n\nWorkshop Material\n\n\nLior Shamir\n\n\nKansas State University\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
-    "title": "Stata Workshop 2:Visualization",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
+    "title": "Stata Workshop 3:Data Wrangling",
     "section": "",
-    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
-    "title": "Stata Workshop 2:Visualization",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
+    "title": "Stata Workshop 3:Data Wrangling",
     "section": "",
-    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
-    "title": "Stata Workshop 2:Visualization",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
+    "title": "Stata Workshop 3:Data Wrangling",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata.html",
-    "href": "module/module_workshop/ku_duncan_stata.html",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html",
+    "title": "Stata Workshop 1:Data Wrangling",
     "section": "",
-    "text": "This is a set of workshop materials for introductory Stata analysis."
+    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata.html#material-description",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
+    "title": "Stata Workshop 1:Data Wrangling",
     "section": "",
-    "text": "This is a set of workshop materials for introductory Stata analysis."
+    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata.html#module-materials",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
+    "title": "Stata Workshop 1:Data Wrangling",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_health.html",
-    "href": "module/module_workshop/ku_duncan_federal_health.html",
-    "title": "Federal Data Workshops: the National Center for Health Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_labor.html",
+    "href": "module/module_workshop/ku_duncan_federal_labor.html",
+    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
     "section": "",
-    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
+    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_health.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_health.html#material-description",
-    "title": "Federal Data Workshops: the National Center for Health Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
+    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
     "section": "",
-    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
+    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
-    "title": "Federal Data Workshops: the National Center for Health Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
+    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_economic.html",
-    "href": "module/module_workshop/ku_duncan_federal_economic.html",
-    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
+    "objectID": "module/module_workshop/ku_duncan_federal_education.html",
+    "href": "module/module_workshop/ku_duncan_federal_education.html",
+    "title": "Federal Data Workshops: the National Center for Education Statistics",
     "section": "",
-    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
+    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
-    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
+    "objectID": "module/module_workshop/ku_duncan_federal_education.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_education.html#material-description",
+    "title": "Federal Data Workshops: the National Center for Education Statistics",
     "section": "",
-    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
+    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
-    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
+    "objectID": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
+    "title": "Federal Data Workshops: the National Center for Education Statistics",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics4.html",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_federal_census.html",
+    "href": "module/module_workshop/ku_duncan_federal_census.html",
+    "title": "Federal Data Workshops: the Census Bureau",
+    "section": "",
+    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_federal_census.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_census.html#material-description",
+    "title": "Federal Data Workshops: the Census Bureau",
+    "section": "",
+    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
+    "title": "Federal Data Workshops: the Census Bureau",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics3.html",
+    "title": "Business Data Analytics 3",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
+    "title": "Business Data Analytics 3",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
+    "title": "Business Data Analytics 3",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics2.html",
-    "title": "Business Data Analytics 2",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics1.html",
+    "title": "Business Data Analytics 1",
     "section": "",
-    "text": "This is the second workshop of four is a series of workshops for business analytics."
+    "text": "This is the first workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
-    "title": "Business Data Analytics 2",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
+    "title": "Business Data Analytics 1",
     "section": "",
-    "text": "This is the second workshop of four is a series of workshops for business analytics."
+    "text": "This is the first workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
-    "title": "Business Data Analytics 2",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
+    "title": "Business Data Analytics 1",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html",
-    "href": "module/module_workshop/kstate_shamir_textanalysis.html",
-    "title": "Text Analysis Protocol",
+    "objectID": "module/module_workshop/kstate_shamir_arthistory.html",
+    "href": "module/module_workshop/kstate_shamir_arthistory.html",
+    "title": "Computer Approach to Art History",
     "section": "",
-    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
+    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
-    "href": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
-    "title": "Text Analysis Protocol",
+    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
+    "href": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
+    "title": "Computer Approach to Art History",
     "section": "",
-    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
+    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
-    "href": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
-    "title": "Text Analysis Protocol",
+    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
+    "href": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
+    "title": "Computer Approach to Art History",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
@@ -638,172 +659,193 @@
     "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nHands-on Practice\n\n\nWithheld \n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_arthistory.html",
-    "href": "module/module_workshop/kstate_shamir_arthistory.html",
-    "title": "Computer Approach to Art History",
+    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html",
+    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html",
+    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
     "section": "",
-    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
+    "text": "Xuhui Zhou’s presentation on “Safety, Ethics, and Biases in AI and NLP Systems” for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection."
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
-    "href": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
-    "title": "Computer Approach to Art History",
+    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html#material-description",
+    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html#material-description",
+    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
     "section": "",
-    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
+    "text": "Xuhui Zhou’s presentation on “Safety, Ethics, and Biases in AI and NLP Systems” for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection."
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
-    "href": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
-    "title": "Computer Approach to Art History",
+    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html#module-materials",
+    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html#module-materials",
+    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
+    "section": "Module Materials",
+    "text": "Module Materials\n\nThis Material is under the CC BY-NC license"
+  },
+  {
+    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html",
+    "href": "module/module_workshop/kstate_shamir_textanalysis.html",
+    "title": "Text Analysis Protocol",
+    "section": "",
+    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
+  },
+  {
+    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
+    "href": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
+    "title": "Text Analysis Protocol",
+    "section": "",
+    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
+  },
+  {
+    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
+    "href": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
+    "title": "Text Analysis Protocol",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics1.html",
-    "title": "Business Data Analytics 1",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics2.html",
+    "title": "Business Data Analytics 2",
     "section": "",
-    "text": "This is the first workshop of four is a series of workshops for business analytics."
+    "text": "This is the second workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
-    "title": "Business Data Analytics 1",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
+    "title": "Business Data Analytics 2",
     "section": "",
-    "text": "This is the first workshop of four is a series of workshops for business analytics."
+    "text": "This is the second workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
-    "title": "Business Data Analytics 1",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
+    "title": "Business Data Analytics 2",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics3.html",
-    "title": "Business Data Analytics 3",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics4.html",
+    "title": "Business Data Analytics 4",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
-    "title": "Business Data Analytics 3",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
+    "title": "Business Data Analytics 4",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
-    "title": "Business Data Analytics 3",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
+    "title": "Business Data Analytics 4",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_census.html",
-    "href": "module/module_workshop/ku_duncan_federal_census.html",
-    "title": "Federal Data Workshops: the Census Bureau",
+    "objectID": "module/module_workshop/ku_duncan_federal_economic.html",
+    "href": "module/module_workshop/ku_duncan_federal_economic.html",
+    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
     "section": "",
-    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
+    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_census.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_census.html#material-description",
-    "title": "Federal Data Workshops: the Census Bureau",
+    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
+    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
     "section": "",
-    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
+    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
-    "title": "Federal Data Workshops: the Census Bureau",
+    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
+    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_education.html",
-    "href": "module/module_workshop/ku_duncan_federal_education.html",
-    "title": "Federal Data Workshops: the National Center for Education Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_health.html",
+    "href": "module/module_workshop/ku_duncan_federal_health.html",
+    "title": "Federal Data Workshops: the National Center for Health Statistics",
     "section": "",
-    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
+    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_education.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_education.html#material-description",
-    "title": "Federal Data Workshops: the National Center for Education Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_health.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_health.html#material-description",
+    "title": "Federal Data Workshops: the National Center for Health Statistics",
     "section": "",
-    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
+    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
-    "title": "Federal Data Workshops: the National Center for Education Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
+    "title": "Federal Data Workshops: the National Center for Health Statistics",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_labor.html",
-    "href": "module/module_workshop/ku_duncan_federal_labor.html",
-    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
+    "objectID": "module/module_workshop/ku_duncan_stata.html",
+    "href": "module/module_workshop/ku_duncan_stata.html",
+    "title": "Business Data Analytics 4",
     "section": "",
-    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
+    "text": "This is a set of workshop materials for introductory Stata analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
-    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
+    "objectID": "module/module_workshop/ku_duncan_stata.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata.html#material-description",
+    "title": "Business Data Analytics 4",
     "section": "",
-    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
+    "text": "This is a set of workshop materials for introductory Stata analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
-    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
+    "objectID": "module/module_workshop/ku_duncan_stata.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata.html#module-materials",
+    "title": "Business Data Analytics 4",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html",
-    "title": "Stata Workshop 1:Data Wrangling",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+    "title": "Stata Workshop 2:Visualization",
     "section": "",
-    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
-    "title": "Stata Workshop 1:Data Wrangling",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
+    "title": "Stata Workshop 2:Visualization",
     "section": "",
-    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
-    "title": "Stata Workshop 1:Data Wrangling",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
+    "title": "Stata Workshop 2:Visualization",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
-    "title": "Stata Workshop 3:Data Wrangling",
+    "objectID": "module/module_workshop/ucb_chaspari_data_bias_presentation.html",
+    "href": "module/module_workshop/ucb_chaspari_data_bias_presentation.html",
+    "title": "Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health",
     "section": "",
-    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
+    "text": "Dr. Chaspari’s presentation on “Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health” for the Data Bias and Fairness Speaker Series. In this lecture, Dr. Chaspari spoke about AI algorithms and their relation to mental health outcomes. She relayed useful lessons regarding data science principles in research and machine learning."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
-    "title": "Stata Workshop 3:Data Wrangling",
+    "objectID": "module/module_workshop/ucb_chaspari_data_bias_presentation.html#material-description",
+    "href": "module/module_workshop/ucb_chaspari_data_bias_presentation.html#material-description",
+    "title": "Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health",
     "section": "",
-    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
+    "text": "Dr. Chaspari’s presentation on “Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health” for the Data Bias and Fairness Speaker Series. In this lecture, Dr. Chaspari spoke about AI algorithms and their relation to mental health outcomes. She relayed useful lessons regarding data science principles in research and machine learning."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
-    "title": "Stata Workshop 3:Data Wrangling",
+    "objectID": "module/module_workshop/ucb_chaspari_data_bias_presentation.html#module-materials",
+    "href": "module/module_workshop/ucb_chaspari_data_bias_presentation.html#module-materials",
+    "title": "Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health",
     "section": "Module Materials",
-    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
+    "text": "Module Materials\n\nThis Material is under the CC BY-NC license"
   },
   {
     "objectID": "module.html",
@@ -832,7 +874,7 @@
     "href": "module.html#module-lists",
     "title": "KDSC",
     "section": "Module Lists",
-    "text": "Module Lists\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Type of Material\n        \n         \n          Author\n        \n         \n          Institution\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nBusiness Data Analytics 1\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 2\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 3\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nCasuality\n\n\nLecture Slide\n\n\nUniversity of Kansas\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\nCasuality Homework\n\n\nHomework Assignment\n\n\nUniversity of Kansas\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\nComputer Approach to Art History\n\n\nWorkshop Material\n\n\nKansas State University\n\n\n\nLior Shamir\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the Bureau of Economic Analysis\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the Bureau of Labor Statistics\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the Census Bureau\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the National Center for Education Statistics\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the National Center for Health Statistics\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nIntro to Neural Network\n\n\nLecture Slide\n\n\nWichita State University\n\n\n\nDr. Fuijan Yan\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nHands-on Practice\n\n\nUniversity of Kansas\n\n\n\nWithheld\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Tableau\n\n\nWorkshop Material\n\n\nButler Community College\n\n\n\nJanice Akao\n\n\n\n\n\n\n\n\n\n\n\nLinear Regression\n\n\nLecture Material\n\n\nJohnson County Community College\n\n\n\nSuzanne Smith\n\n\n\n\n\n\n\n\n\n\n\nMultiple Models, Explainability, and Bias\n\n\nLecture Material\n\n\nUniversity of Kansas\n\n\n\nMichael S. Branicky\n\n\n\n\n\n\n\n\n\n\n\nNetwork Intrusion Detection with AI\n\n\nLecture Slide\n\n\nWichita State University\n\n\n\nDr. Sergio Salinas Mornroy\n\n\n\n\n\n\n\n\n\n\n\nStata Workshop 1:Data Wrangling\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nStata Workshop 2:Visualization\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nStata Workshop 3:Data Wrangling\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nText Analysis Protocol\n\n\nWorkshop Material\n\n\nKansas State University\n\n\n\nLior Shamir\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Module Lists\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Type of Material\n        \n         \n          Author\n        \n         \n          Institution\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nBusiness Data Analytics 1\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 2\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 3\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nCasuality\n\n\nLecture Slide\n\n\nUniversity of Kansas\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\nCasuality Homework\n\n\nHomework Assignment\n\n\nUniversity of Kansas\n\n\n\nTBD\n\n\n\n\n\n\n\n\n\n\n\nComputer Approach to Art History\n\n\nWorkshop Material\n\n\nKansas State University\n\n\n\nLior Shamir\n\n\n\n\n\n\n\n\n\n\n\nData Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health\n\n\nWorkshop Material\n\n\nUniversity of Colorado Boulder\n\n\n\nTheodora Chaspari\n\n\n\n\n\n\n\n\n\n\n\nData Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems\n\n\nWorkshop Material\n\n\nCarnegie Mellon University\n\n\n\nXuhui Zhou\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the Bureau of Economic Analysis\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the Bureau of Labor Statistics\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the Census Bureau\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the National Center for Education Statistics\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nFederal Data Workshops: the National Center for Health Statistics\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nIntro to Neural Network\n\n\nLecture Slide\n\n\nWichita State University\n\n\n\nDr. Fuijan Yan\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nHands-on Practice\n\n\nUniversity of Kansas\n\n\n\nWithheld\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Tableau\n\n\nWorkshop Material\n\n\nButler Community College\n\n\n\nJanice Akao\n\n\n\n\n\n\n\n\n\n\n\nLinear Regression\n\n\nLecture Material\n\n\nJohnson County Community College\n\n\n\nSuzanne Smith\n\n\n\n\n\n\n\n\n\n\n\nMultiple Models, Explainability, and Bias\n\n\nLecture Material\n\n\nUniversity of Kansas\n\n\n\nMichael S. Branicky\n\n\n\n\n\n\n\n\n\n\n\nNetwork Intrusion Detection with AI\n\n\nLecture Slide\n\n\nWichita State University\n\n\n\nDr. Sergio Salinas Mornroy\n\n\n\n\n\n\n\n\n\n\n\nStata Workshop 1:Data Wrangling\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nStata Workshop 2:Visualization\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nStata Workshop 3:Data Wrangling\n\n\nWorkshop Material\n\n\nUniversity of Kansas\n\n\n\nWilliam Duncan\n\n\n\n\n\n\n\n\n\n\n\nText Analysis Protocol\n\n\nWorkshop Material\n\n\nKansas State University\n\n\n\nLior Shamir\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Curriculum",
       "Module"

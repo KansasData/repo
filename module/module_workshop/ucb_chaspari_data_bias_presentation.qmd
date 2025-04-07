@@ -1,0 +1,21 @@
+---
+title: "Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health"
+subtitle: "Workshop Material"
+author: "Theodora Chaspari"
+description: "University of Colorado Boulder"
+categories: [Ethical Problem Solving, Data Bias and Fairness]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Dr. Chaspari's presentation on "Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health" for the Data Bias and Fairness Speaker Series. In this lecture, Dr. Chaspari spoke about AI algorithms and their relation to mental health outcomes. She relayed useful lessons regarding data science principles in research and machine learning.
+
+## Module Materials
+
+```{=html}
+<iframe id="kmsembed-1_mvi35btn" width="400" height="285" src="https://mediahub.ku.edu/embed/secure/iframe/entryId/1_mvi35btn/uiConfId/54254972/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Data Bias and Fairness Speaker Series - Dr. Chaspari"></iframe>
+```
+
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)

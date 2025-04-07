@@ -1,0 +1,10 @@
+.quarto-grid-item .card-attribution {
+    padding-top: 1em;
+    display: flex;
+    text-transform: none;
+    gap: 1em;
+    color: #6c757d;
+    font-weight: 500;
+    flex-grow: 10;
+    align-items: flex-end;
+}
