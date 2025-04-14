@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jeff Girard">
+<meta name="description" content="University of Kansas">
 
-<title>KDSC | Module - Workshop – KDSC</title>
+<title>KDSC R Workshop: Intro to R &amp; Data Wrangling – KDSC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-module_workshop-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-module_workshop-listings'] = new List('listing-module_workshop-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -138,8 +80,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../kdsc_logo.png" alt="KDSC logo" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../kdsc_logo.png" alt="KDSC logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -149,15 +91,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../project.html"> 
+    <a class="nav-link" href="../../project.html"> 
 <span class="menu-text">Community Data Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../competency.html"> 
+    <a class="nav-link" href="../../competency.html"> 
 <span class="menu-text">Curriculum</span></a>
   </li>  
 </ul>
@@ -197,334 +139,74 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(19)</span></div><div class="category" data-category="Data Bias and Fairness">Data Bias and Fairness <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Data Mining">Data Mining <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Data Wrangling">Data Wrangling <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Ethical Problem Solving">Ethical Problem Solving <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Model Building">Model Building <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Programming Skills">Programming Skills <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Statistical Foundation">Statistical Foundation <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Statistical Foundations">Statistical Foundations <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#material-description" id="toc-material-description" class="nav-link active" data-scroll-target="#material-description">Material Description</a></li>
+  <li><a href="#module-materials" id="toc-module-materials" class="nav-link" data-scroll-target="#module-materials">Module Materials</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">KDSC R Workshop: Intro to R &amp; Data Wrangling</h1>
+<p class="subtitle lead">Workshop Material</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Statistical Foundations</div>
+    <div class="quarto-category">Programming Skills</div>
+    <div class="quarto-category">Data Wrangling</div>
+  </div>
+  </div>
 
-
-
-<section id="module-materials" class="level1">
-<h1>Module Materials</h1>
-<p>Explore our modules designed to build specific data science skill sets.</p>
-<div class="{module-listings}">
-
+<div>
+  <div class="description">
+    University of Kansas
+  </div>
 </div>
 
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jeff Girard </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="material-description" class="level2">
+<h2 class="anchored" data-anchor-id="material-description">Material Description</h2>
+<p>This is the first session in the R workshop series, covering intro to R &amp; data wrangling.</p>
+</section>
+<section id="module-materials" class="level2">
+<h2 class="anchored" data-anchor-id="module-materials">Module Materials</h2>
+<iframe id="kmsembed-1_w7ji8r2g" width="600" height="374" src="https://mediahub.ku.edu/embed/secure/iframe/entryId/1_w7ji8r2g/uiConfId/54254972/st/0" class="kmsembed" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" allow="autoplay *; fullscreen *; encrypted-media *" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="KDSC Intro R "></iframe>
+<br>
+
+<a href="kdsc_intro_r.html" download="kdsc_intro_r.html" style="display:inline-block; padding:10px 20px; background-color:#397cfb; color:white; text-decoration:none; border-radius:5px;">
+  Download the material
+</a>
+
+
+<p>This Material is under the <a href="https://creativecommons.org/licenses/by-nd/2.0/deed.en">CC BY-ND license</a></p>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-module_workshop-listings">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-module_workshop-listings-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-module_workshop-listings'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Module
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table table-striped">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Module</a>
-</th>
-<th>
-Type of Material
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-<th>
-Institution
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Data Wrangling" data-listing-file-modified-sort="1734359976156" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 1" data-listing-filename-sort="ku_duncan_business_analytics1.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_business_analytics1.html" class="title listing-title">Business Data Analytics 1</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="1" data-categories="Data Wrangling" data-listing-file-modified-sort="1734359976156" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 2" data-listing-filename-sort="ku_duncan_business_analytics2.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_business_analytics2.html" class="title listing-title">Business Data Analytics 2</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="2" data-categories="Data Wrangling" data-listing-file-modified-sort="1734359976156" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 3" data-listing-filename-sort="ku_duncan_business_analytics3.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_business_analytics3.html" class="title listing-title">Business Data Analytics 3</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="3" data-categories="Data Wrangling" data-listing-file-modified-sort="1734359976156" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 4" data-listing-filename-sort="ku_duncan_business_analytics4.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_business_analytics4.html" class="title listing-title">Business Data Analytics 4</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="4" data-categories="Statistical Foundation,Programming Skills" data-listing-file-modified-sort="1734359976157" data-listing-reading-time-sort="1" data-listing-word-count-sort="25" data-listing-title-sort="Business Data Analytics 4" data-listing-filename-sort="ku_duncan_stata.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_stata.html" class="title listing-title">Business Data Analytics 4</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="5" data-categories="Data Mining" data-listing-file-modified-sort="1734359976154" data-listing-reading-time-sort="1" data-listing-word-count-sort="52" data-listing-title-sort="Computer Approach to Art History" data-listing-filename-sort="kstate_shamir_arthistory.qmd">
-<td>
-<a href="../module/module_workshop/kstate_shamir_arthistory.html" class="title listing-title">Computer Approach to Art History</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">Lior Shamir</span>
-</td>
-<td>
-<span class="listing-description">Kansas State University</span>
-</td>
-</tr>
-<tr data-index="6" data-categories="Ethical Problem Solving,Data Bias and Fairness" data-listing-file-modified-sort="1744039332993" data-listing-reading-time-sort="1" data-listing-word-count-sort="98" data-listing-title-sort="Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health" data-listing-filename-sort="ucb_chaspari_data_bias_presentation.qmd">
-<td>
-<a href="../module/module_workshop/ucb_chaspari_data_bias_presentation.html" class="title listing-title">Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">Theodora Chaspari</span>
-</td>
-<td>
-<span class="listing-description">University of Colorado Boulder</span>
-</td>
-</tr>
-<tr data-index="7" data-categories="Ethical Problem Solving,Data Bias and Fairness" data-listing-file-modified-sort="1744039341483" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems" data-listing-filename-sort="cmu_zhou_data_bias_presentation.qmd">
-<td>
-<a href="../module/module_workshop/cmu_zhou_data_bias_presentation.html" class="title listing-title">Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">Xuhui Zhou</span>
-</td>
-<td>
-<span class="listing-description">Carnegie Mellon University</span>
-</td>
-</tr>
-<tr data-index="8" data-categories="Programming Skills,Data Wrangling" data-listing-file-modified-sort="1743964853629" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Bureau of Economic Analysis" data-listing-filename-sort="ku_duncan_federal_economic.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_federal_economic.html" class="title listing-title">Federal Data Workshops: the Bureau of Economic Analysis</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="9" data-categories="Programming Skills,Data Wrangling" data-listing-file-modified-sort="1741553661210" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Bureau of Labor Statistics" data-listing-filename-sort="ku_duncan_federal_labor.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_federal_labor.html" class="title listing-title">Federal Data Workshops: the Bureau of Labor Statistics</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="10" data-categories="Programming Skills,Data Wrangling" data-listing-file-modified-sort="1741555563117" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Census Bureau" data-listing-filename-sort="ku_duncan_federal_census.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_federal_census.html" class="title listing-title">Federal Data Workshops: the Census Bureau</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="11" data-categories="Programming Skills,Data Wrangling" data-listing-file-modified-sort="1741555488251" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Federal Data Workshops: the National Center for Education Statistics" data-listing-filename-sort="ku_duncan_federal_education.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_federal_education.html" class="title listing-title">Federal Data Workshops: the National Center for Education Statistics</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="12" data-categories="Programming Skills,Data Wrangling" data-listing-file-modified-sort="1741555483046" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Federal Data Workshops: the National Center for Health Statistics" data-listing-filename-sort="ku_duncan_federal_health.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_federal_health.html" class="title listing-title">Federal Data Workshops: the National Center for Health Statistics</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="13" data-categories="Statistical Foundation,Model Building" data-listing-file-modified-sort="1741546145847" data-listing-reading-time-sort="1" data-listing-word-count-sort="68" data-listing-title-sort="Introduction to Tableau" data-listing-filename-sort="butler_cc_akao_tableau.qmd">
-<td>
-<a href="../module/module_workshop/butler_cc_akao_tableau.html" class="title listing-title">Introduction to Tableau</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">Janice Akao</span>
-</td>
-<td>
-<span class="listing-description">Butler Community College</span>
-</td>
-</tr>
-<tr data-index="14" data-categories="Statistical Foundations,Programming Skills,Data Wrangling" data-listing-file-modified-sort="1744646154518" data-listing-reading-time-sort="1" data-listing-word-count-sort="74" data-listing-title-sort="KDSC R Workshop: Intro to R &amp; Data Wrangling" data-listing-filename-sort="ku_girard_r_workshop_1.qmd">
-<td>
-<a href="../module/module_workshop/ku_girard_r_workshop_1.html" class="title listing-title">KDSC R Workshop: Intro to R &amp; Data Wrangling</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">Jeff Girard</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="15" data-categories="Programming Skills,Data Wrangling" data-listing-file-modified-sort="1741553347982" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Stata Workshop 1:Data Wrangling" data-listing-filename-sort="ku_duncan_stata_spring_2025.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_stata_spring_2025.html" class="title listing-title">Stata Workshop 1:Data Wrangling</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="16" data-categories="Programming Skills" data-listing-file-modified-sort="1741553406898" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Stata Workshop 2:Visualization" data-listing-filename-sort="ku_duncan_stata_spring_2025_2.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_stata_spring_2025_2.html" class="title listing-title">Stata Workshop 2:Visualization</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="17" data-categories="Statistical Foundation,Programming Skills" data-listing-file-modified-sort="1741553791761" data-listing-reading-time-sort="1" data-listing-word-count-sort="32" data-listing-title-sort="Stata Workshop 3:Data Wrangling" data-listing-filename-sort="ku_duncan_stata_spring_2025_3.qmd">
-<td>
-<a href="../module/module_workshop/ku_duncan_stata_spring_2025_3.html" class="title listing-title">Stata Workshop 3:Data Wrangling</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">William Duncan</span>
-</td>
-<td>
-<span class="listing-description">University of Kansas</span>
-</td>
-</tr>
-<tr data-index="18" data-categories="Statistical Foundation,Data Mining,Data Wrangling" data-listing-file-modified-sort="1734359976154" data-listing-reading-time-sort="1" data-listing-word-count-sort="97" data-listing-title-sort="Text Analysis Protocol" data-listing-filename-sort="kstate_shamir_textanalysis.qmd">
-<td>
-<a href="../module/module_workshop/kstate_shamir_textanalysis.html" class="title listing-title">Text Analysis Protocol</a>
-</td>
-<td>
-<span class="listing-subtitle">Workshop Material</span>
-</td>
-<td>
-<span class="listing-author">Lior Shamir</span>
-</td>
-<td>
-<span class="listing-description">Kansas State University</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
