@@ -91,414 +91,288 @@
     "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Module\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nModule\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nBusiness Data Analytics 1\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 2\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 3\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nBusiness Data Analytics 4\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nComputer Approach to Art History\n\n\nWorkshop Material\n\n\nLior Shamir\n\n\nKansas State University\n\n\n\n\nData Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health\n\n\nWorkshop Material\n\n\nTheodora Chaspari\n\n\nUniversity of Colorado Boulder\n\n\n\n\nData Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems\n\n\nWorkshop Material\n\n\nXuhui Zhou\n\n\nCarnegie Mellon University\n\n\n\n\nFederal Data Workshops: the Bureau of Economic Analysis\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the Bureau of Labor Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the Census Bureau\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the National Center for Education Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nFederal Data Workshops: the National Center for Health Statistics\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nIntroduction to Tableau\n\n\nWorkshop Material\n\n\nJanice Akao\n\n\nButler Community College\n\n\n\n\nKDSC R Workshop: Intro to R & Data Wrangling\n\n\nWorkshop Material\n\n\nJeff Girard\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 1:Data Wrangling\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 2:Visualization\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nStata Workshop 3:Data Wrangling\n\n\nWorkshop Material\n\n\nWilliam Duncan\n\n\nUniversity of Kansas\n\n\n\n\nText Analysis Protocol\n\n\nWorkshop Material\n\n\nLior Shamir\n\n\nKansas State University\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
-    "title": "Stata Workshop 3:Data Wrangling",
+    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html",
+    "href": "module/module_workshop/ku_girard_r_workshop_1.html",
+    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
     "section": "",
-    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
+    "text": "This is the first session in the R workshop series, covering intro to R & data wrangling."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
-    "title": "Stata Workshop 3:Data Wrangling",
+    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#material-description",
+    "href": "module/module_workshop/ku_girard_r_workshop_1.html#material-description",
+    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
     "section": "",
-    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
+    "text": "This is the first session in the R workshop series, covering intro to R & data wrangling."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
-    "title": "Stata Workshop 3:Data Wrangling",
+    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#module-materials",
+    "href": "module/module_workshop/ku_girard_r_workshop_1.html#module-materials",
+    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
+    "section": "Module Materials",
+    "text": "Module Materials\n\n\n\n\n  Download the material\n\n\n\nThis Material is under the CC BY-ND license"
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+    "title": "Stata Workshop 2:Visualization",
+    "section": "",
+    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
+    "title": "Stata Workshop 2:Visualization",
+    "section": "",
+    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
+    "title": "Stata Workshop 2:Visualization",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html",
-    "title": "Stata Workshop 1:Data Wrangling",
+    "objectID": "module/module_workshop/ku_duncan_stata.html",
+    "href": "module/module_workshop/ku_duncan_stata.html",
+    "title": "Business Data Analytics 4",
     "section": "",
-    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is a set of workshop materials for introductory Stata analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
-    "title": "Stata Workshop 1:Data Wrangling",
+    "objectID": "module/module_workshop/ku_duncan_stata.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata.html#material-description",
+    "title": "Business Data Analytics 4",
     "section": "",
-    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is a set of workshop materials for introductory Stata analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
-    "title": "Stata Workshop 1:Data Wrangling",
+    "objectID": "module/module_workshop/ku_duncan_stata.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata.html#module-materials",
+    "title": "Business Data Analytics 4",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_labor.html",
-    "href": "module/module_workshop/ku_duncan_federal_labor.html",
-    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_health.html",
+    "href": "module/module_workshop/ku_duncan_federal_health.html",
+    "title": "Federal Data Workshops: the National Center for Health Statistics",
     "section": "",
-    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
+    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
-    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_health.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_health.html#material-description",
+    "title": "Federal Data Workshops: the National Center for Health Statistics",
     "section": "",
-    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
+    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
-    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
+    "title": "Federal Data Workshops: the National Center for Health Statistics",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_education.html",
-    "href": "module/module_workshop/ku_duncan_federal_education.html",
-    "title": "Federal Data Workshops: the National Center for Education Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_economic.html",
+    "href": "module/module_workshop/ku_duncan_federal_economic.html",
+    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
     "section": "",
-    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
+    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_education.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_education.html#material-description",
-    "title": "Federal Data Workshops: the National Center for Education Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
+    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
     "section": "",
-    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
+    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
-    "title": "Federal Data Workshops: the National Center for Education Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
+    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_census.html",
-    "href": "module/module_workshop/ku_duncan_federal_census.html",
-    "title": "Federal Data Workshops: the Census Bureau",
-    "section": "",
-    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
-  },
-  {
-    "objectID": "module/module_workshop/ku_duncan_federal_census.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_census.html#material-description",
-    "title": "Federal Data Workshops: the Census Bureau",
-    "section": "",
-    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
-  },
-  {
-    "objectID": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
-    "title": "Federal Data Workshops: the Census Bureau",
-    "section": "Module Materials",
-    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
-  },
-  {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics3.html",
-    "title": "Business Data Analytics 3",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics4.html",
+    "title": "Business Data Analytics 4",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
-    "title": "Business Data Analytics 3",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
+    "title": "Business Data Analytics 4",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
-    "title": "Business Data Analytics 3",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
+    "title": "Business Data Analytics 4",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics1.html",
-    "title": "Business Data Analytics 1",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics2.html",
+    "title": "Business Data Analytics 2",
     "section": "",
-    "text": "This is the first workshop of four is a series of workshops for business analytics."
+    "text": "This is the second workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
-    "title": "Business Data Analytics 1",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
+    "title": "Business Data Analytics 2",
     "section": "",
-    "text": "This is the first workshop of four is a series of workshops for business analytics."
+    "text": "This is the second workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
-    "title": "Business Data Analytics 1",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
+    "title": "Business Data Analytics 2",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_arthistory.html",
-    "href": "module/module_workshop/kstate_shamir_arthistory.html",
-    "title": "Computer Approach to Art History",
+    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html",
+    "href": "module/module_workshop/kstate_shamir_textanalysis.html",
+    "title": "Text Analysis Protocol",
     "section": "",
-    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
+    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
-    "href": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
-    "title": "Computer Approach to Art History",
+    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
+    "href": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
+    "title": "Text Analysis Protocol",
     "section": "",
-    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
+    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
   },
   {
-    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
-    "href": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
-    "title": "Computer Approach to Art History",
+    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
+    "href": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
+    "title": "Text Analysis Protocol",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/butler_cc_akao_tableau.html",
-    "href": "module/module_workshop/butler_cc_akao_tableau.html",
-    "title": "Introduction to Tableau",
+    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html",
+    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html",
+    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
     "section": "",
-    "text": "This module contains information that can be used to provide a 3 hour hand-on workshop where participants are exposed to data science through an introductory PowerPoint. and they learn to use Tableau. There is an outline that can be used to guide workshop participants in the development of 4 different visualizations and a dashboard."
+    "text": "Xuhui Zhou’s presentation on “Safety, Ethics, and Biases in AI and NLP Systems” for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection."
   },
   {
-    "objectID": "module/module_workshop/butler_cc_akao_tableau.html#material-description",
-    "href": "module/module_workshop/butler_cc_akao_tableau.html#material-description",
-    "title": "Introduction to Tableau",
+    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html#material-description",
+    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html#material-description",
+    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
     "section": "",
-    "text": "This module contains information that can be used to provide a 3 hour hand-on workshop where participants are exposed to data science through an introductory PowerPoint. and they learn to use Tableau. There is an outline that can be used to guide workshop participants in the development of 4 different visualizations and a dashboard."
+    "text": "Xuhui Zhou’s presentation on “Safety, Ethics, and Biases in AI and NLP Systems” for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection."
   },
   {
-    "objectID": "module/module_workshop/butler_cc_akao_tableau.html#module-materials",
-    "href": "module/module_workshop/butler_cc_akao_tableau.html#module-materials",
-    "title": "Introduction to Tableau",
+    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html#module-materials",
+    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html#module-materials",
+    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
     "section": "Module Materials",
-    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY-NC license"
+    "text": "Module Materials\n\nThis Material is under the CC BY-NC license"
   },
   {
-    "objectID": "module/module_tutorial/tutorial_intro_colab.html",
-    "href": "module/module_tutorial/tutorial_intro_colab.html",
-    "title": "Introduction to Google Colab",
+    "objectID": "module/module_tutorial.html",
+    "href": "module/module_tutorial.html",
+    "title": "Module Materials",
     "section": "",
-    "text": "You can access this tutorial here\n\n\n\n Back to top"
+    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nHands-on Practice\n\n\nWithheld \n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html",
-    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html",
-    "title": "Intro to Neural Network",
+    "objectID": "module/module_lecture.html",
+    "href": "module/module_lecture.html",
+    "title": "Module Materials",
     "section": "",
-    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
+    "text": "Module Materials\nExplore our modules that can be helpful for building course materials.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nCasuality\n\n\nLecture Slide\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nCasuality Homework\n\n\nHomework Assignment\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nIntro to Neural Network\n\n\nLecture Slide\n\n\nDr. Fuijan Yan\n\n\nWichita State University\n\n\n\n\nLinear Regression\n\n\nLecture Material\n\n\nSuzanne Smith\n\n\nJohnson County Community College\n\n\n\n\nMultiple Models, Explainability, and Bias\n\n\nLecture Material\n\n\nMichael S. Branicky\n\n\nUniversity of Kansas\n\n\n\n\nNetwork Intrusion Detection with AI\n\n\nLecture Slide\n\n\nDr. Sergio Salinas Mornroy\n\n\nWichita State University\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
-    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
-    "title": "Intro to Neural Network",
+    "objectID": "module/module_lecture/wsu_mornroy_networkintrusion.html",
+    "href": "module/module_lecture/wsu_mornroy_networkintrusion.html",
+    "title": "Network Intrusion Detection with AI",
     "section": "",
-    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
+    "text": "This module provides data code to demonstrate how attacks can be detected in a packet capture file."
   },
   {
-    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
-    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
-    "title": "Intro to Neural Network",
+    "objectID": "module/module_lecture/wsu_mornroy_networkintrusion.html#material-description",
+    "href": "module/module_lecture/wsu_mornroy_networkintrusion.html#material-description",
+    "title": "Network Intrusion Detection with AI",
+    "section": "",
+    "text": "This module provides data code to demonstrate how attacks can be detected in a packet capture file."
+  },
+  {
+    "objectID": "module/module_lecture/wsu_mornroy_networkintrusion.html#module-materials",
+    "href": "module/module_lecture/wsu_mornroy_networkintrusion.html#module-materials",
+    "title": "Network Intrusion Detection with AI",
     "section": "Module Materials",
-    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
+    "text": "Module Materials\nYou can access the lecture slide here\nYou can access the lecture materials including code and data here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html",
-    "href": "module/module_lecture/ku_dataI_casuality_slide.html",
-    "title": "Casuality",
+    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html",
+    "href": "module/module_lecture/ku_dataI_casuality_hw.html",
+    "title": "Casuality Homework",
     "section": "",
-    "text": "This module is a lecture slide that explains casuality."
+    "text": "This module is a hands-on homework assignment that students can enhance their understanding of causality and develop programming skills via Google Colab."
   },
   {
-    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html#material-description",
-    "href": "module/module_lecture/ku_dataI_casuality_slide.html#material-description",
-    "title": "Casuality",
+    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html#material-description",
+    "href": "module/module_lecture/ku_dataI_casuality_hw.html#material-description",
+    "title": "Casuality Homework",
     "section": "",
-    "text": "This module is a lecture slide that explains casuality."
+    "text": "This module is a hands-on homework assignment that students can enhance their understanding of causality and develop programming skills via Google Colab."
   },
   {
-    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
-    "href": "module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
-    "title": "Casuality",
+    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
+    "href": "module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
+    "title": "Casuality Homework",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here"
   },
   {
-    "objectID": "module/module_lecture/ku_branicky_interpretable_model_lecture.html",
-    "href": "module/module_lecture/ku_branicky_interpretable_model_lecture.html",
-    "title": "Multiple Models, Explainability, and Bias",
+    "objectID": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
+    "href": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
+    "title": "Linear Regression",
     "section": "",
-    "text": "Students explore the space of good models and reflect on those that are more explainable and open to examination for interpretation by subject matter experts and for bias by policy makers, lawyers, and the general public."
+    "text": "This module contains a video lecture, notes, and a lab over Linear Regression. The correlation coefficient and “Line of Best Fit” are discussed. KNIME Analytics Platform (free, open source) is used to find the regression line and then students learn how to use that line to make predictions."
   },
   {
-    "objectID": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#material-description",
-    "href": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#material-description",
-    "title": "Multiple Models, Explainability, and Bias",
+    "objectID": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#material-description",
+    "href": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#material-description",
+    "title": "Linear Regression",
     "section": "",
-    "text": "Students explore the space of good models and reflect on those that are more explainable and open to examination for interpretation by subject matter experts and for bias by policy makers, lawyers, and the general public."
+    "text": "This module contains a video lecture, notes, and a lab over Linear Regression. The correlation coefficient and “Line of Best Fit” are discussed. KNIME Analytics Platform (free, open source) is used to find the regression line and then students learn how to use that line to make predictions."
   },
   {
-    "objectID": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#module-materials",
-    "href": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#module-materials",
-    "title": "Multiple Models, Explainability, and Bias",
+    "objectID": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#module-materials",
+    "href": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#module-materials",
+    "title": "Linear Regression",
     "section": "Module Materials",
-    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY-NC-SA license"
+    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "index_original.html",
-    "href": "index_original.html",
-    "title": "Welcome to ARISE’s Repository",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to KDSC’s Repository",
     "section": "",
-    "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\n\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.  \n\nLearn more »\n\n\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\nA unique aspect of the KDSC is that its network of community partners can provide feedback on the material to help tune the coursework to the needs of the state. Over the course of the project, the KDSC expands access to the open-source framework including other schools and K-12 programs.\n\n\n\n Back to top"
+    "text": "This website serves as an online repository for data science curriculum materials developed by the Kansas Data Science Consortium KDSC team. Faculty from our educational partners collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.\n\n\nProjects\nThe Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, analysis code, materials, and project reports from previous semesters. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.\n\nProjects »\n\n\n\nCurriculum\nOur curriculum repository contains content from a wide range of data science courses- from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets, all systematically organized . This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience. Our modules can be implemented in data science education settings to enrich and expand students’ understanding.\n\nCurriculum Repository »\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "dataset.html",
-    "href": "dataset.html",
-    "title": "Dataset",
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course Materials",
     "section": "",
-    "text": "Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available."
-  },
-  {
-    "objectID": "dataset.html#community-data-lab-datasets",
-    "href": "dataset.html#community-data-lab-datasets",
-    "title": "Dataset",
-    "section": "",
-    "text": "Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available."
-  },
-  {
-    "objectID": "dataset.html#datasets",
-    "href": "dataset.html#datasets",
-    "title": "Dataset",
-    "section": "Datasets",
-    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Provider\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nProvider\n\n\n\n\n\n\nMay 1, 2024\n\n\nKansas Action for Children\n\n\nCommunity Provided\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "course/Data_V_TBD_KU.html",
-    "href": "course/Data_V_TBD_KU.html",
-    "title": "Data V",
-    "section": "",
-    "text": "Course description.\nUnable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "course/Data_V_TBD_KU.html#description",
-    "href": "course/Data_V_TBD_KU.html#description",
-    "title": "Data V",
-    "section": "",
-    "text": "Course description.\nUnable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "course/Data_IV_TBD_KU.html",
-    "href": "course/Data_IV_TBD_KU.html",
-    "title": "Data IV",
-    "section": "",
-    "text": "Course description.\nUnable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "course/Data_IV_TBD_KU.html#description",
-    "href": "course/Data_IV_TBD_KU.html#description",
-    "title": "Data IV",
-    "section": "",
-    "text": "Course description.\nUnable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "course/Data_III_TBD_KU.html",
-    "href": "course/Data_III_TBD_KU.html",
-    "title": "Data III",
-    "section": "",
-    "text": "Course description.\npdf to be uploaded"
-  },
-  {
-    "objectID": "course/Data_III_TBD_KU.html#description",
-    "href": "course/Data_III_TBD_KU.html#description",
-    "title": "Data III",
-    "section": "",
-    "text": "Course description.\npdf to be uploaded"
-  },
-  {
-    "objectID": "competency/comp_stat_foundation.html",
-    "href": "competency/comp_stat_foundation.html",
-    "title": "Statistical Foundation",
-    "section": "",
-    "text": "Statistical reasoning is the framework in which data science is enacted. Having the context and logic of statistics allows data scientists to collect, analyze, and interpret data effectively. This competency includes knowledge of statistical tests, probability, regression analysis, and hypothesis testing.Strong statistical foundations help with making informed decisions based on the data, identifying trends, and predicting future outcomes.\nIn practice, a data scientist uses statistical methods to make sense of large datasets and to determine the reliability of the conclusions drawn from the data. For example, data scientists might use statistics to evaluate whether a difference in air quality between two regions is more affiliated with differences in nearby pollutants or nearby plant life. This is crucial in fields ranging from business to public health, where strategic decisions, particularly the allocation of limited resources, are often based on data analysis.\nOur repository prioritizes curriculum materials which employ and develop foundational statistic skills. Modules which involve statistical foundations can be combined with other educational materials to embellish coursework and may mesh particularly well with courses which are already covering statistics.\n\nExplore Materials »\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competency/comp_model_build.html",
-    "href": "competency/comp_model_build.html",
-    "title": "Model Building",
-    "section": "",
-    "text": "Model building involves creating data-driven models to understand data relationships or to perform predictive analysis. This competency requires an understanding of the algorithms used in modeling and the ability to apply them appropriately. Common tasks include selecting the right model, training the model with data, testing it, and refining it to improve accuracy.\nIn practical terms, model building allows data scientists to forecast future trends, classify data, and make decisions based on data predictions. It is a core component of many data science applications, such as risk management, algorithmic trading, and customer behavior prediction. Effective model building depends on technical skills and on a deep understanding of the problem domain to ensure that the models are both accurate and relevant.\nModel building relies on the confluence of all competencies. Materials from our repository which are designed to develop model building skills can be combined with other coursework to enrich the experience.\n\nExplore Materials »\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competency/comp_data_mining.html",
-    "href": "competency/comp_data_mining.html",
-    "title": "Data Mining",
-    "section": "",
-    "text": "Data mining is the process of discovering patterns and knowledge hidden within large amounts of data. The competency involves not just handling data, but also selecting and employing the appropriate methods to extract useful information. Techniques in this area include clustering, classification, association rule mining, and anomaly detection.\nFor a data scientist, data mining means sifting through massive datasets to find meaningful insights. It’s like being a digital prospector, looking for nuggets of valuable information among the vast expanses of data. This skill is especially useful in environments where data is not only big but also complex, such as in marketing or financial analysis.\nOur repository contains a wide range of materials designed to develop data mining skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about_us.html",
-    "href": "about_us.html",
-    "title": "We are KDSC",
-    "section": "",
-    "text": "We are KDSC\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competency/comp_data_eng.html",
-    "href": "competency/comp_data_eng.html",
-    "title": "Data Engineering",
-    "section": "",
-    "text": "Data engineering focuses on the practical applications of data collection and processing frameworks that are scalable and optimized for performance. This competency involves the architecture of data systems and the management of data flow, including gathering, storage, and access. Technologies such as databases, big data frameworks, and cloud services are commonly utilized tools in data engineering.\nFor data scientists, understanding data engineering is crucial because it enables them to design systems that handle and process large volumes of data efficiently. Efficient data systems help ensure that data analysis tasks can be performed quickly and reliably, allowing organizations to leverage their data effectively and gain competitive advantages. Like data mining, data engineering is most important in fields with large and complicated datasets like marketing and finance.\nAlthough plenty of materials will involve some amount of data engineering, several of our modules are designed specifically around building these skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competency/comp_data_wrangling.html",
-    "href": "competency/comp_data_wrangling.html",
-    "title": "Data Wrangling",
-    "section": "",
-    "text": "Data wrangling, also known as data cleaning or munging, involves transforming and mapping raw data into more usable formats. This competency is critical because data often comes from various sources and may not be in a form suitable for analysis. Data wrangling includes dealing with missing values, correcting errors, and standardizing formatting.\nData scientists spend a significant amount of time in the data wrangling phase, ensuring that the data is accurate and well-prepared for analysis. This step is crucial because the quality of data directly affects the accuracy of the analysis and predictions. Good data wrangling practices lead to reliable data insights, which are essential for any analytical project.\nOur repository contains an array of materials which are designed to train and develop data wrangling skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competency/comp_programming.html",
-    "href": "competency/comp_programming.html",
-    "title": "Programming Skills",
-    "section": "",
-    "text": "Programming skills are the building blocks of data science. These skills involve the ability to write and understand code, primarily in languages such as Python, R, or SQL. Programming allows data scientists to interact with data, perform tasks, create automations, and implement algorithms that help in analyzing and interpreting data.\nBasic programming skills are vital to modern data science because they are the method through which all data science is performed. Advanced programming skills enable data scientists to be versatile and innovative in solving problems. They can write scripts to automate repetitive tasks, develop models to make predictions, or create interactive data visualizations. This competency is indispensable to all fields which rely on data science to turn raw data into actionable insights.\nOur repository contains materials which utilize and improve programming skills. Although most modules will interact with programming, some are specifically designed around building this competency.\n\nExplore Materials »\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competency.html",
-    "href": "competency.html",
-    "title": "Data Science Competency",
-    "section": "",
-    "text": "Data Science Competency\nData science competencies encompass a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, data science requires a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, and play a pivotal role in guiding strategic business moves and optimizing processes.\nThis repository is organized around these six competencies. Each category contains modules which pertain to specific skill-building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Curriculum",
-      "Competency"
+      "Course"
     ]
-  },
-  {
-    "objectID": "course/Data_II_TBD_KU.html",
-    "href": "course/Data_II_TBD_KU.html",
-    "title": "Data II",
-    "section": "",
-    "text": "Course description.\nUnable to display PDF file. Download instead."
-  },
-  {
-    "objectID": "course/Data_II_TBD_KU.html#description",
-    "href": "course/Data_II_TBD_KU.html#description",
-    "title": "Data II",
-    "section": "",
-    "text": "Course description.\nUnable to display PDF file. Download instead."
   },
   {
     "objectID": "course/Data_I_Duncun_KU.html",
@@ -564,265 +438,412 @@
     "text": "Resources\n\nTextbook\nTextbook: Computational and Inferential Thinking: The Foundations of Data Science\n\n\nGoogle Colab\nHomework Assignments and Data Lab use Google Colab"
   },
   {
-    "objectID": "course.html",
-    "href": "course.html",
-    "title": "Course Materials",
+    "objectID": "course/Data_II_TBD_KU.html",
+    "href": "course/Data_II_TBD_KU.html",
+    "title": "Data II",
     "section": "",
-    "text": "Course Materials\nExplore our courses designed build data science competency\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Course\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nCourse\n\n\nCore Competency\n\n\nProvider\n\n\n\n\n\n\nData I\n\n\nProgramming Skills\n\n\nUniversity of Kansas\n\n\n\n\nData II\n\n\nData Wrangling\n\n\nUniversity of Kansas\n\n\n\n\nData III\n\n\nData Engineering\n\n\nUniversity of Kansas\n\n\n\n\nData IV\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\nData V\n\n\nModeling Building\n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_II_TBD_KU.html#description",
+    "href": "course/Data_II_TBD_KU.html#description",
+    "title": "Data II",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "competency.html",
+    "href": "competency.html",
+    "title": "Data Science Competency",
+    "section": "",
+    "text": "Data Science Competency\nData science competencies encompass a broad spectrum of skills crucial for extracting meaningful information from large and diverse datasets to drive decision-making and innovation. At its core, data science requires a strong statistical foundation for analytical rigor, programming skills for manipulating data and implementing algorithms, and data mining techniques for uncovering hidden patterns and predictive insights. Additionally, data wrangling skills are essential for cleaning and preparing data, data engineering for building and maintaining scalable data infrastructures, and model building for creating and fine-tuning algorithms that predict future trends and behaviors. Together, these competencies enable data scientists to turn raw data into actionable insights, and play a pivotal role in guiding strategic business moves and optimizing processes.\nThis repository is organized around these six competencies. Each category contains modules which pertain to specific skill-building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Engineering\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mining\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\nModel Building\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Foundation\n\n\n\n\n\n\n\nNo matching items\n\n Back to top",
     "crumbs": [
       "Curriculum",
-      "Course"
+      "Competency"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to KDSC’s Repository",
+    "objectID": "competency/comp_programming.html",
+    "href": "competency/comp_programming.html",
+    "title": "Programming Skills",
     "section": "",
-    "text": "This website serves as an online repository for data science curriculum materials developed by the Kansas Data Science Consortium KDSC team. Faculty from our educational partners collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.\n\n\nProjects\nThe Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, analysis code, materials, and project reports from previous semesters. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.\n\nProjects »\n\n\n\nCurriculum\nOur curriculum repository contains content from a wide range of data science courses- from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets, all systematically organized . This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience. Our modules can be implemented in data science education settings to enrich and expand students’ understanding.\n\nCurriculum Repository »\n\n\n\n\n\n\n Back to top"
+    "text": "Programming skills are the building blocks of data science. These skills involve the ability to write and understand code, primarily in languages such as Python, R, or SQL. Programming allows data scientists to interact with data, perform tasks, create automations, and implement algorithms that help in analyzing and interpreting data.\nBasic programming skills are vital to modern data science because they are the method through which all data science is performed. Advanced programming skills enable data scientists to be versatile and innovative in solving problems. They can write scripts to automate repetitive tasks, develop models to make predictions, or create interactive data visualizations. This competency is indispensable to all fields which rely on data science to turn raw data into actionable insights.\nOur repository contains materials which utilize and improve programming skills. Although most modules will interact with programming, some are specifically designed around building this competency.\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
-    "href": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
-    "title": "Linear Regression",
+    "objectID": "competency/comp_data_wrangling.html",
+    "href": "competency/comp_data_wrangling.html",
+    "title": "Data Wrangling",
     "section": "",
-    "text": "This module contains a video lecture, notes, and a lab over Linear Regression. The correlation coefficient and “Line of Best Fit” are discussed. KNIME Analytics Platform (free, open source) is used to find the regression line and then students learn how to use that line to make predictions."
+    "text": "Data wrangling, also known as data cleaning or munging, involves transforming and mapping raw data into more usable formats. This competency is critical because data often comes from various sources and may not be in a form suitable for analysis. Data wrangling includes dealing with missing values, correcting errors, and standardizing formatting.\nData scientists spend a significant amount of time in the data wrangling phase, ensuring that the data is accurate and well-prepared for analysis. This step is crucial because the quality of data directly affects the accuracy of the analysis and predictions. Good data wrangling practices lead to reliable data insights, which are essential for any analytical project.\nOur repository contains an array of materials which are designed to train and develop data wrangling skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#material-description",
-    "href": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#material-description",
-    "title": "Linear Regression",
+    "objectID": "competency/comp_data_eng.html",
+    "href": "competency/comp_data_eng.html",
+    "title": "Data Engineering",
     "section": "",
-    "text": "This module contains a video lecture, notes, and a lab over Linear Regression. The correlation coefficient and “Line of Best Fit” are discussed. KNIME Analytics Platform (free, open source) is used to find the regression line and then students learn how to use that line to make predictions."
+    "text": "Data engineering focuses on the practical applications of data collection and processing frameworks that are scalable and optimized for performance. This competency involves the architecture of data systems and the management of data flow, including gathering, storage, and access. Technologies such as databases, big data frameworks, and cloud services are commonly utilized tools in data engineering.\nFor data scientists, understanding data engineering is crucial because it enables them to design systems that handle and process large volumes of data efficiently. Efficient data systems help ensure that data analysis tasks can be performed quickly and reliably, allowing organizations to leverage their data effectively and gain competitive advantages. Like data mining, data engineering is most important in fields with large and complicated datasets like marketing and finance.\nAlthough plenty of materials will involve some amount of data engineering, several of our modules are designed specifically around building these skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#module-materials",
-    "href": "module/module_lecture/johnsoncounty_smith_linearregression_lecture.html#module-materials",
-    "title": "Linear Regression",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about_us.html",
+    "href": "about_us.html",
+    "title": "We are KDSC",
+    "section": "",
+    "text": "We are KDSC\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competency/comp_data_mining.html",
+    "href": "competency/comp_data_mining.html",
+    "title": "Data Mining",
+    "section": "",
+    "text": "Data mining is the process of discovering patterns and knowledge hidden within large amounts of data. The competency involves not just handling data, but also selecting and employing the appropriate methods to extract useful information. Techniques in this area include clustering, classification, association rule mining, and anomaly detection.\nFor a data scientist, data mining means sifting through massive datasets to find meaningful insights. It’s like being a digital prospector, looking for nuggets of valuable information among the vast expanses of data. This skill is especially useful in environments where data is not only big but also complex, such as in marketing or financial analysis.\nOur repository contains a wide range of materials designed to develop data mining skills.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competency/comp_model_build.html",
+    "href": "competency/comp_model_build.html",
+    "title": "Model Building",
+    "section": "",
+    "text": "Model building involves creating data-driven models to understand data relationships or to perform predictive analysis. This competency requires an understanding of the algorithms used in modeling and the ability to apply them appropriately. Common tasks include selecting the right model, training the model with data, testing it, and refining it to improve accuracy.\nIn practical terms, model building allows data scientists to forecast future trends, classify data, and make decisions based on data predictions. It is a core component of many data science applications, such as risk management, algorithmic trading, and customer behavior prediction. Effective model building depends on technical skills and on a deep understanding of the problem domain to ensure that the models are both accurate and relevant.\nModel building relies on the confluence of all competencies. Materials from our repository which are designed to develop model building skills can be combined with other coursework to enrich the experience.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competency/comp_stat_foundation.html",
+    "href": "competency/comp_stat_foundation.html",
+    "title": "Statistical Foundation",
+    "section": "",
+    "text": "Statistical reasoning is the framework in which data science is enacted. Having the context and logic of statistics allows data scientists to collect, analyze, and interpret data effectively. This competency includes knowledge of statistical tests, probability, regression analysis, and hypothesis testing.Strong statistical foundations help with making informed decisions based on the data, identifying trends, and predicting future outcomes.\nIn practice, a data scientist uses statistical methods to make sense of large datasets and to determine the reliability of the conclusions drawn from the data. For example, data scientists might use statistics to evaluate whether a difference in air quality between two regions is more affiliated with differences in nearby pollutants or nearby plant life. This is crucial in fields ranging from business to public health, where strategic decisions, particularly the allocation of limited resources, are often based on data analysis.\nOur repository prioritizes curriculum materials which employ and develop foundational statistic skills. Modules which involve statistical foundations can be combined with other educational materials to embellish coursework and may mesh particularly well with courses which are already covering statistics.\n\nExplore Materials »\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "course/Data_III_TBD_KU.html",
+    "href": "course/Data_III_TBD_KU.html",
+    "title": "Data III",
+    "section": "",
+    "text": "Course description.\npdf to be uploaded"
+  },
+  {
+    "objectID": "course/Data_III_TBD_KU.html#description",
+    "href": "course/Data_III_TBD_KU.html#description",
+    "title": "Data III",
+    "section": "",
+    "text": "Course description.\npdf to be uploaded"
+  },
+  {
+    "objectID": "course/Data_IV_TBD_KU.html",
+    "href": "course/Data_IV_TBD_KU.html",
+    "title": "Data IV",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_IV_TBD_KU.html#description",
+    "href": "course/Data_IV_TBD_KU.html#description",
+    "title": "Data IV",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_V_TBD_KU.html",
+    "href": "course/Data_V_TBD_KU.html",
+    "title": "Data V",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "course/Data_V_TBD_KU.html#description",
+    "href": "course/Data_V_TBD_KU.html#description",
+    "title": "Data V",
+    "section": "",
+    "text": "Course description.\nUnable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Dataset",
+    "section": "",
+    "text": "Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available."
+  },
+  {
+    "objectID": "dataset.html#community-data-lab-datasets",
+    "href": "dataset.html#community-data-lab-datasets",
+    "title": "Dataset",
+    "section": "",
+    "text": "Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available."
+  },
+  {
+    "objectID": "dataset.html#datasets",
+    "href": "dataset.html#datasets",
+    "title": "Dataset",
+    "section": "Datasets",
+    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Year - Oldest\n        \n         \n          Year - Newest\n        \n         \n          Project\n        \n         \n          Provider\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nYear\n\n\nProject\n\n\nProvider\n\n\n\n\n\n\nMay 1, 2024\n\n\nKansas Action for Children\n\n\nCommunity Provided\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index_original.html",
+    "href": "index_original.html",
+    "title": "Welcome to ARISE’s Repository",
+    "section": "",
+    "text": "This is an online repository for data science curriculum material developed by ARISE team. The faculty from the KDSC works collaboratively to develop open-source coursework that can be tailored to each institution and different majors. There are two major components of the repository: Community Data Lab, and Curriculum.\n\n\n\n\n\nCommunity Data Lab\nWith permission from the community partner, deidentified data, analysis code, materials, and reports from each project are logged and deposited in this opensource framework for future use in a community data lab or other data science courses.  \n\nLearn more »\n\n\n\n\n\nCurriculum\nTeaching material for other data science courses from introductory courses to machine learning courses are logged. This component consists of lecture material, analysis code, exercises, and datasets. The curriculum is designed to develop core data science competencies.\n\nLearn more »\n\n\n\n\n\n\nA unique aspect of the KDSC is that its network of community partners can provide feedback on the material to help tune the coursework to the needs of the state. Over the course of the project, the KDSC expands access to the open-source framework including other schools and K-12 programs.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "module/module_lecture/ku_branicky_interpretable_model_lecture.html",
+    "href": "module/module_lecture/ku_branicky_interpretable_model_lecture.html",
+    "title": "Multiple Models, Explainability, and Bias",
+    "section": "",
+    "text": "Students explore the space of good models and reflect on those that are more explainable and open to examination for interpretation by subject matter experts and for bias by policy makers, lawyers, and the general public."
+  },
+  {
+    "objectID": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#material-description",
+    "href": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#material-description",
+    "title": "Multiple Models, Explainability, and Bias",
+    "section": "",
+    "text": "Students explore the space of good models and reflect on those that are more explainable and open to examination for interpretation by subject matter experts and for bias by policy makers, lawyers, and the general public."
+  },
+  {
+    "objectID": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#module-materials",
+    "href": "module/module_lecture/ku_branicky_interpretable_model_lecture.html#module-materials",
+    "title": "Multiple Models, Explainability, and Bias",
     "section": "Module Materials",
-    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
+    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY-NC-SA license"
   },
   {
-    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html",
-    "href": "module/module_lecture/ku_dataI_casuality_hw.html",
-    "title": "Casuality Homework",
+    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html",
+    "href": "module/module_lecture/ku_dataI_casuality_slide.html",
+    "title": "Casuality",
     "section": "",
-    "text": "This module is a hands-on homework assignment that students can enhance their understanding of causality and develop programming skills via Google Colab."
+    "text": "This module is a lecture slide that explains casuality."
   },
   {
-    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html#material-description",
-    "href": "module/module_lecture/ku_dataI_casuality_hw.html#material-description",
-    "title": "Casuality Homework",
+    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html#material-description",
+    "href": "module/module_lecture/ku_dataI_casuality_slide.html#material-description",
+    "title": "Casuality",
     "section": "",
-    "text": "This module is a hands-on homework assignment that students can enhance their understanding of causality and develop programming skills via Google Colab."
+    "text": "This module is a lecture slide that explains casuality."
   },
   {
-    "objectID": "module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
-    "href": "module/module_lecture/ku_dataI_casuality_hw.html#module-materials",
-    "title": "Casuality Homework",
+    "objectID": "module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
+    "href": "module/module_lecture/ku_dataI_casuality_slide.html#module-materials",
+    "title": "Casuality",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here"
   },
   {
-    "objectID": "module/module_lecture/wsu_mornroy_networkintrusion.html",
-    "href": "module/module_lecture/wsu_mornroy_networkintrusion.html",
-    "title": "Network Intrusion Detection with AI",
+    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+    "title": "Intro to Neural Network",
     "section": "",
-    "text": "This module provides data code to demonstrate how attacks can be detected in a packet capture file."
+    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
   },
   {
-    "objectID": "module/module_lecture/wsu_mornroy_networkintrusion.html#material-description",
-    "href": "module/module_lecture/wsu_mornroy_networkintrusion.html#material-description",
-    "title": "Network Intrusion Detection with AI",
+    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
+    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#material-description",
+    "title": "Intro to Neural Network",
     "section": "",
-    "text": "This module provides data code to demonstrate how attacks can be detected in a packet capture file."
+    "text": "This module introduces neural networks, and how to design neural networks to solve problems like classification and prediction."
   },
   {
-    "objectID": "module/module_lecture/wsu_mornroy_networkintrusion.html#module-materials",
-    "href": "module/module_lecture/wsu_mornroy_networkintrusion.html#module-materials",
-    "title": "Network Intrusion Detection with AI",
-    "section": "Module Materials",
-    "text": "Module Materials\nYou can access the lecture slide here\nYou can access the lecture materials including code and data here\nThis Material is under the CC BY license"
-  },
-  {
-    "objectID": "module/module_lecture.html",
-    "href": "module/module_lecture.html",
-    "title": "Module Materials",
-    "section": "",
-    "text": "Module Materials\nExplore our modules that can be helpful for building course materials.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nCasuality\n\n\nLecture Slide\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nCasuality Homework\n\n\nHomework Assignment\n\n\nTBD \n\n\nUniversity of Kansas\n\n\n\n\nIntro to Neural Network\n\n\nLecture Slide\n\n\nDr. Fuijan Yan\n\n\nWichita State University\n\n\n\n\nLinear Regression\n\n\nLecture Material\n\n\nSuzanne Smith\n\n\nJohnson County Community College\n\n\n\n\nMultiple Models, Explainability, and Bias\n\n\nLecture Material\n\n\nMichael S. Branicky\n\n\nUniversity of Kansas\n\n\n\n\nNetwork Intrusion Detection with AI\n\n\nLecture Slide\n\n\nDr. Sergio Salinas Mornroy\n\n\nWichita State University\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "module/module_tutorial.html",
-    "href": "module/module_tutorial.html",
-    "title": "Module Materials",
-    "section": "",
-    "text": "Module Materials\nExplore our modules designed to build specific data science skill sets.\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nType of Material\n\n\nAuthor\n\n\nInstitution\n\n\n\n\n\n\nIntroduction to Google Colab\n\n\nHands-on Practice\n\n\nWithheld \n\n\nUniversity of Kansas\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html",
-    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html",
-    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
-    "section": "",
-    "text": "Xuhui Zhou’s presentation on “Safety, Ethics, and Biases in AI and NLP Systems” for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection."
-  },
-  {
-    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html#material-description",
-    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html#material-description",
-    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
-    "section": "",
-    "text": "Xuhui Zhou’s presentation on “Safety, Ethics, and Biases in AI and NLP Systems” for the Data Bias and Fairness Speaker Series. In this lecture, Xuhui spoke about the biases in AI algorithms and NLP model training. He relayed useful lessons regarding data science principles in AI, machine learning, and data collection."
-  },
-  {
-    "objectID": "module/module_workshop/cmu_zhou_data_bias_presentation.html#module-materials",
-    "href": "module/module_workshop/cmu_zhou_data_bias_presentation.html#module-materials",
-    "title": "Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems",
-    "section": "Module Materials",
-    "text": "Module Materials\n\nThis Material is under the CC BY-NC license"
-  },
-  {
-    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html",
-    "href": "module/module_workshop/kstate_shamir_textanalysis.html",
-    "title": "Text Analysis Protocol",
-    "section": "",
-    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
-  },
-  {
-    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
-    "href": "module/module_workshop/kstate_shamir_textanalysis.html#material-description",
-    "title": "Text Analysis Protocol",
-    "section": "",
-    "text": "The purpose of this document is to show how to perform automatic classification and analysis of text files. Automatic classification of text files is done by computers “reading” the files automatically. In its most basic form, classification of text files using machine learning is performed by first converting each text files to a set of numerical values that describes it. Then the computer program identifies repetitive patterns in these numbers and uses these patterns to automatically classify or annotate these text files."
-  },
-  {
-    "objectID": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
-    "href": "module/module_workshop/kstate_shamir_textanalysis.html#module-materials",
-    "title": "Text Analysis Protocol",
+    "objectID": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
+    "href": "module/module_lecture/wsu_yan_neuralnetwork_slide.html#module-materials",
+    "title": "Intro to Neural Network",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics2.html",
-    "title": "Business Data Analytics 2",
+    "objectID": "module/module_tutorial/tutorial_intro_colab.html",
+    "href": "module/module_tutorial/tutorial_intro_colab.html",
+    "title": "Introduction to Google Colab",
     "section": "",
-    "text": "This is the second workshop of four is a series of workshops for business analytics."
+    "text": "You can access this tutorial here\n\n\n\n Back to top"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics2.html#material-description",
-    "title": "Business Data Analytics 2",
+    "objectID": "module/module_workshop/butler_cc_akao_tableau.html",
+    "href": "module/module_workshop/butler_cc_akao_tableau.html",
+    "title": "Introduction to Tableau",
     "section": "",
-    "text": "This is the second workshop of four is a series of workshops for business analytics."
+    "text": "This module contains information that can be used to provide a 3 hour hand-on workshop where participants are exposed to data science through an introductory PowerPoint. and they learn to use Tableau. There is an outline that can be used to guide workshop participants in the development of 4 different visualizations and a dashboard."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics2.html#module-materials",
-    "title": "Business Data Analytics 2",
+    "objectID": "module/module_workshop/butler_cc_akao_tableau.html#material-description",
+    "href": "module/module_workshop/butler_cc_akao_tableau.html#material-description",
+    "title": "Introduction to Tableau",
+    "section": "",
+    "text": "This module contains information that can be used to provide a 3 hour hand-on workshop where participants are exposed to data science through an introductory PowerPoint. and they learn to use Tableau. There is an outline that can be used to guide workshop participants in the development of 4 different visualizations and a dashboard."
+  },
+  {
+    "objectID": "module/module_workshop/butler_cc_akao_tableau.html#module-materials",
+    "href": "module/module_workshop/butler_cc_akao_tableau.html#module-materials",
+    "title": "Introduction to Tableau",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY-NC license"
+  },
+  {
+    "objectID": "module/module_workshop/kstate_shamir_arthistory.html",
+    "href": "module/module_workshop/kstate_shamir_arthistory.html",
+    "title": "Computer Approach to Art History",
+    "section": "",
+    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
+  },
+  {
+    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
+    "href": "module/module_workshop/kstate_shamir_arthistory.html#material-description",
+    "title": "Computer Approach to Art History",
+    "section": "",
+    "text": "The module provides step-by-step instructions and tools fort an empirical research-based experiment focused on data science approach to art history. The module allows to select any artist are art genre, and perform new experiments with new data."
+  },
+  {
+    "objectID": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
+    "href": "module/module_workshop/kstate_shamir_arthistory.html#module-materials",
+    "title": "Computer Approach to Art History",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html",
-    "href": "module/module_workshop/ku_duncan_business_analytics4.html",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics1.html",
+    "title": "Business Data Analytics 1",
+    "section": "",
+    "text": "This is the first workshop of four is a series of workshops for business analytics."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics1.html#material-description",
+    "title": "Business Data Analytics 1",
+    "section": "",
+    "text": "This is the first workshop of four is a series of workshops for business analytics."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics1.html#module-materials",
+    "title": "Business Data Analytics 1",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html",
+    "href": "module/module_workshop/ku_duncan_business_analytics3.html",
+    "title": "Business Data Analytics 3",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
-    "href": "module/module_workshop/ku_duncan_business_analytics4.html#material-description",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
+    "href": "module/module_workshop/ku_duncan_business_analytics3.html#material-description",
+    "title": "Business Data Analytics 3",
     "section": "",
     "text": "This is the third workshop of four is a series of workshops for business analytics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_business_analytics4.html#module-materials",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_business_analytics3.html#module-materials",
+    "title": "Business Data Analytics 3",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_economic.html",
-    "href": "module/module_workshop/ku_duncan_federal_economic.html",
-    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
+    "objectID": "module/module_workshop/ku_duncan_federal_census.html",
+    "href": "module/module_workshop/ku_duncan_federal_census.html",
+    "title": "Federal Data Workshops: the Census Bureau",
     "section": "",
-    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
+    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_economic.html#material-description",
-    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
+    "objectID": "module/module_workshop/ku_duncan_federal_census.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_census.html#material-description",
+    "title": "Federal Data Workshops: the Census Bureau",
     "section": "",
-    "text": "This is the second session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Economic Analysis."
+    "text": "This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_economic.html#module-materials",
-    "title": "Federal Data Workshops: the Bureau of Economic Analysis",
+    "objectID": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_census.html#module-materials",
+    "title": "Federal Data Workshops: the Census Bureau",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_health.html",
-    "href": "module/module_workshop/ku_duncan_federal_health.html",
-    "title": "Federal Data Workshops: the National Center for Health Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_education.html",
+    "href": "module/module_workshop/ku_duncan_federal_education.html",
+    "title": "Federal Data Workshops: the National Center for Education Statistics",
     "section": "",
-    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
+    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_health.html#material-description",
-    "href": "module/module_workshop/ku_duncan_federal_health.html#material-description",
-    "title": "Federal Data Workshops: the National Center for Health Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_education.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_education.html#material-description",
+    "title": "Federal Data Workshops: the National Center for Education Statistics",
     "section": "",
-    "text": "This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics."
+    "text": "This is the third session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Education Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_federal_health.html#module-materials",
-    "title": "Federal Data Workshops: the National Center for Health Statistics",
+    "objectID": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_education.html#module-materials",
+    "title": "Federal Data Workshops: the National Center for Education Statistics",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata.html",
-    "href": "module/module_workshop/ku_duncan_stata.html",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_federal_labor.html",
+    "href": "module/module_workshop/ku_duncan_federal_labor.html",
+    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
     "section": "",
-    "text": "This is a set of workshop materials for introductory Stata analysis."
+    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata.html#material-description",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
+    "href": "module/module_workshop/ku_duncan_federal_labor.html#material-description",
+    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
     "section": "",
-    "text": "This is a set of workshop materials for introductory Stata analysis."
+    "text": "This is the first session of the Federal Data Workshops hosted in Spring 2025, covering the Bureau of Labor Statistics."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata.html#module-materials",
-    "title": "Business Data Analytics 4",
+    "objectID": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_federal_labor.html#module-materials",
+    "title": "Federal Data Workshops: the Bureau of Labor Statistics",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html",
-    "title": "Stata Workshop 2:Visualization",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html",
+    "title": "Stata Workshop 1:Data Wrangling",
     "section": "",
-    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#material-description",
-    "title": "Stata Workshop 2:Visualization",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#material-description",
+    "title": "Stata Workshop 1:Data Wrangling",
     "section": "",
-    "text": "This is the second session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
+    "text": "This is the first session in the Spring 2025 Stata Workshop series, covering data wrangling in Stata."
   },
   {
-    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
-    "href": "module/module_workshop/ku_duncan_stata_spring_2025_2.html#module-materials",
-    "title": "Stata Workshop 2:Visualization",
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025.html#module-materials",
+    "title": "Stata Workshop 1:Data Wrangling",
+    "section": "Module Materials",
+    "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html",
+    "title": "Stata Workshop 3:Data Wrangling",
+    "section": "",
+    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#material-description",
+    "title": "Stata Workshop 3:Data Wrangling",
+    "section": "",
+    "text": "This is the third and final session in the Spring 2025 Stata Workshop series, covering statistics in Stata."
+  },
+  {
+    "objectID": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
+    "href": "module/module_workshop/ku_duncan_stata_spring_2025_3.html#module-materials",
+    "title": "Stata Workshop 3:Data Wrangling",
     "section": "Module Materials",
     "text": "Module Materials\nYou can access the material here\nThis Material is under the CC BY license"
   },
@@ -963,61 +984,5 @@
     "title": "Kansas Action for Children",
     "section": "Dataset",
     "text": "Dataset\nDatasets include child care facility status across counties in Kansas state.\nExplore Data"
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "",
-    "text": "This is the first session in the R workshop series, covering intro to R & data wrangling."
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#material-description",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#material-description",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "",
-    "text": "This is the first session in the R workshop series, covering intro to R & data wrangling."
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#module-materials",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#module-materials",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "Module Materials",
-    "text": "Module Materials\n\n\n\n\n  Download the material\n\n\n\nThis Material is under the CC BY-ND license"
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#overview",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#overview",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "Overview",
-    "text": "Overview\nThis one-hour workshop is organized by the Kansas Data Science Consortium (KDSC) and strives to provide a brief and gentle introduction to the R programming language.\n\nInstructor\nThe instructor of this workshop, Dr. Jeffrey Girard, is a professor in the Department of Psychology at the University of Kansas and one of the three co-directors of the KDSC. He runs the AffCOM Research Lab, which applies computational approaches to study emotion, personality, and mental health. He also teaches (paid) statistics and data science workshops via his company, SMaRT Workshops.\n\n\nWorkshop Outline\n\nInstalling R and RStudio\nLearning the R Language\nWorking with Data Frames\nPreview of Future Workshops"
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#installing-r-and-rstudio",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#installing-r-and-rstudio",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "Installing R and RStudio",
-    "text": "Installing R and RStudio\nYou need to install R and, although doing so is optional, I recommend also installing RStudio. Both are freely available! Once they are installed, using the installers linked below, you will always open RStudio to access R. That is, R needs to be on your computer, but you won’t be accessing it directly.\n\nInstalling R\n\nOn Windows, click here to download the appropriate R installer.\nOn a newer Mac with Apple chips (from 2020 to now), click here to download the appropriate R installer.\nOn an older Mac with Intel chips (from 2006 to 2020), click here to download the appropriate R installer.\n\n\n\nInstalling RStudio\n\nOn Windows, click here to download the appropriate installer.\nOn any Mac, click here to download the appropriate installer."
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#learning-the-r-language",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#learning-the-r-language",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "Learning the R Language",
-    "text": "Learning the R Language\nR is controlled by commands that you type into RStudio’s Console. It takes some time to learn how to properly phrase commands, but doing so opens up many exciting possibilities for you! You typically type in one command at a time and hit  to get an immediate response from R. It’s like a chat room with your computer.\n\nR as a Calculator\nAt its most basic level, you can use the R console as a calculator. In the following grey box, you can see the command I entered and R’s response (following #&gt;).\n\n(9.5 + 3.75 - 1.25) * (3 / 2)^2\n#&gt; [1] 27\n\nNote that R uses periods (.) to mark decimals and doesn’t like commas or spaces inside numbers. So type numbers out like 1234567.89 and not like 1,234,567.89 or 1 234 567,89.\n\n\nCreating Objects\nJust like creating variables in algebra, we can store information in temporary objects in R. For instance, we can tell R that x refers to the number 57.23 We do this using the &lt;- operator, which we read as “x gets 57.23.” Any time we want to see what information is stored in an object, we can send a command to R including only its name; this is called printing it.\n\nx &lt;- 57.23\nx\n#&gt; [1] 57.23\n\nThe main purpose of creating objects is to use them in future commands. This can be very handy.\n\n(x - 32) * (5 / 9)\n#&gt; [1] 14.01667\n\nWe can also give objects more descriptive names, which makes them easier to remember and understand. There are several rules about what names are allowed to be. For now, let’s stick with simple names that only include letters (without numbers, spaces, or symbols) as doing so will never break those rules. Below, we can see how descriptive names clarify what the previous (ambiguous) operation was doing: converting a temperature from Fahrenheit to Celsius.\n\ntempF &lt;- 57.23\ntempC &lt;- (tempF - 32) * (5 / 9)\ntempC\n#&gt; [1] 14.01667\n\n\n\nUsing Functions\nR has the ability to transform objects in many useful ways. This is usually accomplished using functions, which I like to think of as recipes (e.g., in baking). A recipe calls for ingredients and includes a series of steps for transforming those ingredients into a tasty treat. Similarly, functions in R call for inputs and include a series of steps for transforming those inputs into an output. The telltale sign that a function is being used in R is text followed by parentheses. Continuing the baking analogy, I think of these parentheses as the edges of a mixing bowl that you put the ingredients/inputs into. For example, we can use the sqrt() function to calculate the (principal) square root of an input number (i.e., x).\n\nsqrt(x = 25)\n#&gt; [1] 5\n\nThere are many useful functions built into R! Another one that will help us learn the basics is the round() function, which will round the input number to a specified number of digits (i.e., decimal places). In this case, we need two inputs: the number to round (i.e., x) and the number of digits to round to (i.e., digits). We can accomplish this by separating each ingredient with a comma.\n\nround(x = 2/3, digits = 4)\n#&gt; [1] 0.6667\n\nThe digits input allows us to configure the function’s behavior. This means that R can have a single round() function and doesn’t need to have separate functions for rounding to, e.g., 1 or 2 or 5 digits.\n\nround(x = 2/3, digits = 2)\n#&gt; [1] 0.67\n\n\n\nVector Objects\nOne function that we use very frequently is the c() function. Note that the name is lowercase c, which I think of as being short for “collect.” It groups multiple similar objects (e.g., numbers) into a single collection object, which we refer to as a vector. Note that this function can take any number of inputs, each of which does not have an individual name.\nCollecting objects into a vector will not only keep those objects together, but there are functions that let us do two useful things with vectors. To showcase this, let’s create a simple vector called grades to store the grades of five students on a recent exam.\n\ngrades &lt;- c(78, 84, 91, 92, 94)\ngrades\n#&gt; [1] 78 84 91 92 94\n\nFirst, we can use a vector to transform all sub-objects at once. For example, imagine that there was a scoring error and all grades are 2 points lower than they should be. Instead of needing to add 2 to each of the five grades individually, I can simply add 2 to the vector once and it will apply to all the grades at once. That would be a huge time savings in a course with many students!\n\ncorrected &lt;- grades + 2\ncorrected\n#&gt; [1] 80 86 93 94 96\n\nSecond, we can use a vector to summarize across the sub-objects. For example, I might want to calculate the number of students in the class, the minimum and maximum grades, and the average grade. By giving the corrected vector to special functions in R, we can do this easily.\n\nlength(x = corrected)\n#&gt; [1] 5\n\nrange(x = corrected)\n#&gt; [1] 80 96\n\nmean(x = corrected)\n#&gt; [1] 89.8\n\n\n\nCharacter Data\nSometimes we need to provide R with text instead of numbers. This type of data is called character data and each instance is called a string. Just like numbers, we can collect strings into vectors and there are special functions that can transform and summarize character data. In R, we mark each string by surrounding it with quotation marks (\"). Here are a few examples:\n\ncustomers &lt;- c(\"John Smith\", \"Jane Doe\", \"Joe Bloggs\")\ncustomers\n#&gt; [1] \"John Smith\" \"Jane Doe\"   \"Joe Bloggs\"\n\ntoupper(x = customers)\n#&gt; [1] \"JOHN SMITH\" \"JANE DOE\"   \"JOE BLOGGS\"\n\nnchar(x = customers)\n#&gt; [1] 10  8 10"
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#working-with-data-frames",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#working-with-data-frames",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "Working with Data Frames",
-    "text": "Working with Data Frames\nR comes with some example datasets built into it, which can be accessed by looking up their names and printing them. For example, the mtcars dataset includes information about different car models.\n\nmtcars\n#&gt;                      mpg cyl  disp  hp drat    wt  qsec vs am gear carb\n#&gt; Mazda RX4           21.0   6 160.0 110 3.90 2.620 16.46  0  1    4    4\n#&gt; Mazda RX4 Wag       21.0   6 160.0 110 3.90 2.875 17.02  0  1    4    4\n#&gt; Datsun 710          22.8   4 108.0  93 3.85 2.320 18.61  1  1    4    1\n#&gt; Hornet 4 Drive      21.4   6 258.0 110 3.08 3.215 19.44  1  0    3    1\n#&gt; Hornet Sportabout   18.7   8 360.0 175 3.15 3.440 17.02  0  0    3    2\n#&gt; Valiant             18.1   6 225.0 105 2.76 3.460 20.22  1  0    3    1\n#&gt; Duster 360          14.3   8 360.0 245 3.21 3.570 15.84  0  0    3    4\n#&gt; Merc 240D           24.4   4 146.7  62 3.69 3.190 20.00  1  0    4    2\n#&gt; Merc 230            22.8   4 140.8  95 3.92 3.150 22.90  1  0    4    2\n#&gt; Merc 280            19.2   6 167.6 123 3.92 3.440 18.30  1  0    4    4\n#&gt; Merc 280C           17.8   6 167.6 123 3.92 3.440 18.90  1  0    4    4\n#&gt; Merc 450SE          16.4   8 275.8 180 3.07 4.070 17.40  0  0    3    3\n#&gt; Merc 450SL          17.3   8 275.8 180 3.07 3.730 17.60  0  0    3    3\n#&gt; Merc 450SLC         15.2   8 275.8 180 3.07 3.780 18.00  0  0    3    3\n#&gt; Cadillac Fleetwood  10.4   8 472.0 205 2.93 5.250 17.98  0  0    3    4\n#&gt; Lincoln Continental 10.4   8 460.0 215 3.00 5.424 17.82  0  0    3    4\n#&gt; Chrysler Imperial   14.7   8 440.0 230 3.23 5.345 17.42  0  0    3    4\n#&gt; Fiat 128            32.4   4  78.7  66 4.08 2.200 19.47  1  1    4    1\n#&gt; Honda Civic         30.4   4  75.7  52 4.93 1.615 18.52  1  1    4    2\n#&gt; Toyota Corolla      33.9   4  71.1  65 4.22 1.835 19.90  1  1    4    1\n#&gt; Toyota Corona       21.5   4 120.1  97 3.70 2.465 20.01  1  0    3    1\n#&gt; Dodge Challenger    15.5   8 318.0 150 2.76 3.520 16.87  0  0    3    2\n#&gt; AMC Javelin         15.2   8 304.0 150 3.15 3.435 17.30  0  0    3    2\n#&gt; Camaro Z28          13.3   8 350.0 245 3.73 3.840 15.41  0  0    3    4\n#&gt; Pontiac Firebird    19.2   8 400.0 175 3.08 3.845 17.05  0  0    3    2\n#&gt; Fiat X1-9           27.3   4  79.0  66 4.08 1.935 18.90  1  1    4    1\n#&gt; Porsche 914-2       26.0   4 120.3  91 4.43 2.140 16.70  0  1    5    2\n#&gt; Lotus Europa        30.4   4  95.1 113 3.77 1.513 16.90  1  1    5    2\n#&gt; Ford Pantera L      15.8   8 351.0 264 4.22 3.170 14.50  0  1    5    4\n#&gt; Ferrari Dino        19.7   6 145.0 175 3.62 2.770 15.50  0  1    5    6\n#&gt; Maserati Bora       15.0   8 301.0 335 3.54 3.570 14.60  0  1    5    8\n#&gt; Volvo 142E          21.4   4 121.0 109 4.11 2.780 18.60  1  1    4    2\n\nThis object is more complex than anything we’ve seen yet. It is an object type called a data frame, which is essentially multiple vectors combined together such that each row represents one observation (in this case, one car model) and each column represents one variable (in this case, an attribute like horsepower hp or fuel efficiency mpg). Most of the time, you will be using data frames for data analysis and visualization tasks.\n\nBasic Summaries\nOften the first thing you should do after accessing a dataset (i.e., before visualizing or analyzing it) is to summarize it. This will provide a set of summary statistics for each variable/column, including its minimum (Min.), first quartile (1st Qu.), median (Median), mean (Mean), third quartile (3rd Qu.), and maximum (Max.). These five numbers provide a good summary of extreme values (min and max), common values (first and third quartiles), and central tendencies (mean and median).\n\nsummary(object = mtcars)\n#&gt;       mpg             cyl             disp             hp       \n#&gt;  Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n#&gt;  1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n#&gt;  Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n#&gt;  Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n#&gt;  3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n#&gt;  Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n#&gt;       drat             wt             qsec             vs        \n#&gt;  Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n#&gt;  1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n#&gt;  Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n#&gt;  Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n#&gt;  3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n#&gt;  Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n#&gt;        am              gear            carb      \n#&gt;  Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n#&gt;  1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n#&gt;  Median :0.0000   Median :4.000   Median :2.000  \n#&gt;  Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n#&gt;  3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n#&gt;  Max.   :1.0000   Max.   :5.000   Max.   :8.000\n\nHere we can see that all the cars have between 52 and 335 horsepower (hp), half of the cars have between 96.5 and 180, and the average is 146.7 This is also a good opportunity to check for outliers, errors, and missing values. For example, if I saw that the minimum hp was negative, I would double-check the data as that would result in a very strange car.\n\n\nBasic Visualizations\nIt is often useful to create quick visualizations of your main variables of interest. For instance, we can create histograms to examine which values of horsepower (hp) and fuel efficiency (mpg) are more and less common. This can be done using the hist() function and the $ operator. This operator allows us to extract a specific column from a data frame. For instance, we can use mtcars$hp to extract (and then visualize) the horsepower numbers.\n\nhist(x = mtcars$hp, xlab = \"Horsepower\")\n\n\n\n\n\n\n\n\nWe can also optionally use the xlab input to control the label of the x-axis. Let’s repeat with the mpg variable.\n\nhist(x = mtcars$mpg, xlab = \"Miles per Gallon\")\n\n\n\n\n\n\n\n\nFinally, let’s explore if there is a relationship between cars’ horsepower and fuel efficiency. To do so, we can use the plot() function and use the x and y axes to represent each variable.\n\nplot(x = mtcars$hp, y = mtcars$mpg, xlab = \"Horsepower\", ylab = \"Miles per Gallon\")\n\n\n\n\n\n\n\n\nIt looks like cars with higher horsepower generally have lower fuel efficiency, although this relationship seems to “slow down” or “level off” after around 200 horsepower."
-  },
-  {
-    "objectID": "module/module_workshop/ku_girard_r_workshop_1.html#preview-of-future-workshops",
-    "href": "module/module_workshop/ku_girard_r_workshop_1.html#preview-of-future-workshops",
-    "title": "KDSC R Workshop: Intro to R & Data Wrangling",
-    "section": "Preview of Future Workshops",
-    "text": "Preview of Future Workshops\nThis workshop only covered the basics. Future workshops over the next few weeks will discuss how to use R to: create much prettier and more complex data visualizations (April 15) and conduct elementary statistical analyses (April 22). Learn more about these free trainings at this link!"
   }
 ]

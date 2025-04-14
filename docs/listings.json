@@ -32,30 +32,9 @@
     ]
   },
   {
-    "listing": "/dataset.html",
+    "listing": "/module/module_tutorial.html",
     "items": [
-      "/project/datasets/data_KAC.html"
-    ]
-  },
-  {
-    "listing": "/competency.html",
-    "items": [
-      "/competency/comp_data_eng.html",
-      "/competency/comp_data_mining.html",
-      "/competency/comp_data_wrangling.html",
-      "/competency/comp_model_build.html",
-      "/competency/comp_programming.html",
-      "/competency/comp_stat_foundation.html"
-    ]
-  },
-  {
-    "listing": "/course.html",
-    "items": [
-      "/course/Data_I_Duncun_KU.html",
-      "/course/Data_II_TBD_KU.html",
-      "/course/Data_III_TBD_KU.html",
-      "/course/Data_IV_TBD_KU.html",
-      "/course/Data_V_TBD_KU.html"
+      "/module/module_tutorial/tutorial_intro_colab.html"
     ]
   },
   {
@@ -70,9 +49,30 @@
     ]
   },
   {
-    "listing": "/module/module_tutorial.html",
+    "listing": "/course.html",
     "items": [
-      "/module/module_tutorial/tutorial_intro_colab.html"
+      "/course/Data_I_Duncun_KU.html",
+      "/course/Data_II_TBD_KU.html",
+      "/course/Data_III_TBD_KU.html",
+      "/course/Data_IV_TBD_KU.html",
+      "/course/Data_V_TBD_KU.html"
+    ]
+  },
+  {
+    "listing": "/competency.html",
+    "items": [
+      "/competency/comp_data_eng.html",
+      "/competency/comp_data_mining.html",
+      "/competency/comp_data_wrangling.html",
+      "/competency/comp_model_build.html",
+      "/competency/comp_programming.html",
+      "/competency/comp_stat_foundation.html"
+    ]
+  },
+  {
+    "listing": "/dataset.html",
+    "items": [
+      "/project/datasets/data_KAC.html"
     ]
   },
   {
