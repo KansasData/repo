@@ -1,5 +1,5 @@
 ---
-title: "Welcome to KDSC's Repository"
+title: "Welcome to KDSC’s Repository of Data Science Curriculum Materials"
 toc: false
 ---
 
@@ -8,7 +8,7 @@ This website serves as an online repository for data science curriculum material
 ::: content-block
 ### Projects
 
-The Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, analysis code, materials, and project reports from previous semesters. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.
+The Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, code, and project reports from past community data lab projects. We have also worked to build educational materials using these projects which are housed in this part of the repository. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.
 
 ::: learn-more
 [Projects »](project.qmd)
@@ -16,7 +16,7 @@ The Community Data Lab is our signature program which brings real-world projects
 
 ### Curriculum
 
-Our curriculum repository contains content from a wide range of data science courses- from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets, all systematically organized . This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience. Our modules can be implemented in data science education settings to enrich and expand students' understanding.
+Our curriculum repository contains content from a wide range of data science courses - from introductory concepts to advanced machine learning. The curriculum in our repository includes lecture materials, code, exercises, and datasets, all systematically organized . The curriculum on our repository is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience. Our modules can be implemented in a variety of educational settings to enrich and expand learners’ understanding of fundamental data science concepts.
 
 ::: learn-more
 [Curriculum Repository »](competency.qmd)
