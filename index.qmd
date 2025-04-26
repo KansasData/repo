@@ -6,7 +6,7 @@ toc: false
 This website serves as an online repository for data science curriculum materials developed by the Kansas Data Science Consortium [KDSC](https://data.ku.edu/kdsc) team. Faculty from our educational partners collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.
 
 ::: content-block
-### Projects
+### Community Data Lab Projects
 
 The Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, code, and project reports from past community data lab projects. We have also worked to build educational materials using these projects which are housed in this part of the repository. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.
 
