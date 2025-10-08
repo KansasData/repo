@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-excute:
+execute:
   freeze: auto
 
 website: 
@@ -15,12 +15,15 @@ website:
     logo-alt: "KDSC logo"
     title: false
     collapse-below: lg
+    
     left:
       - text: "Home"
         href: index.qmd
-      - sidebar:projects
+      - text: "Community Data Lab"
+        href: project.qmd
       - text: "Curriculum"
-        href: competency.qmd
+        href: curriculum.qmd
+  
     tools:
       - icon: buildings
         menu: 
@@ -32,54 +35,31 @@ website:
             url: https://github.com/KansasData
           - text: Report Bug
             url: https://github.com/KansasData
-    
-  sidebar: 
-    - id: projects
-      title: "Community Data Lab"
-      style: "docked"
-      collapse-level: 2
-      contents: 
-        - text: "Project"
-          href: project.qmd
-        - text: "Dataset"
-          href: dataset.qmd
-        
-    - id: curriculum
-      title: "Curriculum"
-      collapse-level: 1
-      contents:
-        - text: "Competency"
-          href: competency.qmd
-        - text: "Course"
-          href: course.qmd
-        - section: "Module"
-          contents: 
-            - text: Overview
-              href: module.qmd
-            - text: Lecture Materials
-              href: module/module_lecture.qmd
-            - text: Tutorial Materials
-              href: module/module_tutorial.qmd
-            - text: Workshop/Presentation 
-              href: module/module_workshop.qmd
-        
-  
+
+          
   page-footer:
     left: |
       Proudly supported by 
-      [![NSF image](NSF.png){width=150}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878)
+      [![NSF image](/images/NSF.png){width=150}](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878)
     right: |
     
-      [![](arise_logo.png){width=60}](https://nsfepscor.ku.edu/track-1-arise/)
+      [![](/images/arise_logo.png){width=60}](https://nsfepscor.ku.edu/track-1-arise/)
 
     center: | 
           Except where otherwise noted content on this site is </br> licensed under a [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en)</br>
+  site-url: https://datarepository.ku.edu
+  repo-url: https://github.com/KansasData/repo
+
 
 format:
   html:
+    grid:
+      body-width: 1000px
+      margin-width: 150px
+      gutter-width: 1.5rem
     theme: cosmo
     css: styles.css
     toc: true
-
+    anchor-sections: false
 editor: visual
 

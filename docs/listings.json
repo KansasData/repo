@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/project.html",
-    "items": [
-      "/project/projects/project_CommunityCollegeStudents.html",
-      "/project/projects/project_KAC.html",
-      "/project/projects/project_FEMA.html"
-    ]
-  },
-  {
     "listing": "/module/module_workshop.html",
     "items": [
       "/module/module_workshop/ku_duncan_business_analytics1.html",
@@ -16,8 +8,42 @@
       "/module/module_workshop/ku_duncan_business_analytics4.html",
       "/module/module_workshop/ku_duncan_stata.html",
       "/module/module_workshop/kstate_shamir_arthistory.html",
+      "/module/module_workshop/ucb_chaspari_data_bias_presentation.html",
+      "/module/module_workshop/cmu_zhou_data_bias_presentation.html",
+      "/module/module_workshop/ku_duncan_federal_economic.html",
+      "/module/module_workshop/ku_duncan_federal_labor.html",
+      "/module/module_workshop/ku_duncan_federal_census.html",
+      "/module/module_workshop/ku_duncan_federal_education.html",
+      "/module/module_workshop/ku_duncan_federal_health.html",
       "/module/module_workshop/butler_cc_akao_tableau.html",
+      "/module/module_workshop/ku_girard_r_workshop_1.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025_3.html",
       "/module/module_workshop/kstate_shamir_textanalysis.html"
+    ]
+  },
+  {
+    "listing": "/module/module_tutorial.html",
+    "items": [
+      "/module/module_tutorial/tutorial_intro_colab.html"
+    ]
+  },
+  {
+    "listing": "/module/module_lecture.html",
+    "items": [
+      "/module/module_lecture/ku_dataI_casuality_slide.html",
+      "/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+      "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
+      "/module/module_lecture/ku_branicky_interpretable_model_lecture.html",
+      "/module/module_lecture/wsu_mornroy_networkintrusion.html"
+    ]
+  },
+  {
+    "listing": "/dataset.html",
+    "items": [
+      "/project/datasets/data_KAC.html"
     ]
   },
   {
@@ -33,42 +59,82 @@
   {
     "listing": "/competency.html",
     "items": [
-      "/competency/comp_stat_foundation.html",
-      "/competency/comp_programming.html",
+      "/competency/comp_data_eng.html",
       "/competency/comp_data_mining.html",
       "/competency/comp_data_wrangling.html",
-      "/competency/comp_data_eng.html",
-      "/competency/comp_model_build.html"
+      "/competency/comp_model_build.html",
+      "/competency/comp_programming.html",
+      "/competency/comp_stat_foundation.html"
     ]
   },
   {
-    "listing": "/dataset.html",
+    "listing": "/curriculum.html",
     "items": [
-      "/project/datasets/data_KAC.html"
-    ]
-  },
-  {
-    "listing": "/module/module_lecture.html",
-    "items": [
+      "/module/module_workshop/ku_duncan_business_analytics1.html",
+      "/module/module_workshop/ku_duncan_business_analytics2.html",
+      "/module/module_workshop/ku_duncan_business_analytics3.html",
+      "/module/module_workshop/ku_duncan_business_analytics4.html",
+      "/module/module_workshop/ku_duncan_stata.html",
       "/module/module_lecture/ku_dataI_casuality_slide.html",
       "/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/module/module_workshop/kstate_shamir_arthistory.html",
+      "/module/module_workshop/ucb_chaspari_data_bias_presentation.html",
+      "/module/module_workshop/cmu_zhou_data_bias_presentation.html",
+      "/module/module_workshop/ku_duncan_federal_economic.html",
+      "/module/module_workshop/ku_duncan_federal_labor.html",
+      "/module/module_workshop/ku_duncan_federal_census.html",
+      "/module/module_workshop/ku_duncan_federal_education.html",
+      "/module/module_workshop/ku_duncan_federal_health.html",
       "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+      "/module/module_tutorial/tutorial_intro_colab.html",
+      "/module/module_workshop/butler_cc_akao_tableau.html",
+      "/module/module_workshop/ku_girard_r_workshop_1.html",
       "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
-      "/module/module_lecture/wsu_mornroy_networkintrusion.html"
+      "/module/module_lecture/ku_branicky_interpretable_model_lecture.html",
+      "/module/module_lecture/wsu_mornroy_networkintrusion.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025_3.html",
+      "/module/module_workshop/kstate_shamir_textanalysis.html"
     ]
   },
   {
-    "listing": "/module/module_tutorial.html",
+    "listing": "/module.html",
     "items": [
-      "/module/module_tutorial/tutorial_intro_colab.html"
+      "/module/module_workshop/ku_duncan_business_analytics1.html",
+      "/module/module_workshop/ku_duncan_business_analytics2.html",
+      "/module/module_workshop/ku_duncan_business_analytics3.html",
+      "/module/module_workshop/ku_duncan_business_analytics4.html",
+      "/module/module_workshop/ku_duncan_stata.html",
+      "/module/module_lecture/ku_dataI_casuality_slide.html",
+      "/module/module_lecture/ku_dataI_casuality_hw.html",
+      "/module/module_workshop/kstate_shamir_arthistory.html",
+      "/module/module_workshop/ucb_chaspari_data_bias_presentation.html",
+      "/module/module_workshop/cmu_zhou_data_bias_presentation.html",
+      "/module/module_workshop/ku_duncan_federal_economic.html",
+      "/module/module_workshop/ku_duncan_federal_labor.html",
+      "/module/module_workshop/ku_duncan_federal_census.html",
+      "/module/module_workshop/ku_duncan_federal_education.html",
+      "/module/module_workshop/ku_duncan_federal_health.html",
+      "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
+      "/module/module_tutorial/tutorial_intro_colab.html",
+      "/module/module_workshop/butler_cc_akao_tableau.html",
+      "/module/module_workshop/ku_girard_r_workshop_1.html",
+      "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
+      "/module/module_lecture/ku_branicky_interpretable_model_lecture.html",
+      "/module/module_lecture/wsu_mornroy_networkintrusion.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025_2.html",
+      "/module/module_workshop/ku_duncan_stata_spring_2025_3.html",
+      "/module/module_workshop/kstate_shamir_textanalysis.html"
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/project.html",
     "items": [
-      "/people/faculty/faculty_jeff.html",
-      "/people/staff/staff_daiil.html",
-      "/people/adj_committee/committee_xyz.html"
+      "/project/projects/project_CommunityCollegeStudents.html",
+      "/project/projects/project_KAC.html",
+      "/project/projects/project_FEMA.html"
     ]
   }
 ]

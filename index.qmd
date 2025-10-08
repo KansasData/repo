@@ -1,24 +1,60 @@
 ---
-title: "Welcome to KDSC's Repository"
 toc: false
+format:
+  html:
+    css: index_style.css
+    code-copy: false
 ---
 
-This website serves as an online repository for data science curriculum materials developed by the Kansas Data Science Consortium [KDSC](https://data.ku.edu/kdsc) team. Faculty from our educational partners collaborate to create open-source coursework that is adaptable to various institutions and academic majors. The repository features two primary components: the Community Data Lab and the Curriculum, both designed to support and enhance data science education.
+```{=html}
+      <div class="main-container">
+            <h2>A Hub for Collaborative <br> Data Science Education</h2>
+            <p>Explore open-source projects and modular curriculum <br> 
+                developed by the Kansas Data Science Consortium <br> 
+                Designed to be adapted for any classroom.</p>
+            
+            <button class = "explore-button"><a href="./project.qmd" style="text-decoration:none; color:white">Explore Projects</a></button>
+            
+            <button class = "explore-button"><a href ="./curriculum.qmd" style="text-decoration:none; color:#0051ba">Browse Curriculum</a></button>
+        </div>
 
-::: content-block
-### Projects
+        <div class="cards-wrapper">
+            <div class ="project-container">
+                <h2>Projects</h2>
+                <p>The Community Data Lab is our signature program which brings real-world projects into the classroom. This section houses deidentified data, analysis code, materials, and project reports from previous semesters.</p>
+                <a href = "./project.qmd">View projects &#8594;</a>
+            </div>
 
-The Community Data Lab is our signature program which brings real-world projects into the classroom. This section of the repository is where we house deidentified data, analysis code, materials, and project reports from previous semesters. This open-source framework is designed to provide a rich array of projects suited for data science education. These projects may be used in future Community Data Labs by the KDSC or can be adapted for other data science courses.
+            <div class ="curriculum-container">
+                <h2>Curriculum</h2>
+                <p>Our curriculum repository contains content from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets.</p>
+                <a href = "./curriculum.qmd">Browse Modules &#8594;</a>
+            </div>
+        </div> <!-- End of wrapper div -->
 
-::: learn-more
-[Projects »](project.qmd)
-:::
 
-### Curriculum
-
-Our curriculum repository contains content from a wide range of data science courses- from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets, all systematically organized . This curriculum is crafted to build essential data science skills and competencies, ensuring a comprehensive learning experience. Our modules can be implemented in data science education settings to enrich and expand students' understanding.
-
-::: learn-more
-[Curriculum Repository »](competency.qmd)
-:::
-:::
+        <div class="how-works-container">
+                <h2 >How to Use This Repository</h2>
+                <p >A simple, three-step process for educators.</p>
+                <div class="steps-grid">
+                    <!-- Step 1 -->
+                    <div class="steps-grid-step1">
+                        <i class="bi bi-search"></i>
+                        <h4>1. Discover</h4>
+                        <p>Find real-world projects from our Community Data Lab or browse our modular curriculum.</p>
+                    </div>
+                    <!-- Step 2 -->
+                    <div class="steps-grid-step2">
+                        <i class="bi bi-box-arrow-down"></i>
+                        <h4>2. Adapt</h4>
+                        <p>All materials are open-source. Adapt them for your own courses and institutional needs.</p>
+                    </div>
+                    <!-- Step 3 -->
+                    <div class="steps-grid-step3">
+                        <i class="bi bi-book-half"></i>
+                        <h4>3. Implement</h4>
+                        <p>Integrate our projects and modules to enrich your data science curriculum.</p>
+                    </div>
+                </div>
+        </div>
+```

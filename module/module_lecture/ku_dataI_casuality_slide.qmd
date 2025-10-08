@@ -1,9 +1,11 @@
 ---
 title: "Casuality"
-subtitle: "Lecture Slide"
+source: "Lecture Material"
 author: "TBD"
-description: "University of Kansas"
-categories: [Statistical Foundation]
+institution: "University of Kansas"
+competency: Statistical Foundation
+main-format: PPT Slide
+
 toc: true
 toc-title: "On this page"
 ---

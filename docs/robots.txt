@@ -1,1 +1,1 @@
-Sitemap: https://KansasData.github.io/repo/sitemap.xml
+Sitemap: https://datarepository.ku.edu/sitemap.xml

@@ -1,0 +1,20 @@
+---
+title: "Federal Data Workshops: the Census Bureau"
+source: "Workshop Material"
+author: "William Duncan"
+institution: "University of Kansas"
+competency: [Programming Skills, Data Wrangling]
+main-format: [PDF, Data]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the fifth and final session of the Federal Data Workshops hosted in Spring 2025, covering the Census Bureau.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_duncan_federal_census)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/)

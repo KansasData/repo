@@ -1,9 +1,11 @@
 ---
 title: "Network Intrusion Detection with AI"
-subtitle: "Lecture Slide"
+source: "Lecture Material"
 author: "Dr. Sergio Salinas Mornroy"
-description: "Wichita State University"
-categories: [Data Wrangling, Programming Skills, Model Building]
+institution: "Wichita State University"
+competency: [Data Wrangling, Programming Skills, Model Building]
+tech-lang: Python
+main-format: PPT Slide
 toc: true
 toc-title: "On this page"
 ---

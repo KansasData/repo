@@ -1,9 +1,11 @@
 ---
 title: "Business Data Analytics 4"
-subtitle: "Workshop Material"
+source: "Workshop Material"
 author: "William Duncan"
-description: "University of Kansas"
-categories: [Statistical Foundation, Programming Skills]
+institution: "University of Kansas"
+competency: [Statistical Foundation, Programming Skills]
+tech-lang: [STATA]
+main-format: [PDF, Code]
 toc: true
 toc-title: "On this page"
 ---

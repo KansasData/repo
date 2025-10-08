@@ -1,5 +1,0 @@
----
-pagetitle: "KDSC | About us"
----
-
-# We are KDSC

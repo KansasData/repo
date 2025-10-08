@@ -1,9 +1,11 @@
 ---
 title: "Introduction to Google Colab"
-subtitle: "Hands-on Practice"
+source: "Tutorial"
 author: "Withheld"
-description: "University of Kansas"
-categories: [Programming Skill, Python, Google Colab]
+institution: "University of Kansas"
+competency: "Programming Skills"
+tech-lang: "Python"
+main-format: "Google Colab"
 toc: true
 toc-title: "On this page"
 ---

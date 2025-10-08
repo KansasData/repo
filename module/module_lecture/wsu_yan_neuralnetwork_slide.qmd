@@ -1,9 +1,10 @@
 ---
 title: "Intro to Neural Network"
-subtitle: "Lecture Slide"
+source: "Lecture Material"
 author: "Dr. Fuijan Yan"
-description: "Wichita State University"
-categories: [Model Building]
+institution: "Wichita State University"
+competency: "Model Building"
+tech-lang:
 toc: true
 toc-title: "On this page"
 ---

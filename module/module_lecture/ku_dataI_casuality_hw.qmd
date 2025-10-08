@@ -1,9 +1,11 @@
 ---
 title: "Casuality Homework"
-subtitle: "Homework Assignment"
+source: "Lecture Material"
 author: "TBD"
-description: "University of Kansas"
-categories: [Statistical Foundation, Programming Skills]
+institution: "University of Kansas"
+competency: [Statistical Foundation, Programming Skills]
+tech-lang: Python
+main-format: Google Colab
 toc: true
 toc-title: "On this page"
 ---

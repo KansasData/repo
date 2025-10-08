@@ -1,0 +1,250 @@
+/* curriculum_style.css */
+
+
+/* --- General & Header Styles --- */
+.main-header {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.main-header h2 {
+    margin-top: 10px; /* Removes browser default top margin */
+    margin-bottom: 10px; /* Sets a consistent bottom margin */
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.main-header p {
+    font-size: 1.1em;
+    color: #555;
+    max-width: 800px;
+    margin: 0 auto; /* Center the subtitle text */
+    margin-bottom: 5px;
+}
+
+
+/* --- Flip Card Styles (for Competencies) --- */
+.grid {
+    perspective: 1000px;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 250px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.7s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.flip-card-inner.is-flipped {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.flip-card-front {
+    background-color: #ffffff;
+    color: black;
+}
+
+.flip-card-front .bi {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+.flip-card-front h4 {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.flip-card-back {
+    background-color: #007bff;
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.flip-card-back h4 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.flip-card-back p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: white;
+}
+
+
+
+/* =========================================
+   Filter Styles
+   ========================================= */
+
+.filter-container {
+    text-align: center;
+}
+
+.filter-container h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.filter-container p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 1.5rem;
+}
+
+.filter-grid {
+    display: flex; /* Use flexbox instead of grid */
+    flex-wrap: wrap; /* Allow wrapping on small screens */
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    align-items: flex-end; /* Aligns items to the bottom */
+}
+
+.filter-box {
+    text-align: left;
+    flex: 1; /* Allows boxes to grow and fill space */
+    min-width: 200px; /* Prevents boxes from becoming too small */
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+
+
+
+/* =========================================
+   Curriculum Listing Styles
+   ========================================= */
+
+/* Main container for all the cards - NOW A GRID */
+.item-list {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates the 3-column grid */
+    gap: 1.5rem; /* Space between cards */
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Individual card styling */
+.item-card {
+    display: flex; /* Use flexbox for better internal alignment */
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.07);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%; /* Ensure card fills the grid cell */
+    height: 100%; /* Ensure cards in a row have the same height */
+}
+
+.item-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Header section of the card */
+.card-header {
+    margin-bottom: 1rem;
+}
+
+.item-title {
+    margin: 0;
+    font-size: 1.25rem; /* Slightly smaller for the grid */
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+.item-card:hover .item-title {
+    color: #0056b3;
+}
+
+/* Two-column metadata details */
+.item-details {
+    margin-top: auto; /* Pushes details to the bottom of the card */
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: #444;
+}
+
+.item-details strong {
+    font-weight: 600;
+    color: #000;
+}
+
+/* =========================================
+   Pagination Styles
+   ========================================= */
+.pagination-container {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.page-btn {
+    background-color: white;
+    border: 1px solid #ddd;
+    color: #0056b3;
+    padding: 0.5rem 0.8rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.page-btn:hover {
+    background-color: #e9ecef;
+    border-color: #ccc;
+}
+
+.page-btn.active {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    color: white;
+}

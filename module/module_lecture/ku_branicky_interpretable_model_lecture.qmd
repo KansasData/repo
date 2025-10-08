@@ -1,0 +1,30 @@
+---
+title: "Multiple Models, Explainability, and Bias"
+source: "Lecture Material"
+author: "Michael S. Branicky"
+institution: "University of Kansas"
+competency: [Model Building, Ethical Problem Solving]
+main-format: Lecture Recording
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Students explore the space of good models and reflect on those that are more explainable and open to examination for interpretation by subject matter experts and for bias by policy makers, lawyers, and the general public.
+
+## Module Materials
+
+```{=html}
+<iframe> 
+    src="https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6319896651112"
+    width="640"
+    height="360"
+    allowfullscreen
+    title="Embedded Brightcove Video Player">
+</iframe>
+```
+
+You can access the material [here](https://github.com/KansasData/Module/blob/main/ku_branicky_explainability_bias/model_explainability_bias_Branicky.pdf)
+
+This Material is under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)

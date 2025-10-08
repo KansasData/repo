@@ -1,9 +1,11 @@
 ---
 title: "Business Data Analytics 3"
-subtitle: "Workshop Material"
+source: "Workshop Material"
 author: "William Duncan"
-description: "University of Kansas"
-categories: [Data Wrangling]
+institution: "University of Kansas"
+competency: [Data Wrangling]
+tech-lang: [R]
+main-format: [PDF, Code, Data]
 toc: true
 toc-title: "On this page"
 ---

@@ -1,0 +1,49 @@
+```{=html}
+<ul class="item-list">
+<% for (const item of items) { %>
+    <%
+
+      const projectPath = item.path;
+      
+      const parts = projectPath.split('/');
+      
+      const fileName = parts[parts.length -1];
+      
+      const projectName = fileName.replace('.qmd', '').split('_')[1];
+      
+      // Construct the new, correct paths with a leading "/" to make them root-relative.
+      const datasetPath = `/project/datasets/data_${projectName}.html`;
+      const classPath = `/project/classplan/class_${projectName}.html`;
+
+    %>
+    
+    <li <%= metadataAttrs(item) %> class="item-card">
+      
+      <!-- This new container will hold the title and buttons on the same line -->
+      <div class="card-header">
+        
+        <!-- Item Title -->
+        <div class="item-title">
+            <a href="<%- projectPath %>"><%= item.title %></a>
+        </div>
+        
+        <!-- Buttons Container -->
+        <div class="item-buttons">
+            <a href="<%- projectPath %>" class="btn-listing"><i class="bi bi-info-circle"></i> Project</a>
+            <a href="<%- datasetPath %>" class="btn-listing"><i class="bi bi-clipboard-data"></i> Dataset</a>
+            <a href="<%- classPath %>" class="btn-listing"><i class="bi bi-book"></i> Class Plan</a>
+        </div>
+
+      </div>
+      
+      <!-- Item Details -->
+      <div class="item-details">
+        <div><strong>Partner:</strong> <%= item['partner'] %></div>
+        <div><strong>Data Category:</strong> <%= item['datacategory'] %></div>
+        <div><strong>Keywords:</strong> <%= item['keyword'] %></div>
+        <div><strong>Data Type:</strong> <%= item['datatype'] %></div>
+      </div>
+    </li>
+<% } %>
+</ul>
+```

@@ -1,34 +1,144 @@
 ---
-title: "Kansas Action for Children"
-categories:
-  - Child Care
-date: "2024-05-01"
-date-format: "YYYY"
-author: "Community Provided"
+dataset-title: "Kansas Child Care Facility Data (2017-2024)"
+toc: false
 ---
 
-## Download the Dataset
+```{=html}
+<link rel="stylesheet" href="../../project_dataset_style.css">
 
-You can download the dataset using the link below:
+<div class="dataset-container">
+    <!-- Header Section -->
+    <header class="dataset-header">
+        <p class="header-tagline">Project Dataset</p>
+        <h2 class="header-title"> {{< meta dataset-title >}}</h2>
+        <div class="header-buttons">
+            <a href="https://github.com/KansasData/CommunityDataLab/raw/main/Kansas%20Action%20for%20Children/kac_data.zip" class="btn btn-download" download="kac_data.zip">
+                <i class="bi bi-file-earmark-zip-fill icon"></i> Download Full Dataset (.zip)
+            </a>
+            
+            <a href="../projects/project_KAC.html" class="btn btn-project">
+                <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            </a>
+            
+            <a href="../classplan/class_KAC.html" class="btn btn-classplan">
+                <i class="bi bi-book-half icon"></i> View the Class Plan
+            </a> 
+            
+        </div>
+    </header>
+</div>
+```
 
-[Download Dataset](https://github.com/KansasData/CommunityDataLab/tree/main/Kansas%20Action%20for%20Children)
+:::::: content-card
+## About the Data
 
-## Data Description
+This project utilizes a variety of datasets to assess the child care climate in Kansas. Key data sources include Kansas child care licensing information from the KIDS COUNT Data Center and accessibility data from Child Care Aware of Kansas. The compiled dataset provides a comprehensive landscape of child care in Kansas from 2017 to 2024.
 
-The project utilizes a variety of datasets to assess the child care climate in Kansas state. Key data sources include Kansas child care licensing information from the KIDS COUNT Data Center, accessibility data from Child Care Aware of Kansas. This dataset provides a comprehensive landscape of the child care in Kansas from 2017 to 2024. It includes data on various types of child care facilities, including child care centers and licensed family/group homes, as well as their capacities and enrollment figures.
+It includes two primary files: one detailing the annual trends in facility types and total capacity statewide, and another providing a county-level breakdown of different care facilities for 2024. The data has been cleaned and refined from original PDF reports to be analysis-ready.
 
-The data includes original data source (i.e., PDF file) from the Child Care Aware of Kansas report as well as refined dataset used in the analysis.
+## Data Dictionary
+
+```{r}
+#| echo: false
+#| message: false
+#| include: false
+library(tidyverse)
+library(DT)
+```
+
+::: panel-tabset
+### Kansas Trend (2017 - 2024)
+
+```{r}
+#| echo: false
+#| message: false
+kac_data <- read_csv("https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/care_facility.csv")
+
+dic_kac <- tibble(
+  `Variable Name` = c("Program Type", "Total Facilities", "Total Capacity", "year"),
+  `Description` = c("Name of child care program type", "Total Number of Facilities providing a corresponding program", "Total number of child care capcaity", "The year the data was reported"),
+  `Data Type` = c("String", "Integer", "Integer", "Integer")
+) 
+
+dic_kac |> datatable()
+```
+
+### County Level Lanscape (2024)
+
+```{r}
+#| echo: false
+#| message: false
+county_facility <- read_csv("https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/county_facility.csv")
+county_facility |> 
+  datatable()
+
+dic_county <- tibble(
+  `Varaible Name` = c("county", "care_facility", "n_child_enrolled", "n_desired_cap", "nlicensed_cap", "n_dcf", "n_food_program"),
+  `Description` = c("The name of the Kansas county", "The type of child care center", "The number of children currently enrolled at the facility", "The total desired capacity for the facility type in that county", "The total licensed capacity for the facility type in that county", "The total number of facility providing DCF program", "The total number of facility providing food program")
+)
+
+dic_county |> datatable()
+
+```
+:::
+
+## Quick Start Guide
+
+::: panel-tabset
+### Python
+
+```{python}
+#| eval: false
+import pandas as pd
+
+# URL to the raw CSV file  on GitHub
+url_county = 'https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/county_facility.csv'
+
+url_ks = 'https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/care_facility.csv'
+
+# Read the data
+df_county = pd.read_csv(url_county)
+
+df_ks = pd.read_csv(url_ks)
+
+# Display the first 5 rows
+print(df_county.head())
+print(df_ks.head())
+
+```
+
+### R
+
+```{r}
+#| eval: false
+# Install and load the readr library if you haven't already
+# install.packages("readr")
+library(readr)
+
+# URL to the raw CSV file on GitHub
+url_county <- 'https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/county_facility.csv'
+
+url_ks <- 'https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/care_facility.csv'
+
+# Read the data
+df_county <- read_csv(url_county)
+
+df_ks = read_csv(url_ks)
+
+# Display the first 6 rows
+print(head(df_county))
+print(head(df_ks))
+```
+:::
 
 ## Data Preview
 
+::: panel-tabset
 ### Kansas care facility trend data from 2017 to 2023
 
 ```{r}
 #| echo: false
 #| message: false
-
-library(tidyverse)
-library(DT)
 
 # Read the first few rows of the CSV file
 kac_data_preview <- read_csv("https://raw.githubusercontent.com/KansasData/CommunityDataLab/refs/heads/main/Kansas%20Action%20for%20Children/care_facility.csv")
@@ -48,3 +158,5 @@ county_facility <- read_csv("https://raw.githubusercontent.com/KansasData/Commun
 county_facility |> 
   datatable()
 ```
+:::
+::::::

@@ -1,0 +1,317 @@
+---
+pagetitle: "KDSC | Curriculum"
+toc: false
+listing:
+  - id: module-listings
+    contents: 
+      - "./module/module_workshop/*.qmd"
+      - "./module/module_lecture/*.qmd"
+      - "./module/module_tutorial/*.qmd"
+    template: curriculum_listing.ejs 
+css: curriculum_style.css
+---
+
+## Data Science Competency {.main-header}
+
+Our curriculum is organized around six core competencies. Each category contains modules designed to build specific, in-demand data science skills. Click on a card to learn more!
+
+::::::::::::::::::::::::::::::::: {.grid .text-center}
+::::::: {.g-col-12 .g-col-md-4}
+:::::: flip-card
+::::: flip-card-inner
+::: flip-card-front
+<i class="bi bi-database-gear"></i>
+
+<h4>Data Engineering</h4>
+:::
+
+::: flip-card-back
+<h4>Data Engineering</h4>
+
+<p>Build and maintain the scalable systems and pipelines that collect, store, and process large volumes of data.</p>
+:::
+:::::
+::::::
+:::::::
+
+::::::: {.g-col-12 .g-col-md-4}
+:::::: flip-card
+::::: flip-card-inner
+::: flip-card-front
+<i class="bi bi-tools"></i>
+
+<h4>Data Wrangling</h4>
+:::
+
+::: flip-card-back
+<h4>Data Wrangling</h4>
+
+<p>Clean, transform, and map raw data into a structured format suitable for analysis and model building.</p>
+:::
+:::::
+::::::
+:::::::
+
+::::::: {.g-col-12 .g-col-md-4}
+:::::: flip-card
+::::: flip-card-inner
+::: flip-card-front
+<i class="bi bi-minecart-loaded"></i>
+
+<h4>Data Mining</h4>
+:::
+
+::: flip-card-back
+<h4>Data Mining</h4>
+
+<p>Discover hidden patterns, valuable insights, and meaningful knowledge from large and complex datasets.</p>
+:::
+:::::
+::::::
+:::::::
+
+::::::: {.g-col-12 .g-col-md-4}
+:::::: flip-card
+::::: flip-card-inner
+::: flip-card-front
+<i class="bi bi-graph-up"></i>
+
+<h4>Statistical Foundation</h4>
+:::
+
+::: flip-card-back
+<h4>Statistical Foundation</h4>
+
+<p>Apply statistical principles and hypothesis testing to analyze data, interpret results, and ensure valid conclusions.</p>
+:::
+:::::
+::::::
+:::::::
+
+::::::: {.g-col-12 .g-col-md-4}
+:::::: flip-card
+::::: flip-card-inner
+::: flip-card-front
+<i class="bi bi-code-slash"></i>
+
+<h4>Programming Skills</h4>
+:::
+
+::: flip-card-back
+<h4>Programming Skills</h4>
+
+<p>Use coding languages like Python and R to implement algorithms, automate tasks, and create data-driven applications.</p>
+:::
+:::::
+::::::
+:::::::
+
+::::::: {.g-col-12 .g-col-md-4}
+:::::: flip-card
+::::: flip-card-inner
+::: flip-card-front
+<i class="bi bi-bricks"></i>
+
+<h4>Model Building</h4>
+:::
+
+::: flip-card-back
+<h4>Model Building</h4>
+
+<p>Create, train, and refine predictive models to forecast future trends and make data-informed decisions.</p>
+:::
+:::::
+::::::
+:::::::
+:::::::::::::::::::::::::::::::::
+
+## Explore Our Modules {.main-header}
+
+This page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.<br><br>
+
+
+```{=html}
+
+<div class="filter-container">
+    <div class="filter-grid">
+        <div class="filter-box">
+            <label for="filterCompetency" class="form-label fw-bold">By Competency</label>
+            <select id="filterCompetency" class="form-select">
+                <option value="all" selected>All Competencies</option>
+            </select>
+        </div>
+        <div class="filter-box">
+            <label for="filterSource" class="form-label fw-bold">By Source</label>
+            <select id="filterSource" class="form-select">
+                <option value="all" selected>All Sources</option>
+            </select>
+        </div>
+        <div class="filter-box">
+            <label for="filterLang" class="form-label fw-bold">By Tech/Language</label>
+            <select id="filterLang" class="form-select">
+                <option value="all" selected>All Technologies</option>
+            </select>
+        </div>
+        <div class="filter-box">
+            <label for="searchFilter" class="form-label fw-bold">By Keyword</label>
+            <input type="text" id="searchFilter" class="form-control" placeholder="Type to search...">
+        </div>
+    </div>
+</div>
+```
+
+
+::: {#module-listings}
+:::
+
+```{=html}
+<div id="no-results-message" style="display: none; text-align: center; padding: 2rem; font-size: 1.2em;">
+    <p>No curriculum items match the selected filters. Please try a different combination.</p>
+</div>
+<div id="pagination-container" class="pagination-container"></div>
+```
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // --- Logic for the Flip Cards (No Changes) ---
+  const flipCards = document.querySelectorAll('.flip-card');
+  flipCards.forEach(card => {
+    card.addEventListener('click', function() {
+      card.querySelector('.flip-card-inner').classList.toggle('is-flipped');
+    });
+  });
+
+  // A short delay to ensure Quarto's listing renders first
+  setTimeout(initializeFiltersAndPagination, 100);
+});
+
+function initializeFiltersAndPagination() {
+    // --- 1. DEFINE ALL ELEMENTS AND STATE VARIABLES ONCE ---
+    const competencyFilter = document.getElementById('filterCompetency');
+    const sourceFilter = document.getElementById('filterSource');
+    const langFilter = document.getElementById('filterLang');
+    const searchFilter = document.getElementById('searchFilter');
+    const itemList = document.querySelector('#listing-module-listings .item-list');
+    const noResultsMessage = document.getElementById('no-results-message');
+    const paginationContainer = document.getElementById('pagination-container');
+
+    if (!itemList) { return; }
+    
+    // This is the full, unfiltered list of all cards. We define it only ONCE.
+    const allCards = Array.from(itemList.querySelectorAll('.item-card'));
+    // This tracks the current page. We define it only ONCE.
+    let currentPage = 1;
+    const itemsPerPage = 9;
+
+    // --- 2. HELPER FUNCTIONS (NOW NESTED FOR CLEANER SCOPE) ---
+
+    function displayPage(items, page) {
+        itemList.innerHTML = ''; // Clear the list
+        page--; // Adjust for zero-based index
+
+        const startIndex = itemsPerPage * page;
+        const endIndex = startIndex + itemsPerPage;
+        const paginatedItems = items.slice(startIndex, endIndex);
+
+        for (const item of paginatedItems) {
+            itemList.appendChild(item);
+        }
+    }
+
+    function setupPagination(items) {
+        paginationContainer.innerHTML = ''; // Clear old buttons
+        const pageCount = Math.ceil(items.length / itemsPerPage);
+        
+        // Don't show page buttons if there's only one page
+        if (pageCount <= 1) return;
+        
+        for (let i = 1; i <= pageCount; i++) {
+            const btn = document.createElement('button');
+            btn.innerText = i;
+            btn.classList.add('page-btn');
+            if (i === currentPage) {
+                btn.classList.add('active');
+            }
+            btn.addEventListener('click', function() {
+                // Update the shared currentPage variable
+                currentPage = i;
+                displayPage(items, currentPage);
+                
+                let currentActive = document.querySelector('.pagination-container .active');
+                if (currentActive) currentActive.classList.remove('active');
+                btn.classList.add('active');
+            });
+            paginationContainer.appendChild(btn);
+        }
+    }
+
+    function applyFilters() {
+        const selectedCompetency = competencyFilter.value;
+        const selectedSource = sourceFilter.value;
+        const selectedLang = langFilter.value;
+        const searchTerm = searchFilter.value.toLowerCase().trim();
+
+        // **FIX:** Filter the original 'allCards' array, not the currently visible ones
+        const filteredCards = allCards.filter(card => {
+            const competency = card.dataset.competency || '';
+            const source = card.dataset.source || '';
+            const lang = card.dataset.lang || '';
+            const cardText = card.textContent.toLowerCase();
+
+            const competencyMatch = selectedCompetency === 'all' || competency.includes(selectedCompetency);
+            const sourceMatch = selectedSource === 'all' || source.includes(selectedSource);
+            const langMatch = selectedLang === 'all' || lang.includes(selectedLang);
+            const searchMatch = searchTerm === '' || cardText.includes(searchTerm);
+
+            return competencyMatch && sourceMatch && langMatch && searchMatch;
+        });
+        
+        // **FIX:** When filtering, always reset to page 1
+        currentPage = 1;
+        displayPage(filteredCards, currentPage);
+        setupPagination(filteredCards);
+        
+        const hasResults = filteredCards.length > 0;
+        itemList.style.display = hasResults ? 'grid' : 'none';
+        paginationContainer.style.display = hasResults ? 'flex' : 'none';
+        noResultsMessage.style.display = hasResults ? 'none' : 'block';
+    }
+
+    function populateFilters() {
+        const competencies = new Set();
+        const sources = new Set();
+        const langs = new Set();
+
+        allCards.forEach(card => {
+            (card.dataset.competency || '').split(',').forEach(c => c.trim() && competencies.add(c.trim()));
+            (card.dataset.source || '').split(',').forEach(f => f.trim() && sources.add(f.trim()));
+            (card.dataset.lang || '').split(',').forEach(l => l.trim() && langs.add(l.trim()));
+        });
+
+        const addOptions = (selectElement, optionsSet) => {
+            const sortedOptions = Array.from(optionsSet).sort();
+            sortedOptions.forEach(option => {
+                const newOption = document.createElement('option');
+                newOption.value = option;
+                newOption.textContent = option;
+                selectElement.appendChild(newOption);
+            });
+        };
+
+        addOptions(competencyFilter, competencies);
+        addOptions(sourceFilter, sources);
+        addOptions(langFilter, langs);
+    }
+    
+    // --- 3. INITIALIZATION ---
+    populateFilters();
+    applyFilters();
+
+    competencyFilter.addEventListener('change', applyFilters);
+    sourceFilter.addEventListener('change', applyFilters);
+    langFilter.addEventListener('change', applyFilters);
+    searchFilter.addEventListener('input', applyFilters);
+}
+</script>
+```

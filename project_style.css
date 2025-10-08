@@ -1,0 +1,228 @@
+
+/* =========================================
+   CDL description Styles
+   ========================================= */
+/* General container for the whole section */
+.cdl-description {
+    background-color: #fff;
+    padding: 3rem 2rem;
+    border-radius: 12px;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    box-shadow: var(--card-shadow);
+}
+
+
+/* Header section with the main title and subtitle */
+.cdl-header {
+    margin-bottom: 50px; /* Increased space below the header */   
+    text-align: center;
+}
+
+.cdl-header h2 {
+    margin-top: 0; /* Removes browser default top margin */
+    margin-bottom: 10px; /* Sets a consistent bottom margin */
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.cdl-header p {
+    font-size: 1.1em;
+    color: #555;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Flex container for the three steps */
+.cdl-steps {
+    display: flex;                 /* Use flexbox for horizontal alignment */
+    justify-content: space-between;/* Distribute items evenly */
+    align-items: flex-start;       /* Align items to the top */
+    gap: 30px;                     /* Add space between the step columns */
+}
+
+/* Individual styling for each step column */
+.step-partner, .step-data, .step-insight {
+    flex: 1;            /* Allow each step to take up equal space */
+    position: relative; /* Required for positioning the arrows */
+    padding: 0 15px;    /* Add some padding so text doesn't touch the arrows */
+}
+
+/* Style for the icons */
+.icon {
+    font-size: 2.5em;
+    color: #007bff;   /* A standard blue color, similar to the image */
+    margin-bottom: 15px;
+}
+
+/* Style for the step headings */
+.cdl-steps h3 {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Style for the step description paragraphs */
+.cdl-steps p {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.5;
+}
+
+
+/* --- RESPONSIVE DESIGN FOR SMALLER SCREENS --- */
+@media (max-width: 768px) {
+    .cdl-steps {
+        flex-direction: column; /* Stack the steps vertically on smaller screens */
+        align-items: center;    /* Center the items when stacked */
+        gap: 40px;              /* Increase gap for vertical layout */
+    }
+
+    /* Hide the arrows when the layout is vertical */
+    .step-partner::after, .step-data::after {
+        display: none;
+    }
+}
+
+
+/* =========================================
+   Filter Styles
+   ========================================= */
+
+.project-header h2 {
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0px;
+}
+
+.filter-container {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+    margin-bottom: 2rem; 
+}
+
+.filter-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* Creates three columns of equal width */
+  gap: 10px; /* Adds space between the grid items */
+}
+
+.filter-box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+
+
+/* =========================================
+   Project Listing Styles
+   ========================================= */
+
+
+/* Style adjustments for project cards */
+.item-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.item-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+/* Message for when no results are found */
+#no-results-message {
+    display: none;
+    text-align: center;
+    padding: 3rem;
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+.item-list {
+    list-style-type: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.item-card {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 25px;
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.item-card:hover {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* NEW: Styles for the header containing title and buttons */
+.card-header {
+    display: flex; /* Enables flexbox layout */
+    justify-content: space-between; /* Pushes title and buttons to opposite ends */
+    align-items: center; /* Vertically aligns title and buttons */
+    margin-bottom: 1em; /* Adds space below the header */
+    gap: 1em; /* Adds space between title and buttons if they wrap */
+}
+
+.item-title a {
+    font-size: 1.5rem;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.item-title a:hover {
+    text-decoration: underline;
+}
+
+.item-buttons {
+    display: flex;
+    flex-shrink: 0; /* Prevents buttons from shrinking */
+    gap: 8px;
+}
+
+.btn-listing {
+    background-color: transparent; 
+    border: 1px solid #0051ba; 
+    color: #0051ba;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    transition: all 0.2s ease-in-out; 
+}
+
+.btn-listing:hover {
+    color: white;
+    background-color: #0051ba;
+}
+
+/* =========================================
+   Two-Column Detail Section
+   ========================================= */
+
+.item-details {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 20px;
+}
+
+.item-details div {
+    font-size: 1rem;
+}
+
+.item-details strong {
+    font-weight: 600;
+    color: #000;
+}

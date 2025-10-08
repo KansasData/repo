@@ -1,32 +1,31 @@
-
-```{=html}
 <ul class="p-list list">
-  <% for (const item of items) { %>
+  <% for (const item of items) { %>   <-- Opening for loop
     <li <%= metadataAttrs(item) %>>
-      <span class="listing-title lead"><%= item.title %></span><br />
-      <span class="listing-partnership fst-italic"><%= item.partnership %></span>
-      <span class="listing-year">(<%= item.year %>)</span><br />
-  
-      <!-- Buttons in specified order: Details, License, Dataset, Code -->
-      <a href="<%- item.path %>" class="btn btn-primary">Details</a>
-      <% if (item.license && item.licenseType) { %>
-        <a href="<%- item.license %>" class="btn btn-dark fst-italic" target="_blank" rel="noopener noreferrer">
-          <%= item.licenseType %>
-        </a>
-      <% } %>
-      <% if (item.dataset) { %>
-        <a href="<%- item.dataset %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-          <i class="bi bi-file-earmark-zip"></i> Dataset
-        </a>
-      <% } %>
-      <% if (item.code) { %>
-        <a href="<%- item.code %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-          <i class="bi bi-file-earmark-code-fill"></i> Code
-        </a>
-      <% } %>
-    </li>
-  <% } %>
-  </ul>
-  
+      <span class="listing-title lead"><%= item.title %> (<%= item.year %>)</span><br />
 
-```
+      <% if (item.datatype && item.datatype.length > 0) { %> <-- Opening if
+        <span class="listing-datatype text-muted small">
+          <%= item.datatype.join(' | ') %>
+        </span><br />
+      <% } %>                                                <-- Closing if
+
+      <div class="d-flex flex-wrap gap-2 mt-2">
+        <a href="<%- item.path %>" class="btn btn-primary">Description</a>
+
+        <% if (item.classplan) { %>                           <-- Opening if
+          <a href="<%- item.classplan %>" class="btn btn-dark">Class Plan</a>
+        <% } %>                                             <-- Closing if
+
+        <% if (item.dataset) { %>                             <-- Opening if
+          <a href="<%- item.dataset %>" class="btn btn-light">Data</a>
+        <% } %>                                             <-- Closing if
+
+        <% if (item.code) { %>                                <-- Opening if
+          <a href="<%- item.code %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-file-earmark-code-fill"></i> Code
+          </a>
+        <% } %>                                             <-- Closing if
+      </div>
+    </li>
+  <% } %>                                                    <-- Closing for loop
+</ul>

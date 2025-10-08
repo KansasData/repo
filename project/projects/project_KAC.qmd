@@ -1,23 +1,99 @@
 ---
 title: "Kansas Action for Children"
+project-title: "Kansas Action for Children"
 year: "2024"
-partnership: "Kansas Action for Children"
-license: "https://creativecommons.org/licenses/by-nc/4.0/deed.en"
-licenseType: "CC-BY NC"
-dataset: "https://kansasdata.github.io/repo/project/datasets/data_KAC.html"
-toc: false
+partner: "Kansas Action for Children"
+datacategory:
+  - "Social Science"
+keyword:
+  - "Child Care"
+datatype: "Geospatial Data"
 ---
 
-## Abstract
+```{=html}
 
-Kansas Action for Children's (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students' findings.
+<link rel="stylesheet" href="../../project_description_style.css">
 
-## Project Proposal
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>{{< meta project-title >}}</h2>
+        <p class="subtitle">
+            A partnership with <a href="https://www.kac.org/">{{< meta partner >}}</a> to understand and address a key community challenge.
+        </p>
+    </header>
 
-{{< pdf CDL_Proposal_KAC.pdf width=800 height=800 >}}
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            {{< meta partner >}}
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            {{< meta datacategory >}}
+                            <strong>Keywords:</strong>
+                            {{< meta keyword >}} 
+                            <strong>Data Type:</strong>
+                            {{< meta datatype >}} 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            {{< meta year >}}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_KAC.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_KAC.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="CDL_Proposal_KAC.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
 
-## Dataset
+:::::: card
+## <i class="bi bi-question-circle-fill icon"></i> The Challenge
 
-Datasets include child care facility status across counties in Kansas state.
+::: conetent-text
+Kansas Action for Children’s (KAC) mission is to shape health, education, and economic policy that will improve the lives of Kansas children and families. KAC accomplishes this goal through bipartisan advocacy, partnership, and information-sharing on key issues. A priority issue in the upcoming 2024 legislative session will be child care access in Kansas, as policymakers and advocates are seeking a resolution to the ongoing crisis throughout the state. The goal of this project is to develop an understanding of the current child care landscape in Kansas through state and local-level data, establish a comparable understanding of the child care landscapes in states regional to Kansas, and attempt to create a predictive outcome for Kansas based on the students’ findings.
+:::
 
-[Explore Data](../datasets/data_KAC.qmd)
+:::: content-section
+## <i class="bi bi-bar-chart-line-fill icon"></i> Key Findings & Results
+
+::: results-placeholder
+<iframe src="KAC Data Analysis Result.html" width="100%" height="600px" style="border:none;">
+
+</iframe>
+:::
+::::
+::::::

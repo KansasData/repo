@@ -1,9 +1,10 @@
 ---
 title: "Linear Regression"
-subtitle: "Lecture Material"
+source: "Lecture Material"
 author: "Suzanne Smith"
-description: "Johnson County Community College"
-categories: [Statistical Foundation, Model Building]
+institution: "Johnson County Community College"
+competency: [Statistical Foundation, Model Building]
+main-format: PPT Slide
 toc: true
 toc-title: "On this page"
 ---
