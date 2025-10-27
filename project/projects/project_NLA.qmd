@@ -1,0 +1,99 @@
+---
+title: "Impact of Public Libraries on Student Learning Outcomes"
+project-title: "Impact of Public Libraries on Student Learning Outcomes"
+year: "2024"
+partner: "Kansas Department of Education"
+datacategory:
+  - "Social Science"
+keyword:
+  - "Education"
+datatype: "Longitudinal Data"
+---
+
+```{=html}
+
+<link rel="stylesheet" href="../../project_description_style.css">
+
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>{{< meta project-title >}}</h2>
+        <p class="subtitle">
+            A partnership with <a href="https://www.ksde.gov/">{{< meta partner >}}</a> to understand and address a key community challenge.
+        </p>
+    </header>
+
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            {{< meta partner >}}
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            {{< meta datacategory >}}
+                            <strong>Keywords:</strong>
+                            {{< meta keyword >}} 
+                            <strong>Data Type:</strong>
+                            {{< meta datatype >}} 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            {{< meta year >}}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_NLA.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_NLA.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="CDL_Proposal_NLA.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+:::::: card
+## <i class="bi bi-question-circle-fill icon"></i> The Challenge
+
+::: conetent-text
+Public libraries are an important community anchor institutions. Funding for libraries has fluctuated due to the varying sources where libraries receive support (local, state, national, philanthropy). Additionally, cities across Kansas have libraries of significantly different sizes and capacities. Given these differences, this project seeks to understand the role public libraries play in student learning.
+:::
+
+:::: content-section
+## <i class="bi bi-bar-chart-line-fill icon"></i> Key Findings & Results
+
+::: results-placeholder
+<iframe src="" width="100%" height="600px" style="border:none;">
+
+</iframe>
+:::
+::::
+::::::

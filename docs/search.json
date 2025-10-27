@@ -7,6 +7,34 @@
     "text": "This is a test item.\n\n\n\n Back to top"
   },
   {
+    "objectID": "project/projects/project_WDC.html#the-challenge",
+    "href": "project/projects/project_WDC.html#the-challenge",
+    "title": "Investigating the Relationship Between State-level Minimum Wage Preemption and Health Outcomes",
+    "section": " The Challenge",
+    "text": "The Challenge\n\nThe ultimate goal of this project is to determine if the health outcomes in states with minimum wage preemption are worse than in states without such preemption. There are, however, a number of complicating factors that need to be further explored. Most of the preemption statutes have been enacted within the past decade, and it will be important to determine if enactment of such statutes had a dampening effect on health outcomes. It is also possible that states with newly enacted preemption statutes had worse health outcomes prior to enactment of such preemption statutes. As such, it will be important to determine what other factors have contributed to such outcomes. For instance, it will be necessary to investigate the history of labor relations in those states. Policies and cultures that value the rights and well-being of employers over those of employees could be a contributing factor to worse health outcomes. A history of structural racism could be another contributing factor. The cohort’s limited analysis found that states with high percentages of Black populations are far more likely to have preemption statutes than states with low percentages of Black populations. More research, analysis, and thinking will be required to determine if structural racism is a major contributing factor, and whether preemption is more of a symptom than a cause."
+  },
+  {
+    "objectID": "project/projects/project_WDC.html#key-findings-results",
+    "href": "project/projects/project_WDC.html#key-findings-results",
+    "title": "Investigating the Relationship Between State-level Minimum Wage Preemption and Health Outcomes",
+    "section": " Key Findings & Results",
+    "text": "Key Findings & Results"
+  },
+  {
+    "objectID": "project/projects/project_KDHE.html#the-challenge",
+    "href": "project/projects/project_KDHE.html#the-challenge",
+    "title": "Modeling Water Quality Between Upstream Sources and Municipal Drinking Water",
+    "section": " The Challenge",
+    "text": "The Challenge\n\nThis project seeks an economic model to establish the cost municipalities face in cleaning their water. Municipal water sources come from surface water and from groundwater. They must treat the drinking water in order to ensure that water’s safety for human consumption. Given that the sources of water for different municipalities may come with varying levels of characteristics in the water, municipalities face different costs to ensure safety. To better understand these varying costs, it is important to model how levels of characteristics in water sources relate to levels of those same characteristics that appear on the CCRs for municipal drinking water."
+  },
+  {
+    "objectID": "project/projects/project_KDHE.html#key-findings-results",
+    "href": "project/projects/project_KDHE.html#key-findings-results",
+    "title": "Modeling Water Quality Between Upstream Sources and Municipal Drinking Water",
+    "section": " Key Findings & Results",
+    "text": "Key Findings & Results"
+  },
+  {
     "objectID": "project/projects/project_KAC.html#the-challenge",
     "href": "project/projects/project_KAC.html#the-challenge",
     "title": "Kansas Action for Children",
@@ -21,25 +49,18 @@
     "text": "Key Findings & Results"
   },
   {
-    "objectID": "project/projects/project_CommunityCollegeStudents.html",
-    "href": "project/projects/project_CommunityCollegeStudents.html",
-    "title": "Community College Students and Pathways to Degree Attainment",
-    "section": "",
-    "text": "This project seeks to better understand the relationship between community college attendance and future academic attainment and job success. In particular, the project focuses on state-level differences in outcomes for students who began at a community college."
+    "objectID": "project/datasets/data_NLA.html#about-the-data",
+    "href": "project/datasets/data_NLA.html#about-the-data",
+    "title": "KDSC",
+    "section": "About the Data",
+    "text": "About the Data"
   },
   {
-    "objectID": "project/projects/project_CommunityCollegeStudents.html#abstract",
-    "href": "project/projects/project_CommunityCollegeStudents.html#abstract",
-    "title": "Community College Students and Pathways to Degree Attainment",
-    "section": "",
-    "text": "This project seeks to better understand the relationship between community college attendance and future academic attainment and job success. In particular, the project focuses on state-level differences in outcomes for students who began at a community college."
-  },
-  {
-    "objectID": "project/projects/project_CommunityCollegeStudents.html#project-proposal",
-    "href": "project/projects/project_CommunityCollegeStudents.html#project-proposal",
-    "title": "Community College Students and Pathways to Degree Attainment",
-    "section": "Project Proposal",
-    "text": "Project Proposal\nDownload PDF file."
+    "objectID": "project/datasets/data_KBOR.html#about-the-data",
+    "href": "project/datasets/data_KBOR.html#about-the-data",
+    "title": "KDSC",
+    "section": "About the Data",
+    "text": "About the Data"
   },
   {
     "objectID": "project/classplan/class_KAC.html#class-plan-guide",
@@ -340,7 +361,7 @@
     "href": "dataset.html#datasets",
     "title": "Dataset",
     "section": "Datasets",
-    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Year - Oldest\n      \n      \n        Year - Newest\n      \n      \n        Project\n      \n      \n        Provider\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nYear\n\n\n\nProject\n\n\n\nProvider\n\n\n\n\n\n\n\n\n \n\n\nAbout the Data\n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "Datasets\nOur datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Year - Oldest\n      \n      \n        Year - Newest\n      \n      \n        Project\n      \n      \n        Provider\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nYear\n\n\n\nProject\n\n\n\nProvider\n\n\n\n\n\n\n\n\n \n\n\nAbout the Data\n\n\n \n\n\n\n\n\n\n \n\n\nAbout the Data\n\n\n \n\n\n\n\n\n\n \n\n\nAbout the Data\n\n\n \n\n\n\n\n\n\n \n\n\nAbout the Data\n\n\n \n\n\n\n\n\n\n \n\n\nAbout the Data\n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "course.html",
@@ -522,14 +543,14 @@
     "href": "curriculum.html",
     "title": "KDSC",
     "section": "",
-    "text": "Our curriculum is organized around six core competencies. Each category contains modules designed to build specific, in-demand data science skills. Click on a card to learn more! \n\n\n\n\n\n\n\n\n\n\n\nBuild and maintain the scalable systems and pipelines that collect, store, and process large volumes of data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClean, transform, and map raw data into a structured format suitable for analysis and model building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscover hidden patterns, valuable insights, and meaningful knowledge from large and complex datasets.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApply statistical principles and hypothesis testing to analyze data, interpret results, and ensure valid conclusions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse coding languages like Python and R to implement algorithms, automate tasks, and create data-driven applications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate, train, and refine predictive models to forecast future trends and make data-informed decisions."
+    "text": "Our curriculum is organized around six core competencies. Each category contains modules designed to build specific, in-demand data science skills. Click on a card to learn more!\n\n\n\n\n\n\n\n\n\n\n\nBuild and maintain the scalable systems and pipelines that collect, store, and process large volumes of data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClean, transform, and map raw data into a structured format suitable for analysis and model building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscover hidden patterns, valuable insights, and meaningful knowledge from large and complex datasets.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApply statistical principles and hypothesis testing to analyze data, interpret results, and ensure valid conclusions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse coding languages like Python and R to implement algorithms, automate tasks, and create data-driven applications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate, train, and refine predictive models to forecast future trends and make data-informed decisions."
   },
   {
     "objectID": "curriculum.html#data-science-competency",
     "href": "curriculum.html#data-science-competency",
     "title": "KDSC",
     "section": "",
-    "text": "Our curriculum is organized around six core competencies. Each category contains modules designed to build specific, in-demand data science skills. Click on a card to learn more! \n\n\n\n\n\n\n\n\n\n\n\nBuild and maintain the scalable systems and pipelines that collect, store, and process large volumes of data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClean, transform, and map raw data into a structured format suitable for analysis and model building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscover hidden patterns, valuable insights, and meaningful knowledge from large and complex datasets.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApply statistical principles and hypothesis testing to analyze data, interpret results, and ensure valid conclusions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse coding languages like Python and R to implement algorithms, automate tasks, and create data-driven applications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate, train, and refine predictive models to forecast future trends and make data-informed decisions."
+    "text": "Our curriculum is organized around six core competencies. Each category contains modules designed to build specific, in-demand data science skills. Click on a card to learn more!\n\n\n\n\n\n\n\n\n\n\n\nBuild and maintain the scalable systems and pipelines that collect, store, and process large volumes of data.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClean, transform, and map raw data into a structured format suitable for analysis and model building.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiscover hidden patterns, valuable insights, and meaningful knowledge from large and complex datasets.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApply statistical principles and hypothesis testing to analyze data, interpret results, and ensure valid conclusions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse coding languages like Python and R to implement algorithms, automate tasks, and create data-driven applications.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate, train, and refine predictive models to forecast future trends and make data-informed decisions."
   },
   {
     "objectID": "curriculum.html#explore-our-modules",
@@ -875,31 +896,52 @@
     "text": "Data Preview\n\nKansas care facility trend data from 2017 to 2023Child care facility landscape for Kansas county"
   },
   {
-    "objectID": "project/projects/project_FEMA.html",
-    "href": "project/projects/project_FEMA.html",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
-    "section": "",
-    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+    "objectID": "project/datasets/data_KDHE.html#about-the-data",
+    "href": "project/datasets/data_KDHE.html#about-the-data",
+    "title": "KDSC",
+    "section": "About the Data",
+    "text": "About the Data"
   },
   {
-    "objectID": "project/projects/project_FEMA.html#abstract",
-    "href": "project/projects/project_FEMA.html#abstract",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
-    "section": "",
-    "text": "Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households."
+    "objectID": "project/datasets/data_WDC.html#about-the-data",
+    "href": "project/datasets/data_WDC.html#about-the-data",
+    "title": "KDSC",
+    "section": "About the Data",
+    "text": "About the Data\nThe files are written in .XPT (SAS transport file) format. To see the data, please click the “Download Full Dataset” button."
   },
   {
-    "objectID": "project/projects/project_FEMA.html#project-proposal",
-    "href": "project/projects/project_FEMA.html#project-proposal",
-    "title": "Who Receives FEMA Individual Assistance After Disasters",
-    "section": "Project Proposal",
-    "text": "Project Proposal\nDownload PDF file."
+    "objectID": "project/projects/project_KBOR.html#the-challenge",
+    "href": "project/projects/project_KBOR.html#the-challenge",
+    "title": "Kansas Board of Regents",
+    "section": " The Challenge",
+    "text": "The Challenge\n\nUsing successive waves of the Survey of College Graduates, analyze how students who attended a community college fare post-graduation. There is evidence of a community college penalty for degree attainment and this project seeks to analyze whether students who attend a community college in the course of their academic career and attain a baccalaureate degree face a career or wage penalty compared to their peers who attain a baccalaureate degree but never attended a community college full-time."
+  },
+  {
+    "objectID": "project/projects/project_KBOR.html#key-findings-results",
+    "href": "project/projects/project_KBOR.html#key-findings-results",
+    "title": "Kansas Board of Regents",
+    "section": " Key Findings & Results",
+    "text": "Key Findings & Results"
+  },
+  {
+    "objectID": "project/projects/project_NLA.html#the-challenge",
+    "href": "project/projects/project_NLA.html#the-challenge",
+    "title": "Impact of Public Libraries on Student Learning Outcomes",
+    "section": " The Challenge",
+    "text": "The Challenge\n\nPublic libraries are an important community anchor institutions. Funding for libraries has fluctuated due to the varying sources where libraries receive support (local, state, national, philanthropy). Additionally, cities across Kansas have libraries of significantly different sizes and capacities. Given these differences, this project seeks to understand the role public libraries play in student learning."
+  },
+  {
+    "objectID": "project/projects/project_NLA.html#key-findings-results",
+    "href": "project/projects/project_NLA.html#key-findings-results",
+    "title": "Impact of Public Libraries on Student Learning Outcomes",
+    "section": " Key Findings & Results",
+    "text": "Key Findings & Results"
   },
   {
     "objectID": "project.html",
     "href": "project.html",
     "title": "KDSC",
     "section": "",
-    "text": "How the Community Data Lab Works\n                     We connect real-world challenges with student-led data inquiry to generate insights and impact for our community.\n                \n\n                \n                    \n                        \n                        1. Partner & Problem\n                        We collaborate with community partners to identify a pressing question or problem that can be explored with data.\n                    \n\n                    \n                        \n                        2. Data & Analysis\n                        Students work in small groups to analyze relevant datasets, applying data science methods to uncover patterns and insights.\n                    \n                    \n                         \n                        3. Insights & Impact\n                        The findings, materials, and datasets are shared back with the partner and the public to drive decisions and learning.\n                    \n                \n\n\n \n   Explore Our CDL Projects \n\n\n\n    \n        \n        \n            By Data Type\n            \n                All Data Types\n                Geospatial Data\n                \n            \n        \n        \n        \n            By Data Category\n            \n                All Categories\n                Social Science\n                Humanities\n                \n            \n        \n        \n        \n            By Keyword\n            \n                \n                \n            \n        \n    \n\n\n\n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Community College Students and Pathways to Degree Attainment\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: \n        Data Category: \n        Keywords: \n        Data Type: \n      \n    \n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Kansas Action for Children\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: Kansas Action for Children\n        Data Category: Social Science\n        Keywords: Child Care\n        Data Type: Geospatial Data\n      \n    \n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Who Receives FEMA Individual Assistance After Disasters\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: \n        Data Category: \n        Keywords: \n        Data Type: \n      \n    \n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
+    "text": "How the Community Data Lab Works\n                     We connect real-world challenges with student-led data inquiry to generate insights and impact for our community.\n                \n\n                \n                    \n                        \n                        1. Partner & Problem\n                        We collaborate with community partners to identify a pressing question or problem that can be explored with data.\n                    \n\n                    \n                        \n                        2. Data & Analysis\n                        Students work in small groups to analyze relevant datasets, applying data science methods to uncover patterns and insights.\n                    \n                    \n                         \n                        3. Insights & Impact\n                        The findings, materials, and datasets are shared back with the partner and the public to drive decisions and learning.\n                    \n                \n\n\n \n   Explore Our CDL Projects \n\n\n\n    \n        \n        \n            By Data Type\n            \n                All Data Types\n                Geospatial Data\n                \n            \n        \n        \n        \n            By Data Category\n            \n                All Categories\n                Social Science\n                Humanities\n                \n            \n        \n        \n        \n            By Keyword\n            \n                \n                \n            \n        \n    \n\n\n\n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Impact of Public Libraries on Student Learning Outcomes\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: Kansas Department of Education\n        Data Category: Social Science\n        Keywords: Education\n        Data Type: Longitudinal Data\n      \n    \n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Investigating the Relationship Between State-level Minimum Wage Preemption and Health Outcomes\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: Withdrawn\n        Data Category: Social Science\n        Keywords: Wage Preemption\n        Data Type: Tabular Data\n      \n    \n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Kansas Action for Children\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: Kansas Action for Children\n        Data Category: Social Science\n        Keywords: Child Care\n        Data Type: Geospatial Data\n      \n    \n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Kansas Board of Regents\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: Kansas Board of Regents\n        Data Category: Social Science\n        Keywords: Education\n        Data Type: Tabular Data\n      \n    \n\n    \n    \n    \n      \n      \n      \n        \n        \n        \n            Modeling Water Quality Between Upstream Sources and Municipal Drinking Water\n        \n        \n        \n        \n             Project\n             Dataset\n             Class Plan\n        \n\n      \n      \n      \n      \n        Partner: Kansas Department of Health and Environment\n        Data Category: Natural Science\n        Keywords: Water Quality\n        Data Type: Tabular Data\n      \n    \n\n\nNo matching items\n\n\n\n\n\n\n Back to top"
   }
 ]

@@ -1,0 +1,99 @@
+---
+title: "Kansas Board of Regents"
+project-title: "Kansas Board of Regents"
+year: "2024"
+partner: "Kansas Board of Regents"
+datacategory:
+  - "Social Science"
+keyword:
+  - "Education"
+datatype: "Tabular Data"
+---
+
+```{=html}
+
+<link rel="stylesheet" href="../../project_description_style.css">
+
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>{{< meta project-title >}}</h2>
+        <p class="subtitle">
+            A partnership with <a href="https://www.kansasregents.gov/">{{< meta partner >}}</a> to understand and address a key community challenge.
+        </p>
+    </header>
+
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            {{< meta partner >}}
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            {{< meta datacategory >}}
+                            <strong>Keywords:</strong>
+                            {{< meta keyword >}} 
+                            <strong>Data Type:</strong>
+                            {{< meta datatype >}} 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            {{< meta year >}}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_KBOR.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_KBOR.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="CDL_Proposal_KBOR.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+:::::: card
+## <i class="bi bi-question-circle-fill icon"></i> The Challenge
+
+::: conetent-text
+Using successive waves of the Survey of College Graduates, analyze how students who attended a community college fare post-graduation. There is evidence of a community college penalty for degree attainment and this project seeks to analyze whether students who attend a community college in the course of their academic career and attain a baccalaureate degree face a career or wage penalty compared to their peers who attain a baccalaureate degree but never attended a community college full-time.
+:::
+
+:::: content-section
+## <i class="bi bi-bar-chart-line-fill icon"></i> Key Findings & Results
+
+::: results-placeholder
+<iframe src width="100%" height="600px" style="border:none;">
+
+</iframe>
+:::
+::::
+::::::

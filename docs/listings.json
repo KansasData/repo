@@ -43,7 +43,11 @@
   {
     "listing": "/dataset.html",
     "items": [
-      "/project/datasets/data_KAC.html"
+      "/project/datasets/data_KAC.html",
+      "/project/datasets/data_KBOR.html",
+      "/project/datasets/data_KDHE.html",
+      "/project/datasets/data_NLA.html",
+      "/project/datasets/data_WDC.html"
     ]
   },
   {
@@ -132,9 +136,11 @@
   {
     "listing": "/project.html",
     "items": [
-      "/project/projects/project_CommunityCollegeStudents.html",
+      "/project/projects/project_NLA.html",
+      "/project/projects/project_WDC.html",
       "/project/projects/project_KAC.html",
-      "/project/projects/project_FEMA.html"
+      "/project/projects/project_KBOR.html",
+      "/project/projects/project_KDHE.html"
     ]
   }
 ]

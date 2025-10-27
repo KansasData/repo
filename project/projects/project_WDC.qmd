@@ -1,0 +1,98 @@
+---
+title: "Investigating the Relationship Between State-level Minimum Wage Preemption and Health Outcomes"
+project-title: "Investigating the Relationship Between State-level Minimum Wage Preemption and Health Outcomes"
+year: "2024"
+partner: "Withdrawn"
+datacategory:
+  - "Social Science"
+keyword:
+  - "Wage Preemption"
+datatype: "Tabular Data"
+---
+
+```{=html}
+
+<link rel="stylesheet" href="../../project_description_style.css">
+
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>{{< meta project-title >}}</h2>
+        <p class="subtitle">
+        </p>
+    </header>
+
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            {{< meta partner >}}
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            {{< meta datacategory >}}
+                            <strong>Keywords:</strong>
+                            {{< meta keyword >}} 
+                            <strong>Data Type:</strong>
+                            {{< meta datatype >}} 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            {{< meta year >}}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_WDC.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_WDC.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="CDL_Proposal_WDC.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+:::::: card
+## <i class="bi bi-question-circle-fill icon"></i> The Challenge
+
+::: conetent-text
+The ultimate goal of this project is to determine if the health outcomes in states with minimum wage preemption are worse than in states without such preemption. There are, however, a number of complicating factors that need to be further explored. Most of the preemption statutes have been enacted within the past decade, and it will be important to determine if enactment of such statutes had a dampening effect on health outcomes. It is also possible that states with newly enacted preemption statutes had worse health outcomes prior to enactment of such preemption statutes. As such, it will be important to determine what other factors have contributed to such outcomes. For instance, it will be necessary to investigate the history of labor relations in those states. Policies and cultures that value the rights and well-being of employers over those of employees could be a contributing factor to worse health outcomes. A history of structural racism could be another contributing factor. The cohort’s limited analysis found that states with high percentages of Black populations are far more likely to have preemption statutes than states with low percentages of Black populations. More research, analysis, and thinking will be required to determine if structural racism is a major contributing factor, and whether preemption is more of a symptom than a cause.
+:::
+
+:::: content-section
+## <i class="bi bi-bar-chart-line-fill icon"></i> Key Findings & Results
+
+::: results-placeholder
+<iframe src width="100%" height="600px" style="border:none;">
+
+</iframe>
+:::
+::::
+::::::
