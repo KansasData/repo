@@ -109,6 +109,11 @@
 
 .filter-container {
     text-align: center;
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+    margin-bottom: 2rem;
 }
 
 .filter-container h2 {
@@ -135,8 +140,11 @@
 
 .filter-box {
     text-align: left;
-    flex: 1; /* Allows boxes to grow and fill space */
-    min-width: 200px; /* Prevents boxes from becoming too small */
+    flex: 1;
+    min-width: 200px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 12px;
 }
 
 .form-label {

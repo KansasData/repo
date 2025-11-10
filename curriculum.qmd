@@ -127,8 +127,7 @@ Our curriculum is organized around six core competencies. Each category contains
 
 ## Explore Our Modules {.main-header}
 
-This page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.<br><br>
-
+This page features a comprehensive collection of modules curated by our partners at KDSC. These resources include lecture slides, interactive tutorial content, and hands-on workshop materials, designed to enhance your learning and expertise in data science competency.
 
 ```{=html}
 
@@ -160,6 +159,7 @@ This page features a comprehensive collection of modules curated by our partners
 </div>
 ```
 
+<br>
 
 ::: {#module-listings}
 :::

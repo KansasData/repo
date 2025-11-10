@@ -1,0 +1,32 @@
+---
+pagetitle: "KDSC | ARISE Data Log"
+toc: false
+css: datalog_style.css
+---
+
+## What's in this page? {.main-header}
+
+In this page, you can see the data log for the [ARISE](https://nsfepscor.ku.edu/track-1-arise) projects. Adaptive and Resilient Infrastructures Driven by Social Equity (ARISE) is a NSF EPSCoR initiative that helps Kansas communities rebound faster from large-scale disasters. The project unites over 70 researchers across 18 partner institutions to build research capacity and develop new decision-support tools for managing human and physical infrastructure. As a part of ARISE team, we share data log for the ARISE projects which includes KDSC projects. If you are interested in getting access to level 2 or level 3 data, please contact xxx.
+
+```{r}
+#| echo: false
+#| output: false
+#| warning: false
+
+library(readxl)
+library(tidyverse)
+library(DT)
+
+kdsc_data <- read_excel("C:/Users/d497j944/Downloads/KDSC Data Log.xlsx") |> 
+  select(1:3)
+```
+
+## Data Log {.main-header}
+```{r}
+#| echo: false
+
+kdsc_data |> 
+  DT::datatable(
+    options = list(columnDefs = list(list(className = 'dt-center', targets = '_all')))
+  )
+```

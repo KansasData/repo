@@ -51,27 +51,6 @@
     ]
   },
   {
-    "listing": "/course.html",
-    "items": [
-      "/course/Data_I_Duncun_KU.html",
-      "/course/Data_II_TBD_KU.html",
-      "/course/Data_III_TBD_KU.html",
-      "/course/Data_IV_TBD_KU.html",
-      "/course/Data_V_TBD_KU.html"
-    ]
-  },
-  {
-    "listing": "/competency.html",
-    "items": [
-      "/competency/comp_data_eng.html",
-      "/competency/comp_data_mining.html",
-      "/competency/comp_data_wrangling.html",
-      "/competency/comp_model_build.html",
-      "/competency/comp_programming.html",
-      "/competency/comp_stat_foundation.html"
-    ]
-  },
-  {
     "listing": "/curriculum.html",
     "items": [
       "/module/module_workshop/ku_duncan_business_analytics1.html",
@@ -100,6 +79,27 @@
       "/module/module_workshop/ku_duncan_stata_spring_2025_2.html",
       "/module/module_workshop/ku_duncan_stata_spring_2025_3.html",
       "/module/module_workshop/kstate_shamir_textanalysis.html"
+    ]
+  },
+  {
+    "listing": "/competency.html",
+    "items": [
+      "/competency/comp_data_eng.html",
+      "/competency/comp_data_mining.html",
+      "/competency/comp_data_wrangling.html",
+      "/competency/comp_model_build.html",
+      "/competency/comp_programming.html",
+      "/competency/comp_stat_foundation.html"
+    ]
+  },
+  {
+    "listing": "/course.html",
+    "items": [
+      "/course/Data_I_Duncun_KU.html",
+      "/course/Data_II_TBD_KU.html",
+      "/course/Data_III_TBD_KU.html",
+      "/course/Data_IV_TBD_KU.html",
+      "/course/Data_V_TBD_KU.html"
     ]
   },
   {
