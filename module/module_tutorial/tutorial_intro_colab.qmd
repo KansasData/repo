@@ -1,8 +1,8 @@
 ---
 title: "Introduction to Google Colab"
 source: "Tutorial"
-author: "Withheld"
-institution: "University of Kansas"
+author: "Data 8 Instructors"
+institution: "University of California, Berkeley"
 competency: "Programming Skills"
 tech-lang: "Python"
 main-format: "Google Colab"

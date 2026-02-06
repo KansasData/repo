@@ -1,8 +1,8 @@
 ---
 title: "Casuality Homework"
 source: "Lecture Material"
-author: "TBD"
-institution: "University of Kansas"
+author: "Data 8 Instructors"
+institution: "University of California, Berkeley"
 competency: [Statistical Foundation, Programming Skills]
 tech-lang: Python
 main-format: Google Colab
