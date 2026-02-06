@@ -1,0 +1,20 @@
+---
+title: "An Optimization Case Study With Extensions for Analysis"
+source: "Tutorial Material"
+author: "Kevin McCarthy"
+institution: "Baker University"
+competency: "Optimization"
+main-format: "PDF"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+The problem in this case study falls into a class of optimization problems known as "set covering." A small-scale problem is introduced with a basic formulation and solution. Then extensions are described exploring opportunities for data wrangling and visualization. This may be appropriate for an undergraduate course and tailored to course level, student background, or pedagogical priorities.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/blob/main/Baker_McCarthy_set_covering/bank_location_set_covering_teaching_resource__AutoRecovered_.pdf)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)

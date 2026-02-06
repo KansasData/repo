@@ -26,6 +26,7 @@
   {
     "listing": "/module/module_tutorial.html",
     "items": [
+      "/module/module_tutorial/baker_mccarthy_optimization.html",
       "/module/module_tutorial/tutorial_intro_colab.html"
     ]
   },
@@ -53,6 +54,7 @@
   {
     "listing": "/curriculum.html",
     "items": [
+      "/module/module_tutorial/baker_mccarthy_optimization.html",
       "/module/module_workshop/ku_duncan_business_analytics1.html",
       "/module/module_workshop/ku_duncan_business_analytics2.html",
       "/module/module_workshop/ku_duncan_business_analytics3.html",
@@ -105,6 +107,7 @@
   {
     "listing": "/module.html",
     "items": [
+      "/module/module_tutorial/baker_mccarthy_optimization.html",
       "/module/module_workshop/ku_duncan_business_analytics1.html",
       "/module/module_workshop/ku_duncan_business_analytics2.html",
       "/module/module_workshop/ku_duncan_business_analytics3.html",
