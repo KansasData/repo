@@ -3,7 +3,7 @@ title: "Data Management in Stata"
 source: "Workshop Material"
 author: "Benjamin Jacobs"
 institution: "University of Kansas"
-competency: [Data Wrangling]
+competency: [Data Wrangling, Programming Skills, Data Engineering]
 tech-lang: [Stata]
 main-format: [PDF, Code, Data]
 toc: true
