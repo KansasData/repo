@@ -1,0 +1,22 @@
+---
+title: "Data Management in Stata"
+source: "Workshop Material"
+author: "Benjamin Jacobs"
+institution: "University of Kansas"
+competency: [Data Wrangling]
+tech-lang: [Stata]
+main-format: [PDF, Code, Data]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop walks students through the application of data management techniques in a research environment. The focus is on best practices for downloading, transforming, merging, and saving data.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Jacobs_Stata_Data_Management)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
