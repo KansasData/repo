@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,13 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1d88de641226621735836c00a78992b5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-88c77154f9e4ba31b898a632c89cdd97.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -140,7 +141,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo">
+    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo light-content">
+    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -239,7 +241,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1755529993972" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <a href="./module/module_workshop/ku_duncan_business_analytics1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -257,7 +259,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1755530591940" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <a href="./module/module_workshop/ku_duncan_business_analytics2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -275,7 +277,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1755529978655" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <a href="./module/module_workshop/ku_duncan_business_analytics3.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -293,7 +295,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1755529982088" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <a href="./module/module_workshop/ku_duncan_business_analytics4.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -311,7 +313,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1755530031438" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
 <a href="./module/module_workshop/ku_duncan_stata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -329,7 +331,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1757341509139" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1770373792186" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
 <a href="./module/module_lecture/ku_dataI_casuality_slide.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -347,7 +349,7 @@ TBD
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1755528924212" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1770374393957" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
 <a href="./module/module_lecture/ku_dataI_casuality_hw.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -359,13 +361,13 @@ This module is a hands-on homework assignment that students can enhance their un
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
-TBD
+Data 8 Instructors
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1755529493704" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
 <a href="./module/module_workshop/kstate_shamir_arthistory.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -383,7 +385,7 @@ Lior Shamir
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1759948472495" data-listing-reading-time-sort="1" data-listing-word-count-sort="98">
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1770373792192" data-listing-reading-time-sort="1" data-listing-word-count-sort="98">
 <a href="./module/module_workshop/ucb_chaspari_data_bias_presentation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -401,7 +403,7 @@ Theodora Chaspari
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1759948472490" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1770373792187" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <a href="./module/module_workshop/cmu_zhou_data_bias_presentation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -419,7 +421,7 @@ Xuhui Zhou
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1759948472491" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
 <a href="./module/module_workshop/ku_duncan_federal_economic.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -437,7 +439,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1759948472492" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
 <a href="./module/module_workshop/ku_duncan_federal_labor.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -455,7 +457,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1759948472490" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
 <a href="./module/module_workshop/ku_duncan_federal_census.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -473,7 +475,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1759948472491" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
 <a href="./module/module_workshop/ku_duncan_federal_education.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -491,7 +493,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1759948472492" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
 <a href="./module/module_workshop/ku_duncan_federal_health.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -509,7 +511,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1757341640539" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1770373792186" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
 <a href="./module/module_lecture/wsu_yan_neuralnetwork_slide.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -527,7 +529,7 @@ Dr.&nbsp;Fuijan Yan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1757341707092" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="g-col-1" data-index="16" data-listing-file-modified-sort="1770374752152" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
 <a href="./module/module_tutorial/tutorial_intro_colab.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -539,13 +541,13 @@ You can access this tutorial here
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
-Withheld
+Data 8 Instructors
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1757341595110" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="g-col-1" data-index="17" data-listing-file-modified-sort="1770373792187" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <a href="./module/module_workshop/butler_cc_akao_tableau.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -563,7 +565,7 @@ Janice Akao
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-listing-file-modified-sort="1759948472495" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
+<div class="g-col-1" data-index="18" data-listing-file-modified-sort="1770373792192" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
 <a href="./module/module_workshop/ku_girard_r_workshop_1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -581,7 +583,7 @@ Jeff Girard
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-listing-file-modified-sort="1757341555499" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
+<div class="g-col-1" data-index="19" data-listing-file-modified-sort="1770373792185" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
 <a href="./module/module_lecture/johnsoncounty_smith_linearregression_lecture.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -599,7 +601,7 @@ Suzanne Smith
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="20" data-listing-file-modified-sort="1759948472487" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
+<div class="g-col-1" data-index="20" data-listing-file-modified-sort="1770373792185" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
 <a href="./module/module_lecture/ku_branicky_interpretable_model_lecture.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -617,7 +619,7 @@ Michael S. Branicky
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="21" data-listing-file-modified-sort="1757341660773" data-listing-reading-time-sort="1" data-listing-word-count-sort="42">
+<div class="g-col-1" data-index="21" data-listing-file-modified-sort="1770373792186" data-listing-reading-time-sort="1" data-listing-word-count-sort="42">
 <a href="./module/module_lecture/wsu_mornroy_networkintrusion.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -635,7 +637,7 @@ Dr.&nbsp;Sergio Salinas Mornroy
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="22" data-listing-file-modified-sort="1759948472493" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="g-col-1" data-index="22" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
 <a href="./module/module_workshop/ku_duncan_stata_spring_2025.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -656,7 +658,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="23" data-listing-file-modified-sort="1759948472494" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="g-col-1" data-index="23" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
 <a href="./module/module_workshop/ku_duncan_stata_spring_2025_2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -674,7 +676,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="24" data-listing-file-modified-sort="1759948472494" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<div class="g-col-1" data-index="24" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
 <a href="./module/module_workshop/ku_duncan_stata_spring_2025_3.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -692,7 +694,7 @@ William Duncan
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="25" data-listing-file-modified-sort="1755530000672" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="g-col-1" data-index="25" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <a href="./module/module_workshop/kstate_shamir_textanalysis.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -767,13 +769,14 @@ Lior Shamir
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -1119,13 +1122,13 @@ Lior Shamir
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src=".\images/NSF.png" class="img-fluid" width="150" alt="NSF image"></a></p>
+<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src="./images/NSF.png" class="img-fluid" width="150" alt="NSF image"></a></p>
 </div>   
     <div class="nav-footer-center">
 <p>Except where otherwise noted content on this site is <br> licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC</a><br></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src=".\images/arise_logo.png" class="img-fluid" width="60"></a></p>
+<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src="./images/arise_logo.png" class="img-fluid" width="60"></a></p>
 </div>
   </div>
 </footer>

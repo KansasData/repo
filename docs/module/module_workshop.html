@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,13 +34,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1d88de641226621735836c00a78992b5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-88c77154f9e4ba31b898a632c89cdd97.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -112,7 +113,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -139,7 +140,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../kdsc_logo.png" alt="KDSC logo" class="navbar-logo">
+    <img src="../kdsc_logo.png" alt="KDSC logo" class="navbar-logo light-content">
+    <img src="../kdsc_logo.png" alt="KDSC logo" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -259,7 +261,7 @@ Institution
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-file-modified-sort="1755529993972" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 1" data-listing-filename-sort="ku_duncan_business_analytics1.qmd">
+<tr data-index="0" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 1" data-listing-filename-sort="ku_duncan_business_analytics1.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_business_analytics1.html" class="title listing-title">Business Data Analytics 1</a>
 </td>
@@ -275,7 +277,7 @@ Institution
 
 </tr>
 
-<tr data-index="1" data-listing-file-modified-sort="1755530591940" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 2" data-listing-filename-sort="ku_duncan_business_analytics2.qmd">
+<tr data-index="1" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 2" data-listing-filename-sort="ku_duncan_business_analytics2.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_business_analytics2.html" class="title listing-title">Business Data Analytics 2</a>
 </td>
@@ -291,7 +293,7 @@ Institution
 
 </tr>
 
-<tr data-index="2" data-listing-file-modified-sort="1755529978655" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 3" data-listing-filename-sort="ku_duncan_business_analytics3.qmd">
+<tr data-index="2" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 3" data-listing-filename-sort="ku_duncan_business_analytics3.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_business_analytics3.html" class="title listing-title">Business Data Analytics 3</a>
 </td>
@@ -307,7 +309,7 @@ Institution
 
 </tr>
 
-<tr data-index="3" data-listing-file-modified-sort="1755529982088" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 4" data-listing-filename-sort="ku_duncan_business_analytics4.qmd">
+<tr data-index="3" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="29" data-listing-title-sort="Business Data Analytics 4" data-listing-filename-sort="ku_duncan_business_analytics4.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_business_analytics4.html" class="title listing-title">Business Data Analytics 4</a>
 </td>
@@ -323,7 +325,7 @@ Institution
 
 </tr>
 
-<tr data-index="4" data-listing-file-modified-sort="1755530031438" data-listing-reading-time-sort="1" data-listing-word-count-sort="25" data-listing-title-sort="Business Data Analytics 4" data-listing-filename-sort="ku_duncan_stata.qmd">
+<tr data-index="4" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="25" data-listing-title-sort="Business Data Analytics 4" data-listing-filename-sort="ku_duncan_stata.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_stata.html" class="title listing-title">Business Data Analytics 4</a>
 </td>
@@ -339,7 +341,7 @@ Institution
 
 </tr>
 
-<tr data-index="5" data-listing-file-modified-sort="1755529493704" data-listing-reading-time-sort="1" data-listing-word-count-sort="51" data-listing-title-sort="Computer Approach to Art History" data-listing-filename-sort="kstate_shamir_arthistory.qmd">
+<tr data-index="5" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="51" data-listing-title-sort="Computer Approach to Art History" data-listing-filename-sort="kstate_shamir_arthistory.qmd">
 <td>
 <a href="../module/module_workshop/kstate_shamir_arthistory.html" class="title listing-title">Computer Approach to Art History</a>
 </td>
@@ -355,7 +357,7 @@ Institution
 
 </tr>
 
-<tr data-index="6" data-listing-file-modified-sort="1759948472495" data-listing-reading-time-sort="1" data-listing-word-count-sort="98" data-listing-title-sort="Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health" data-listing-filename-sort="ucb_chaspari_data_bias_presentation.qmd">
+<tr data-index="6" data-listing-file-modified-sort="1770373792192" data-listing-reading-time-sort="1" data-listing-word-count-sort="98" data-listing-title-sort="Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health" data-listing-filename-sort="ucb_chaspari_data_bias_presentation.qmd">
 <td>
 <a href="../module/module_workshop/ucb_chaspari_data_bias_presentation.html" class="title listing-title">Data Bias and Fairness Series: Deconstructing and Mitigating Socio-Demographic Bias in AI Algorithms for Mental Health</a>
 </td>
@@ -371,7 +373,7 @@ Institution
 
 </tr>
 
-<tr data-index="7" data-listing-file-modified-sort="1759948472490" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems" data-listing-filename-sort="cmu_zhou_data_bias_presentation.qmd">
+<tr data-index="7" data-listing-file-modified-sort="1770373792187" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems" data-listing-filename-sort="cmu_zhou_data_bias_presentation.qmd">
 <td>
 <a href="../module/module_workshop/cmu_zhou_data_bias_presentation.html" class="title listing-title">Data Bias and Fairness Series: Safety, Ethics, and Biases in AI and NLP Systems</a>
 </td>
@@ -387,7 +389,7 @@ Institution
 
 </tr>
 
-<tr data-index="8" data-listing-file-modified-sort="1759948472491" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Bureau of Economic Analysis" data-listing-filename-sort="ku_duncan_federal_economic.qmd">
+<tr data-index="8" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Bureau of Economic Analysis" data-listing-filename-sort="ku_duncan_federal_economic.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_federal_economic.html" class="title listing-title">Federal Data Workshops: the Bureau of Economic Analysis</a>
 </td>
@@ -403,7 +405,7 @@ Institution
 
 </tr>
 
-<tr data-index="9" data-listing-file-modified-sort="1759948472492" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Bureau of Labor Statistics" data-listing-filename-sort="ku_duncan_federal_labor.qmd">
+<tr data-index="9" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Bureau of Labor Statistics" data-listing-filename-sort="ku_duncan_federal_labor.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_federal_labor.html" class="title listing-title">Federal Data Workshops: the Bureau of Labor Statistics</a>
 </td>
@@ -419,7 +421,7 @@ Institution
 
 </tr>
 
-<tr data-index="10" data-listing-file-modified-sort="1759948472490" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Census Bureau" data-listing-filename-sort="ku_duncan_federal_census.qmd">
+<tr data-index="10" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Federal Data Workshops: the Census Bureau" data-listing-filename-sort="ku_duncan_federal_census.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_federal_census.html" class="title listing-title">Federal Data Workshops: the Census Bureau</a>
 </td>
@@ -435,7 +437,7 @@ Institution
 
 </tr>
 
-<tr data-index="11" data-listing-file-modified-sort="1759948472491" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Federal Data Workshops: the National Center for Education Statistics" data-listing-filename-sort="ku_duncan_federal_education.qmd">
+<tr data-index="11" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Federal Data Workshops: the National Center for Education Statistics" data-listing-filename-sort="ku_duncan_federal_education.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_federal_education.html" class="title listing-title">Federal Data Workshops: the National Center for Education Statistics</a>
 </td>
@@ -451,7 +453,7 @@ Institution
 
 </tr>
 
-<tr data-index="12" data-listing-file-modified-sort="1759948472492" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Federal Data Workshops: the National Center for Health Statistics" data-listing-filename-sort="ku_duncan_federal_health.qmd">
+<tr data-index="12" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="35" data-listing-title-sort="Federal Data Workshops: the National Center for Health Statistics" data-listing-filename-sort="ku_duncan_federal_health.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_federal_health.html" class="title listing-title">Federal Data Workshops: the National Center for Health Statistics</a>
 </td>
@@ -467,7 +469,7 @@ Institution
 
 </tr>
 
-<tr data-index="13" data-listing-file-modified-sort="1757341595110" data-listing-reading-time-sort="1" data-listing-word-count-sort="68" data-listing-title-sort="Introduction to Tableau" data-listing-filename-sort="butler_cc_akao_tableau.qmd">
+<tr data-index="13" data-listing-file-modified-sort="1770373792187" data-listing-reading-time-sort="1" data-listing-word-count-sort="68" data-listing-title-sort="Introduction to Tableau" data-listing-filename-sort="butler_cc_akao_tableau.qmd">
 <td>
 <a href="../module/module_workshop/butler_cc_akao_tableau.html" class="title listing-title">Introduction to Tableau</a>
 </td>
@@ -483,7 +485,7 @@ Institution
 
 </tr>
 
-<tr data-index="14" data-listing-file-modified-sort="1759948472495" data-listing-reading-time-sort="1" data-listing-word-count-sort="74" data-listing-title-sort="KDSC R Workshop: Intro to R &amp; Data Wrangling" data-listing-filename-sort="ku_girard_r_workshop_1.qmd">
+<tr data-index="14" data-listing-file-modified-sort="1770373792192" data-listing-reading-time-sort="1" data-listing-word-count-sort="74" data-listing-title-sort="KDSC R Workshop: Intro to R &amp; Data Wrangling" data-listing-filename-sort="ku_girard_r_workshop_1.qmd">
 <td>
 <a href="../module/module_workshop/ku_girard_r_workshop_1.html" class="title listing-title">KDSC R Workshop: Intro to R &amp; Data Wrangling</a>
 </td>
@@ -499,7 +501,7 @@ Institution
 
 </tr>
 
-<tr data-index="15" data-listing-file-modified-sort="1759948472493" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Stata Workshop 1:Data Wrangling" data-listing-filename-sort="ku_duncan_stata_spring_2025.qmd">
+<tr data-index="15" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Stata Workshop 1:Data Wrangling" data-listing-filename-sort="ku_duncan_stata_spring_2025.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_stata_spring_2025.html" class="title listing-title">Stata Workshop 1:Data Wrangling</a>
 </td>
@@ -515,7 +517,7 @@ Institution
 
 </tr>
 
-<tr data-index="16" data-listing-file-modified-sort="1759948472494" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Stata Workshop 2:Visualization" data-listing-filename-sort="ku_duncan_stata_spring_2025_2.qmd">
+<tr data-index="16" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="31" data-listing-title-sort="Stata Workshop 2:Visualization" data-listing-filename-sort="ku_duncan_stata_spring_2025_2.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_stata_spring_2025_2.html" class="title listing-title">Stata Workshop 2:Visualization</a>
 </td>
@@ -531,7 +533,7 @@ Institution
 
 </tr>
 
-<tr data-index="17" data-listing-file-modified-sort="1759948472494" data-listing-reading-time-sort="1" data-listing-word-count-sort="32" data-listing-title-sort="Stata Workshop 3:Data Wrangling" data-listing-filename-sort="ku_duncan_stata_spring_2025_3.qmd">
+<tr data-index="17" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="32" data-listing-title-sort="Stata Workshop 3:Data Wrangling" data-listing-filename-sort="ku_duncan_stata_spring_2025_3.qmd">
 <td>
 <a href="../module/module_workshop/ku_duncan_stata_spring_2025_3.html" class="title listing-title">Stata Workshop 3:Data Wrangling</a>
 </td>
@@ -547,7 +549,7 @@ Institution
 
 </tr>
 
-<tr data-index="18" data-listing-file-modified-sort="1755530000672" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Text Analysis Protocol" data-listing-filename-sort="kstate_shamir_textanalysis.qmd">
+<tr data-index="18" data-listing-file-modified-sort="1770373792191" data-listing-reading-time-sort="1" data-listing-word-count-sort="96" data-listing-title-sort="Text Analysis Protocol" data-listing-filename-sort="kstate_shamir_textanalysis.qmd">
 <td>
 <a href="../module/module_workshop/kstate_shamir_textanalysis.html" class="title listing-title">Text Analysis Protocol</a>
 </td>
@@ -611,13 +613,14 @@ Institution
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -963,13 +966,13 @@ Institution
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src="..\images/NSF.png" class="img-fluid" width="150" alt="NSF image"></a></p>
+<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src="../images/NSF.png" class="img-fluid" width="150" alt="NSF image"></a></p>
 </div>   
     <div class="nav-footer-center">
 <p>Except where otherwise noted content on this site is <br> licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC</a><br></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src="..\images/arise_logo.png" class="img-fluid" width="60"></a></p>
+<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src="../images/arise_logo.png" class="img-fluid" width="60"></a></p>
 </div>
   </div>
 </footer>
