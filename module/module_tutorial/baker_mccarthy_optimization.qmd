@@ -3,7 +3,8 @@ title: "An Optimization Case Study With Extensions for Analysis"
 source: "Tutorial Material"
 author: "Kevin McCarthy"
 institution: "Baker University"
-competency: "Optimization"
+competency: [Model Building, Optimization, Data Wrangling]
+tech-lang: [Excel]
 main-format: "PDF"
 toc: true
 toc-title: "On this page"
