@@ -57,4 +57,9 @@ format:
                     </div>
                 </div>
         </div>
+        <div class="how-works-container">
+                <h2>Suggestions for New Materials</h2>
+                <p>Use this form to make suggestions for desired teaching materials.</p>
+                <p><a href="https://kusurvey.ca1.qualtrics.com/jfe/form/SV_cON9VrXsJ3AIvm6">KDSC Repository Request Form</a></p>
+        </div>
 ```
