@@ -13,7 +13,7 @@ toc: false
         <h2 class="header-title"> {{< meta dataset-title >}}</h2>
         <div class="header-buttons">  
             <!-- Update the link for downloading the data -->
-            <a href="https://osf.io/download/68ff82438a2c3d9241497195/?direct" class="btn btn-download" download="Data for KDSC Repository.zip">
+            <a href="../../404.html" class="btn btn-download">
               <i class="bi bi-file-earmark-zip-fill icon"></i> Download Full Dataset (.zip)
             </a>
             
