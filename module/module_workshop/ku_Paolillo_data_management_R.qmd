@@ -1,0 +1,21 @@
+---
+title: "Data Management in R"
+source: "Workshop Material"
+author: "Stephen Paolillo"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Data Engineering]
+tech-lang: [R]
+main-format: [PDF, Code, Data]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop shows students how to clean and manage a data set in R. There are two R code files in this workshop. The first takes in a fake data set of corporate mergers and acquisitions, cleans the data, and matches the observations to latitude and longitude coordinates. The second takes that cleaned data and aggregates it to the county level and merges Census data onto it.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Paolillo_R_Data_Management)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)

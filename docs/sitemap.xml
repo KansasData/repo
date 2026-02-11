@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>https://datarepository.ku.edu/module/module_workshop/ku_duncan_federal_health.html</loc>
-    <lastmod>2026-02-06T10:29:52.191Z</lastmod>
+    <lastmod>2026-02-11T19:50:39.690Z</lastmod>
   </url>
   <url>
     <loc>https://datarepository.ku.edu/module/module_workshop/ku_duncan_federal_economic.html</loc>
@@ -246,6 +246,10 @@
   </url>
   <url>
     <loc>https://datarepository.ku.edu/module/module_workshop/ku_Jacobs_data_management_stata.html</loc>
-    <lastmod>2026-02-06T19:50:42.932Z</lastmod>
+    <lastmod>2026-02-11T19:51:10.481Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datarepository.ku.edu/module/module_workshop/ku_Paolillo_data_management_R.html</loc>
+    <lastmod>2026-02-11T19:56:08.661Z</lastmod>
   </url>
 </urlset>

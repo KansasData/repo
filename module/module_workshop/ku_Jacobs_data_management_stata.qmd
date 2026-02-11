@@ -19,4 +19,3 @@ This workshop walks students through the application of data management techniqu
 You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Jacobs_Stata_Data_Management)
 
 This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
-
