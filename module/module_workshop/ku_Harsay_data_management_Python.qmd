@@ -1,0 +1,22 @@
+---
+title: "Data Management in Python"
+source: "Workshop Material"
+author: "Edina Harsay"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Data Engineering]
+tech-lang: [Python]
+main-format: [Code, Data, PPT Slide]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop introduces students to using Python for data analysis. We give an overview of proper setup of Python in a local environment and also using Python in Google Colab. We introduce Polars (a new alternative to pandas) and work with the BRFSS survey data from the CDC.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Harsay_Python_CDC_BRFSS)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
