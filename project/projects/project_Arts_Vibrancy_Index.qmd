@@ -1,8 +1,5 @@
 ---
 title: "Arts Vibrancy Index"
----
----
-title: "Arts Vibrancy Index"
 project-title: "Arts Vibrancy Index"
 year: "2026"
 partner: "Lied Center"
@@ -73,7 +70,7 @@ datatype: "Tabular Data, Geospatial Data"
                     <a href="../classplan/class_Arts_Vibrancy.html" class="btn btn-secondary">
                        <i class="bi bi-book-half icon"></i> View the Class Plan
                     </a>
-                    <a href="Arts_Vibrancy_Index.pdf" class="btn btn-tertiary">
+                    <a href="PD_Arts_Vibrancy_Index.pdf" class="btn btn-tertiary">
                         <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
                     </a>
                 </div>
