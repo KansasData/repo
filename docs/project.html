@@ -243,8 +243,6 @@ window.Quarto = {
             <label for="filterDataType" class="form-label fw-bold">By Data Type</label>
             <select id="filterDataType" class="form-select">
                 <option value="all" selected="">All Data Types</option>
-                <option value="Geospatial Data">Geospatial Data</option>
-                <!-- Add other data types as needed -->
             </select>
         </div>
         <!-- Filter 2: Data Category -->
@@ -252,9 +250,6 @@ window.Quarto = {
             <label for="filterCategory" class="form-label fw-bold">By Data Category</label>
             <select id="filterCategory" class="form-select">
                 <option value="all" selected="">All Categories</option>
-                <option value="Social Science">Social Science</option>
-                <option value="Humanities">Humanities</option>
-                <!-- Add other categories as needed -->
             </select>
         </div>
         <!-- Filter 3: Keyword -->
@@ -272,7 +267,7 @@ window.Quarto = {
 
     
     
-    <li data-index="0" data-listing-file-modified-sort="1772458339452" data-listing-reading-time-sort="7" data-listing-word-count-sort="1264" class="item-card">
+    <li data-index="0" data-listing-file-modified-sort="1772458339452" data-listing-reading-time-sort="7" data-listing-word-count-sort="1264" class="item-card" data-datacategory="Social Science, Humanities" data-datatype="Tabular Data, Geospatial Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -302,7 +297,7 @@ window.Quarto = {
 
     
     
-    <li data-index="1" data-listing-file-modified-sort="1770373792218" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271" class="item-card">
+    <li data-index="1" data-listing-file-modified-sort="1770373792218" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271" class="item-card" data-datacategory="Social Science" data-datatype="Longitudinal Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -332,7 +327,7 @@ window.Quarto = {
 
     
     
-    <li data-index="2" data-listing-file-modified-sort="1770373792218" data-listing-reading-time-sort="8" data-listing-word-count-sort="1408" class="item-card">
+    <li data-index="2" data-listing-file-modified-sort="1770373792218" data-listing-reading-time-sort="8" data-listing-word-count-sort="1408" class="item-card" data-datacategory="Social Science" data-datatype="Tabular Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -362,7 +357,7 @@ window.Quarto = {
 
     
     
-    <li data-index="3" data-listing-file-modified-sort="1770373792218" data-listing-reading-time-sort="7" data-listing-word-count-sort="1339" class="item-card">
+    <li data-index="3" data-listing-file-modified-sort="1770373792218" data-listing-reading-time-sort="7" data-listing-word-count-sort="1339" class="item-card" data-datacategory="Social Science" data-datatype="Geospatial Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -392,7 +387,7 @@ window.Quarto = {
 
     
     
-    <li data-index="4" data-listing-file-modified-sort="1772456341019" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294" class="item-card">
+    <li data-index="4" data-listing-file-modified-sort="1772456341019" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294" class="item-card" data-datacategory="Social Science" data-datatype="Tabular Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -422,7 +417,7 @@ window.Quarto = {
 
     
     
-    <li data-index="5" data-listing-file-modified-sort="1772456352159" data-listing-reading-time-sort="7" data-listing-word-count-sort="1319" class="item-card">
+    <li data-index="5" data-listing-file-modified-sort="1772456352159" data-listing-reading-time-sort="7" data-listing-word-count-sort="1319" class="item-card" data-datacategory="Natural Science" data-datatype="Tabular Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -452,7 +447,7 @@ window.Quarto = {
 
     
     
-    <li data-index="6" data-listing-file-modified-sort="1772459688814" data-listing-reading-time-sort="7" data-listing-word-count-sort="1209" class="item-card">
+    <li data-index="6" data-listing-file-modified-sort="1772459688814" data-listing-reading-time-sort="7" data-listing-word-count-sort="1209" class="item-card" data-datacategory="Business / Finance" data-datatype="Tabular Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -482,7 +477,7 @@ window.Quarto = {
 
     
     
-    <li data-index="7" data-listing-file-modified-sort="1772461792263" data-listing-reading-time-sort="7" data-listing-word-count-sort="1267" class="item-card">
+    <li data-index="7" data-listing-file-modified-sort="1772461792263" data-listing-reading-time-sort="7" data-listing-word-count-sort="1267" class="item-card" data-datacategory="Social Science, Humanities" data-datatype="Tabular Data">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
@@ -524,11 +519,33 @@ function enableCustomFilters() {
     const categoryFilter = document.getElementById('filterCategory');
     const keywordFilter = document.getElementById('filterKeyword');
     const projectList = document.querySelector('#listing-project-list .item-list');
-    
+
     if (!projectList) return;
 
-    const projectCards = projectList.querySelectorAll('.item-card');
+    const projectCards = Array.from(projectList.querySelectorAll('.item-card'));
     const noResultsMessage = document.querySelector('.listing-no-matching');
+
+    function populateFilters() {
+        const dataTypes = new Set();
+        const categories = new Set();
+
+        projectCards.forEach(card => {
+            (card.dataset.datatype || '').split(',').forEach(t => t.trim() && dataTypes.add(t.trim()));
+            (card.dataset.datacategory || '').split(',').forEach(c => c.trim() && categories.add(c.trim()));
+        });
+
+        const addOptions = (selectElement, optionsSet) => {
+            Array.from(optionsSet).sort().forEach(option => {
+                const newOption = document.createElement('option');
+                newOption.value = option;
+                newOption.textContent = option;
+                selectElement.appendChild(newOption);
+            });
+        };
+
+        addOptions(dataTypeFilter, dataTypes);
+        addOptions(categoryFilter, categories);
+    }
 
     const runFilter = () => {
         const selectedDataType = dataTypeFilter.value;
@@ -537,36 +554,15 @@ function enableCustomFilters() {
         let visibleCount = 0;
 
         projectCards.forEach(card => {
-            // --- NEW, MORE ROBUST FILTERING LOGIC ---
-
-            // 1. Keyword search checks all text on the card
             const fullCardText = card.textContent.toLowerCase();
             const keywordMatch = keyword === '' || fullCardText.includes(keyword);
 
-            // 2. Specific filters check only their relevant lines
-            let dataTypeMatch = selectedDataType === 'all';
-            let categoryMatch = selectedCategory === 'all';
+            const cardDataTypes = (card.dataset.datatype || '').split(',').map(s => s.trim());
+            const cardCategories = (card.dataset.datacategory || '').split(',').map(s => s.trim());
 
-            const detailDivs = card.querySelectorAll('.item-details > div');
-            detailDivs.forEach(div => {
-                const divText = div.textContent.toLowerCase();
-                
-                // Check for Data Type match
-                if (divText.startsWith('data type:')) {
-                    if (selectedDataType !== 'all' && divText.includes(selectedDataType.toLowerCase())) {
-                        dataTypeMatch = true;
-                    }
-                }
-                
-                // Check for Data Category match (handles multiple, comma-separated values)
-                if (divText.startsWith('data category:')) {
-                    if (selectedCategory !== 'all' && divText.includes(selectedCategory.toLowerCase())) {
-                        categoryMatch = true;
-                    }
-                }
-            });
-            
-            // 3. Show card only if all conditions are met
+            const dataTypeMatch = selectedDataType === 'all' || cardDataTypes.includes(selectedDataType);
+            const categoryMatch = selectedCategory === 'all' || cardCategories.includes(selectedCategory);
+
             if (dataTypeMatch && categoryMatch && keywordMatch) {
                 card.style.display = 'block';
                 visibleCount++;
@@ -579,6 +575,9 @@ function enableCustomFilters() {
             noResultsMessage.style.display = visibleCount === 0 ? 'block' : 'none';
         }
     };
+
+    populateFilters();
+    runFilter();
 
     dataTypeFilter.addEventListener('change', runFilter);
     categoryFilter.addEventListener('change', runFilter);
