@@ -1,6 +1,6 @@
 ---
 class-title: "Investigating 'Child Care Deserts' in Kansas"
-class-subtitle: "A hands-on data analysis exercise for introductory data science course."
+class-subtitle: "A hands-on data analysis exercise for introductory data science course. NOTE: This page is under construction!"
 audience: "Undergraduate (Introductory)"
 time: "XX-minute class session"
 tools: "Python or R"
@@ -68,12 +68,11 @@ toc: false
 </div>
 ```
 
-:::{.card}
-:::{.lesson-guide-card}
-
+::::: card
+:::: lesson-guide-card
 ## Class Plan Guide {.main-title}
 
-### <i class="bi bi-bullseye icon"></i> Learning Objectives 
+### <i class="bi bi-bullseye icon"></i> Learning Objectives
 
 -   Objective 1
 -   Objective 2
@@ -87,22 +86,21 @@ Description of the introduction
 
 **Part 2: Guided Activity**
 
-Description of the main activity 
+Description of the main activity
 
 **Part 3: Discussion & Warp-up**
 
 Description of the conclusion
 
-### <i class="bi bi-pencil-square icon"></i> Assignment 
+### <i class="bi bi-pencil-square icon"></i> Assignment
 
-:::{.assignment-box}
-Your task is to... 
+::: assignment-box
+Your task is to...
 
-Your assignment must include: 
+Your assignment must include:
 
 -   Requirement 1
 -   Requirement 2
-
 :::
-:::
-:::
+::::
+:::::
