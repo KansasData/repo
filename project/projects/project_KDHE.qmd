@@ -70,7 +70,7 @@ datatype: "Tabular Data"
                     <a href="../classplan/class_KDHE.html" class="btn btn-secondary">
                        <i class="bi bi-book-half icon"></i> View the Class Plan
                     </a>
-                    <a href="CDL_Proposal_KDHE.pdf" class="btn btn-tertiary">
+                    <a href="PD_Water_Quality.pdf" class="btn btn-tertiary">
                         <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
                     </a>
                 </div>
