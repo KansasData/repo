@@ -1,7 +1,7 @@
 ---
 title: "AI In Action Webinar"
 source: "Lecture Material"
-author: "Bhavnish Walia"
+author: "Bhavnish Walia, Banani Mohapatra"
 institution: "University of Kansas"
 competency: [Model Building, Ethical Problem Solving]
 main-format: Lecture Recording
