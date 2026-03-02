@@ -18,4 +18,4 @@ The problem in this case study falls into a class of optimization problems known
 
 You can access the material [here](https://github.com/KansasData/Module/blob/main/Baker_McCarthy_set_covering/bank_location_set_covering_teaching_resource__AutoRecovered_.pdf)
 
-This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
