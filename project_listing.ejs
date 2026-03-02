@@ -17,7 +17,9 @@
 
     %>
     
-    <li <%= metadataAttrs(item) %> class="item-card">
+    <li <%= metadataAttrs(item) %> class="item-card"
+        data-datacategory="<%- item['datacategory'] %>"
+        data-datatype="<%- item['datatype'] %>">
       
       <!-- This new container will hold the title and buttons on the same line -->
       <div class="card-header">
