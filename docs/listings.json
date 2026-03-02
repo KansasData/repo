@@ -36,6 +36,7 @@
   {
     "listing": "/module/module_lecture.html",
     "items": [
+      "/module/module_lecture/ku_AI_in_Action_Webinar.html",
       "/module/module_lecture/ku_dataI_casuality_slide.html",
       "/module/module_lecture/ku_dataI_casuality_hw.html",
       "/module/module_lecture/wsu_yan_neuralnetwork_slide.html",
@@ -57,6 +58,7 @@
   {
     "listing": "/curriculum.html",
     "items": [
+      "/module/module_lecture/ku_AI_in_Action_Webinar.html",
       "/module/module_tutorial/baker_mccarthy_optimization.html",
       "/module/module_workshop/ku_duncan_business_analytics1.html",
       "/module/module_workshop/ku_duncan_business_analytics2.html",
@@ -113,6 +115,7 @@
   {
     "listing": "/module.html",
     "items": [
+      "/module/module_lecture/ku_AI_in_Action_Webinar.html",
       "/module/module_tutorial/baker_mccarthy_optimization.html",
       "/module/module_workshop/ku_duncan_business_analytics1.html",
       "/module/module_workshop/ku_duncan_business_analytics2.html",

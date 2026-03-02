@@ -1,0 +1,20 @@
+---
+title: "AI In Action Webinar"
+source: "Lecture Material"
+author: "Bhavnish Walia"
+institution: "University of Kansas"
+competency: [Model Building, Ethical Problem Solving]
+main-format: Lecture Recording
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This two-part seminar explores real-world applications of AI across consumer-facing platforms, highlighting how intelligent models move beyond automation to deliver meaningful, responsible outcomes. The first part focuses on AI and Machine Learning in Anti–Money Laundering (AML), demonstrating how AI supports compliance, fraud prevention, and document automation in large-scale digital marketplaces. The session introduces how techniques such as document understanding, decision reasoning, and human-in-the-loop AI help organizations make accurate, transparent, and auditable decisions. The second part shifts to AI-powered search and personalization, showing how modern systems interpret user intent rather than just keywords. Students will learn how AI enables smarter discovery, personalized recommendations, and adaptive digital experiences using everyday examples from search and e-commerce. Together, the seminar provides a holistic view of how AI is applied across industries from enhancing user experience to ensuring trust, safety, and regulatory compliance offering students an intuitive understanding of AI’s growing impact in the real world.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_AI_in_Action_Webinar_Feb2026)
+
+This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
