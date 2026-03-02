@@ -54,6 +54,7 @@
       "/project/datasets/data_KDHE.html",
       "/project/datasets/data_NLA.html",
       "/project/datasets/data_TradeNTMS.html",
+      "/project/datasets/data_Urban_Food_prod.html",
       "/project/datasets/data_WDC.html"
     ]
   },
@@ -161,7 +162,8 @@
       "/project/projects/project_KAC.html",
       "/project/projects/project_KBOR.html",
       "/project/projects/project_KDHE.html",
-      "/project/projects/project_Trade_NTMs.html"
+      "/project/projects/project_Trade_NTMs.html",
+      "/project/projects/project_Urban_Food_Prod.html"
     ]
   }
 ]
