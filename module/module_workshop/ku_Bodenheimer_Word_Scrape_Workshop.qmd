@@ -1,0 +1,22 @@
+---
+title: "Word Document Scraping Workshop"
+source: "Workshop Material"
+author: "Joseph Bodenheimer"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Data Engineering]
+tech-lang: [Python]
+main-format: [Code]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop walks through building a complete Python workflow to scrape public data from Kansas Department of Health and Environment (KDHE) Consumer Confidence Reports (CCR) .docx files. The workshop covers how Word documents are organized and how to use python-docx, regular expressions, and pandas to extract key fields and combine results across many reports.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Bodenheimer_word_scrape_workshop)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
