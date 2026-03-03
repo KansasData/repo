@@ -9,7 +9,7 @@
       
       const fileName = parts[parts.length -1];
       
-      const projectName = fileName.replace('.qmd', '').split('_')[1];
+      const projectName = fileName.replace('.qmd', '').substring('project_'.length);
       
       // Construct the new, correct paths with a leading "/" to make them root-relative.
       const datasetPath = `/project/datasets/data_${projectName}.html`;
