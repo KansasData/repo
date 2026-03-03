@@ -270,7 +270,7 @@
   </url>
   <url>
     <loc>https://datarepository.ku.edu/project/projects/project_Trade_NTMs.html</loc>
-    <lastmod>2026-03-02T13:54:48.814Z</lastmod>
+    <lastmod>2026-03-03T07:44:04.024Z</lastmod>
   </url>
   <url>
     <loc>https://datarepository.ku.edu/project/data_TradeNTMS.html</loc>
@@ -287,5 +287,13 @@
   <url>
     <loc>https://datarepository.ku.edu/project/datasets/data_Urban_Food_prod.html</loc>
     <lastmod>2026-03-02T14:36:23.431Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datarepository.ku.edu/project/datasets/data_Trade_NTMs.html</loc>
+    <lastmod>2026-03-03T07:45:16.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datarepository.ku.edu/project/datasets/data_Urban_Food_Prod.html</loc>
+    <lastmod>2026-03-03T07:47:10.493Z</lastmod>
   </url>
 </urlset>
