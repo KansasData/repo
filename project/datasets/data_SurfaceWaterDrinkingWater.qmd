@@ -1,5 +1,6 @@
 ---
-dataset-title: "Surface Water Drinking Water"
+dataset-title:
+  - "Surface Water Drinking Water"
 toc: false
 ---
 
@@ -23,7 +24,7 @@ toc: false
             </a>
             
             <!-- Update the reference link to the class project -->
-            <a href="../classplan/class_UrbanFood.html" class="btn btn-classplan">
+            <a href="../classplan/class_SurfaceWaterDrinkingWater.html" class="btn btn-classplan">
                 <i class="bi bi-book-half icon"></i> View the Class Plan
             </a> 
             
@@ -35,4 +36,3 @@ toc: false
 ::: content-card
 ## About the Data
 :::
-
