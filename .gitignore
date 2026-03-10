@@ -3,3 +3,4 @@
 .Rhistory
 _freeze/
 **/*.quarto_ipynb
+memory/

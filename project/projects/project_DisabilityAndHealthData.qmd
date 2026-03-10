@@ -1,13 +1,14 @@
 ---
-title: "Surface Water Drinking Water"
+title: "Disability and Health Data Systems"
 project-title:
-  - "Surface Water Drinking Water"
+  - "Disability and Health Data Systems"
 year: "2026"
-partner: "ARISE"
+partner: 
+  - "Industry Advisory Board"
 datacategory:
-  - "Physical(Natural) Sciences / Engineering"
+  - "Medical / Health Sciences"
 keyword:
-  - "Water, Sustainability, Infrastructure"
+  - "CDC, Disability Data, Model Building"
 datatype:
   - "Tabular Data"
 ---
@@ -22,7 +23,7 @@ datatype:
         <p class="tagline">Project Description</p>
         <h2>{{< meta project-title >}}</h2>
         <p class="subtitle">
-            A partnership with <a href="https://nsfepscor.ku.edu/track-1-arise">{{< meta partner >}}</a> to understand and address a key community challenge.
+            A partnership with <a href="https://data.ku.edu/industry-advisory-board">{{< meta partner >}}</a> to understand and address a key community challenge.
         </p>
     </header>
 
@@ -66,13 +67,13 @@ datatype:
             <div class="card">
                 <h3 class="card-title">Project Resources</h3>
                 <div class="resource-buttons">
-                    <a href="../datasets/data_SurfaceWaterDrinkingWater.html" class="btn btn-primary">
+                    <a href="../datasets/data_DisabilityHealthData.html" class="btn btn-primary">
                         <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
                     </a>
-                    <a href="../classplan/class_SurfaceWaterDrinkingWater.html" class="btn btn-secondary">
+                    <a href="../classplan/class_DisabilityHealthData.html" class="btn btn-secondary">
                        <i class="bi bi-book-half icon"></i> View the Class Plan
                     </a>
-                    <a href="PD_SurfaceWaterDrinkingWater.pdf" class="btn btn-tertiary">
+                    <a href="PD_DisabilityHealthData.pdf" class="btn btn-tertiary">
                         <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
                     </a>
                 </div>
@@ -86,7 +87,7 @@ datatype:
 ## <i class="bi bi-question-circle-fill icon"></i> The Challenge
 
 ::: conetent-text
-This project utilizes data from the EPA Water Quality Portal and the KDHE's Consumer Confidence Reports. These include data from all municipal water systems in the state of Kansas and has been previously processed by KDSC.
+This project utilizes data from the CDC Disability and Health dataset in search of indicators that are most linked to unmet health needs. The data can be downloaded directly from the CDC website by year, indicator, and location. After the initial analysis, the next step is to build a model to forecast which regions experience the most vulnerabilities.
 :::
 
 :::: content-section
