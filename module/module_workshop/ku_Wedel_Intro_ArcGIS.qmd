@@ -5,7 +5,7 @@ author: "Xan Wedel"
 institution: "University of Kansas"
 competency: [Data Wrangling, Programming Skills]
 tech-lang: [ArcGIS]
-main-format: [Code, Data, PPT Slide]
+main-format: [Code, Data, PDF, PPT Slide]
 toc: true
 toc-title: "On this page"
 ---
@@ -19,4 +19,3 @@ This workshop provides an overview of how to use ArcGIS software and a few appli
 You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Wedel_Intro_ArcGIS)
 
 This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
-
