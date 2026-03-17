@@ -1,0 +1,22 @@
+---
+title: "Introduction to ArcGIS"
+source: "Workshop Material"
+author: "Xan Wedel"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills]
+tech-lang: [ArcGIS]
+main-format: [Code, Data, PPT Slide]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop provides an overview of how to use ArcGIS software and a few applied practical applications. The examples include data from the U.S. Census Bureau's American Community Survey (ACS) data and a free public version of ArcGIS online.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Wedel_Intro_ArcGIS)
+
+This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
+
