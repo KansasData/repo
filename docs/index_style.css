@@ -106,8 +106,8 @@ body {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     
     /* Flexbox item properties */
-    flex: 1 1 400px; /* Allows items to grow, shrink, with a base width */
-    max-width: 500px; /* Optional: prevents cards from getting too wide */
+    flex: 1 1 270px; /* Allows items to grow, shrink, with a base width */
+    max-width: 380px; /* Optional: prevents cards from getting too wide */
     display: flex; /* Make the card a flex container too */
     flex-direction: column; /* Stack content vertically */
 }
