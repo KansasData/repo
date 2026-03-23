@@ -1,5 +1,5 @@
 ---
-title: "Fraud Detection"
+title: "Fraud Detection for Financial Risk Management"
 project-title: "Fraud Detection for Financial Risk Management"
 year: "2026"
 partner: "Industry Advisory Board"
