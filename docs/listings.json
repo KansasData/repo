@@ -160,6 +160,7 @@
   {
     "listing": "/project.html",
     "items": [
+      "/project/projects/project_AI_Tableau.html",
       "/project/projects/project_Arts_Vibrancy_Index.html",
       "/project/projects/project_DisabilityAndHealthData.html",
       "/project/projects/project_Fraud_Detection.html",
