@@ -9,13 +9,15 @@ format:
 ```{=html}
       <div class="main-container">
             <h2>A Hub for Collaborative <br> Data Science Education</h2>
-            <p>Explore open-source projects and modular curriculum <br> 
-                developed by the Kansas Data Science Consortium <br> 
-                Designed to be adapted for any classroom.</p>
-            
-            <button class = "explore-button"><a href="./project.qmd" style="text-decoration:none; color:white">Explore Projects</a></button>
-            
+            <p>Explore open-source projects, modular curriculum, and <a href="https://nsfepscor.ku.edu/track-1-arise" target="_blank">ARISE</a> data. <br>
+                Designed to be adapted for classroom or research. <br>
+                Maintained by the Kansas Data Science Consortium.</p>
+
+            <button class = "explore-button"><a href="./project.qmd" style="text-decoration:none; color:white">Explore CDL Projects</a></button>
+
             <button class = "explore-button"><a href ="./curriculum.qmd" style="text-decoration:none; color:#0051ba">Browse Curriculum</a></button>
+
+            <button class = "explore-button"><a href="./404.qmd" style="text-decoration:none; color:white">Explore ARISE Data</a></button>
         </div>
 
         <div class="cards-wrapper">
@@ -29,6 +31,12 @@ format:
                 <h2>Curriculum</h2>
                 <p>Our curriculum repository contains content from introductory classes to advanced machine learning. This includes lecture materials, analysis code, exercises, and datasets.</p>
                 <a href = "./curriculum.qmd">Browse Modules &#8594;</a>
+            </div>
+
+            <div class ="arise-container">
+                <h2>ARISE Data</h2>
+                <p>The ARISE Data section provides access to datasets and resources used or developed by our <a href="https://nsfepscor.ku.edu/track-1-arise" target="_blank">ARISE</a> program. Explore data collections designed to support research and education.</p>
+                <a href = "./404.qmd">Explore Data &#8594;</a>
             </div>
         </div> <!-- End of wrapper div -->
 

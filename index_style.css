@@ -62,14 +62,24 @@ body {
 }
 
 /* Second button (Browse Curriculum) styling */
-.main-container .explore-button:last-of-type {
+.main-container .explore-button:nth-of-type(2) {
     background-color: white;
     color: #0051ba;
     border-color: #0051ba;
 }
 
-.main-container .explore-button:last-of-type:hover {
+.main-container .explore-button:nth-of-type(2):hover {
     background-color: #f0f5ff;
+}
+
+/* Third button (Explore ARISE Data) styling */
+.main-container .explore-button:nth-of-type(3) {
+    background-color: #0051ba; /* KU Blue */
+    color: white;
+}
+
+.main-container .explore-button:nth-of-type(3):hover {
+    background-color: #00439a;
 }
 
 
@@ -85,9 +95,10 @@ body {
     margin: 0 auto; /* Center the wrapper itself in the page */
 }
 
-/* Projects and Curriculum Cards Section */
+/* Projects, Curriculum, and ARISE Data Cards Section */
 .project-container,
-.curriculum-container {
+.curriculum-container,
+.arise-container {
     background-color: white;
     border-radius: 0.75rem; /* rounded-xl */
     padding: 2rem; /* p-8 */
@@ -103,13 +114,15 @@ body {
 
 
 .project-container:hover,
-.curriculum-container:hover {
+.curriculum-container:hover,
+.arise-container:hover {
     transform: translateY(-6px);
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
 .project-container h2,
-.curriculum-container h2 {
+.curriculum-container h2,
+.arise-container h2 {
     font-size: 1.5rem; /* text-2xl */
     font-weight: 700; /* font-bold */
     color: #1a202c; /* text-gray-900 */
@@ -117,7 +130,8 @@ body {
 }
 
 .project-container p,
-.curriculum-container p {
+.curriculum-container p,
+.arise-container p {
     color: #4a5568; /* text-gray-600 */
     line-height: 1.6;
     margin-bottom: 1.5rem;
@@ -125,7 +139,8 @@ body {
 }
 
 .project-container a,
-.curriculum-container a {
+.curriculum-container a,
+.arise-container a {
     font-weight: 600; /* font-semibold */
     color: #2563eb; /* text-blue-600 */
     text-decoration: none;
@@ -133,7 +148,8 @@ body {
 }
 
 .project-container a:hover,
-.curriculum-container a:hover {
+.curriculum-container a:hover,
+.arise-container a:hover {
     color: #1d4ed8; /* hover:text-blue-800 */
 }
 
