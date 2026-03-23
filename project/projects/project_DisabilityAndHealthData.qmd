@@ -1,16 +1,13 @@
 ---
 title: "Disability and Health Data Systems"
-project-title:
-  - "Disability and Health Data Systems"
+project-title: "Disability and Health Data Systems"
 year: "2026"
-partner: 
-  - "Industry Advisory Board"
+partner: "Industry Advisory Board"
 datacategory:
   - "Medical / Health Sciences"
 keyword:
   - "CDC, Disability Data, Model Building"
-datatype:
-  - "Tabular Data"
+datatype: "Tabular Data"
 ---
 
 ```{=html}

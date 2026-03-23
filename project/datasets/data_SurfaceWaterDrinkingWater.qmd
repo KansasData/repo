@@ -1,6 +1,5 @@
 ---
-dataset-title:
-  - "Surface Water Drinking Water"
+dataset-title: "Surface Water Drinking Water"
 toc: false
 ---
 
