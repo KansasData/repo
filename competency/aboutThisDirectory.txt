@@ -1,0 +1,13 @@
+These are separate, more detailed competency pages from the old site structure.
+They even link back to ../module.qmd (the old module listing). They are not the 
+flip cards you see on the Curriculum page.
+
+The flip cards we now have on the site are hardcoded HTML directly inside curriculum.qmd
+(no external files involved). The competency/*.qmd files were part of the old design where:
+
+competency.qmd listed all competency cards (pulling from competency/*.qmd)
+Each card linked to a detail page like comp_data_eng.qmd
+Those detail pages linked onward to module.qmd
+That whole chain (competency.qmd → competency/*.qmd → module.qmd) was replaced by the single 
+integrated curriculum.qmd page that has the flip cards + module listings all in one place.
+

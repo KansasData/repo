@@ -2,6 +2,9 @@
 pagetitle: "KDSC | ARISE Data Log"
 toc: false
 css: datalog_style.css
+# Work in progress - not linked from nav, excluded from render via .quartoignore
+# Contact placeholder (xxx) and hardcoded Windows path need fixing before publishing
+pagetitle: "KDSC | ARISE Data Log"
 ---
 
 ## What's in this page? {.main-header}

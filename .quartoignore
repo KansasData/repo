@@ -1,3 +1,16 @@
-memory
-memory/
-memory/**
+# Files excluded from rendering - kept for potential future use
+
+# Work in progress - hardcoded Windows path, placeholder contact (xxx), no nav link
+datalog.qmd
+
+# Prior-version listing pages superseded by curriculum.qmd redesign
+module.qmd
+competency.qmd
+competency/
+
+# Dataset listing page - no nav link (datasets accessed via project pages)
+dataset.qmd
+
+# Course content - not part of the current site
+course.qmd
+course/
