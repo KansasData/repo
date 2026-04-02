@@ -150,7 +150,7 @@
   </url>
   <url>
     <loc>https://datarepository.ku.edu/datalog.html</loc>
-    <lastmod>2025-11-10T15:45:32.443Z</lastmod>
+    <lastmod>2026-04-02T01:15:49.343Z</lastmod>
   </url>
   <url>
     <loc>https://datarepository.ku.edu/index.html</loc>
@@ -331,5 +331,9 @@
   <url>
     <loc>https://datarepository.ku.edu/project/projects/project_AI_Tableau.html</loc>
     <lastmod>2026-03-23T08:05:09.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://datarepository.ku.edu/module/module_workshop/ku_Girard_R_Bootcamp.html</loc>
+    <lastmod>2026-04-02T00:41:32.081Z</lastmod>
   </url>
 </urlset>

@@ -1,10 +1,12 @@
 ---
+# Work in progress - not linked from nav, excluded from render via .quartoignore
+# Contact placeholder (xxx) and hardcoded Windows path need fixing before publishing
+# Added exexute: eval: false here because the file caused render preview issues.
 pagetitle: "KDSC | ARISE Data Log"
 toc: false
 css: datalog_style.css
-# Work in progress - not linked from nav, excluded from render via .quartoignore
-# Contact placeholder (xxx) and hardcoded Windows path need fixing before publishing
-pagetitle: "KDSC | ARISE Data Log"
+execute:
+  eval: false
 ---
 
 ## What's in this page? {.main-header}
@@ -25,6 +27,7 @@ kdsc_data <- read_excel("C:/Users/d497j944/Downloads/KDSC Data Log.xlsx") |>
 ```
 
 ## Data Log {.main-header}
+
 ```{r}
 #| echo: false
 
