@@ -1,0 +1,23 @@
+---
+title: "KDSC R Workshop: Data Visualization"
+source: "Workshop Material"
+author: "Whitney Onasch"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Data Visualization]
+tech-lang: [R]
+main-format: [PDF, Code, Data]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the second session in the 2025 R workshop series, covering data visualizations in R.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Onasch_R_Data_Visualizations_April_2025/Data%20Visualizations%20-%20Whitney%20(April%2015))
+
+This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
+
+
