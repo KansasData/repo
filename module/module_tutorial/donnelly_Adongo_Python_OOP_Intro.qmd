@@ -1,0 +1,22 @@
+---
+title: "Python Programming Principles"
+source: "Tutorial Material"
+author: "Nicholas Adongo"
+institution: "Donnelly College"
+competency: [Programming Skills]
+tech-lang: [Python]
+main-format: "Jupyter Notebook, Data, PDF"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+The basic benefits and concepts of object-oriented programming like classes, objects, and attributes, are discussed. Practical examples and exercises are provided, including adding functionalities to Table class from the `datascience` package. The main idea is to provide students with a tool that they can use to better organize code snippets they write, accumulate, and repeatedly use.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/Donnelly_Adongo_Python_OOP)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+

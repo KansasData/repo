@@ -34,7 +34,8 @@
     "listing": "/module/module_tutorial.html",
     "items": [
       "/module/module_tutorial/baker_mccarthy_optimization.html",
-      "/module/module_tutorial/tutorial_intro_colab.html"
+      "/module/module_tutorial/tutorial_intro_colab.html",
+      "/module/module_tutorial/donnelly_Adongo_Python_OOP_Intro.html"
     ]
   },
   {
@@ -94,6 +95,7 @@
       "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
       "/module/module_lecture/ku_branicky_interpretable_model_lecture.html",
       "/module/module_lecture/wsu_mornroy_networkintrusion.html",
+      "/module/module_tutorial/donnelly_Adongo_Python_OOP_Intro.html",
       "/module/module_workshop/ku_Girard_R_Bootcamp.html",
       "/module/module_workshop/ku_duncan_stata_spring_2025.html",
       "/module/module_workshop/ku_duncan_stata_spring_2025_2.html",
@@ -155,6 +157,7 @@
       "/module/module_lecture/johnsoncounty_smith_linearregression_lecture.html",
       "/module/module_lecture/ku_branicky_interpretable_model_lecture.html",
       "/module/module_lecture/wsu_mornroy_networkintrusion.html",
+      "/module/module_tutorial/donnelly_Adongo_Python_OOP_Intro.html",
       "/module/module_workshop/ku_Girard_R_Bootcamp.html",
       "/module/module_workshop/ku_duncan_stata_spring_2025.html",
       "/module/module_workshop/ku_duncan_stata_spring_2025_2.html",
