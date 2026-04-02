@@ -1,0 +1,22 @@
+---
+title: "KDSC Tableau Workshop Spring 2026"
+source: "Workshop Material"
+author: "Daria Milakhina"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills]
+tech-lang: [Tableau]
+main-format: [MSWord, Data, PPT Slide]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop utilizes Tableau Public or Tableau Free Desktop edition to introduce students to the basics of developing data visualizations. Beginning with data viz best practices, this workshop provides an introduction to effectively telling stories with data as well as introduces real datasets to provide hands-on practice.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Milakhina_KDSC_Tableau_Workshop_SP2026)
+
+This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
+
