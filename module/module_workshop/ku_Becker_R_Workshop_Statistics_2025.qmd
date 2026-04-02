@@ -1,0 +1,22 @@
+---
+title: "KDSC R Workshop: Statistical Analysis"
+source: "Workshop Material"
+author: "Thomas Becker"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Statistical Foundations]
+tech-lang: [R]
+main-format: [PDF, Code, Data]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This is the third session in the 2025 R workshop series, covering the basics of statistical analysis in R.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Thomas_R_Statistical_Analysis_April_2025/Statistical%20Analysis%20-%20Thomas%20(April%2022))
+
+This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
+
