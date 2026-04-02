@@ -1,0 +1,22 @@
+---
+title: "Introduction to RStudio"
+source: "Tutorial Material"
+author: "Stephanie Brockmann"
+institution: "Baker University"
+competency: [Programming Skills, Data Wrangling]
+tech-lang: [R]
+main-format: "PPT Slide, Data, Code, MSWord"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Learning RStudio - A Basic Introduction to Operations and Use. 
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/Baker_Brockman_RStudio_Intro)
+
+This Material is under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
