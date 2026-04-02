@@ -1,0 +1,21 @@
+---
+title: "Tableau Workshop 2023"
+source: "Workshop Material"
+author: "Kevin McCarthy, Martha Davis"
+institution: "Baker University"
+competency: [Data Visualization, Dashboard]
+tech-lang: [Tableau]
+main-format: [MSWord, Data, PPT Slide]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Introductory workshop demonstrating how to build visualizations using Tableau. Slide deck, teaching notes, and the data set are provided.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/Baker_McCarthy_Davis_Tableau_Demo_workshop)
+
+This Material is under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
