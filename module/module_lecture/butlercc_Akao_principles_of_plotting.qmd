@@ -1,0 +1,21 @@
+---
+title: "Principles of Graphical Integrity"
+source: "Lecture Material"
+author: "Janice Akao"
+institution: "Butler Community College"
+competency: [Data Visualization]
+main-format: [MSWord, Recording]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Six general principles of graphical integrity 
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/butlercc_akao_general_principles_plots)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
