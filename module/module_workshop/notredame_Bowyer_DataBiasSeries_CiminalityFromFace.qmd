@@ -1,0 +1,23 @@
+---
+title: "Data Bias and Fairness Series: The Criminality-From-Face Illusion"
+source: "Workshop Material"
+author: "Kevin Bowyer"
+institution: "University of Notre Dame"
+competency: [Ethical Problem Solving, Data Bias and Fairness]
+main-format: [Recording]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Dr. Kevin Bowyer's presentation on the "Criminality from Face Illusion" for the Data Bias and Fairness Zoom Speaker series. This lecture analyzes how published results on this "criminality from face" problem can give the illusion that it can be done. This discusses that any positive results on criminality from face can only be an illusion, and that belief in this illusion is dangerous. 
+
+## Module Materials
+
+```{=html}
+<a href="https://kansas.sharepoint.com/:v:/t/KDSC/ERq9nbjUZCBLu0WkirFM-TQBWWrscQjzGPV6Gre69SWJPA?e=icApkk" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#0462A1; color:white; text-decoration:none; border-radius:5px; font-weight:bold;">Watch the recording here</a>
+```
+
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
