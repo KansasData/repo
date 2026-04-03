@@ -1,0 +1,22 @@
+---
+title: "Evaluating Machine Learning Models"
+source: "Tutorial Material"
+author: "Suzanne Smith"
+institution: "Johnson County Community College"
+competency: [Machine Learning, Programming Skills, Data Analysis]
+tech-lang: [Python]
+main-format: "PPT Slide, Data, PDF, Recording"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This video, PowerPoint presentation, and PDF show how we can evaluate our supervised models by partitioning the data into training and test sets. We use the training set to train our model and then use the test set to evaluate the accuracy of our model. (Python with Scikit-Learn and KNIME Analytics Platform, all Open Source.)
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/johnsoncounty_Smith_EvaluatingSupervisedModels)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+

@@ -3,7 +3,7 @@ title: "KDSC R Workshop: Statistical Analysis"
 source: "Workshop Material"
 author: "Thomas Becker"
 institution: "University of Kansas"
-competency: [Data Wrangling, Programming Skills, Statistical Foundations]
+competency: [Data Wrangling, Programming Skills, Statistical Foundation]
 tech-lang: [R]
 main-format: [PDF, Code, Data]
 toc: true
