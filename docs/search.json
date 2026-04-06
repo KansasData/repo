@@ -1565,21 +1565,21 @@
     "href": "ARISE/arise.html",
     "title": "KDSC",
     "section": "",
-    "text": "Browse datasets and data resources developed or used by the ARISE program. Use the filters below to find datasets by category, institution, or keyword.\n\n    \n        \n            By Data Category\n            \n                All Categories\n            \n        \n        \n            By Institution\n            \n                All Institutions\n            \n        \n        \n            By Keyword\n            \n        \n    \n\n\n\n\n  \n    \n\n      \n        \n      \n\n      \n        Institution: University of Kansas\n        Data Category: Environmental\n        Data Type: Tabular\n        Keywords: environment, water quality, Kansas\n      \n\n    \n  \n\nNo matching items\n\n\n    No datasets match the selected filters. Please try a different combination."
+    "text": "Browse datasets and data resources developed or used by the ARISE program. Use the filters below to find datasets by category, institution, or keyword.\n\n    \n        \n            By Data Category\n            \n                All Categories\n            \n        \n        \n            By Institution\n            \n                All Institutions\n            \n        \n        \n            By Keyword\n            \n        \n    \n\n\n\n\n  \n    \n\n      \n        \n      \n\n      \n        Institution: University of Kansas\n        Data Category: Social Sciences / Humanities\n        Data Type: Structured & Tabular\n        Keywords: sustainability, infrastructure, Kansas\n      \n\n    \n  \n\nNo matching items\n\n\n    No datasets match the selected filters. Please try a different combination."
   },
   {
     "objectID": "ARISE/arise.html#arise-data-repository",
     "href": "ARISE/arise.html#arise-data-repository",
     "title": "KDSC",
     "section": "",
-    "text": "Browse datasets and data resources developed or used by the ARISE program. Use the filters below to find datasets by category, institution, or keyword.\n\n    \n        \n            By Data Category\n            \n                All Categories\n            \n        \n        \n            By Institution\n            \n                All Institutions\n            \n        \n        \n            By Keyword\n            \n        \n    \n\n\n\n\n  \n    \n\n      \n        \n      \n\n      \n        Institution: University of Kansas\n        Data Category: Environmental\n        Data Type: Tabular\n        Keywords: environment, water quality, Kansas\n      \n\n    \n  \n\nNo matching items\n\n\n    No datasets match the selected filters. Please try a different combination."
+    "text": "Browse datasets and data resources developed or used by the ARISE program. Use the filters below to find datasets by category, institution, or keyword.\n\n    \n        \n            By Data Category\n            \n                All Categories\n            \n        \n        \n            By Institution\n            \n                All Institutions\n            \n        \n        \n            By Keyword\n            \n        \n    \n\n\n\n\n  \n    \n\n      \n        \n      \n\n      \n        Institution: University of Kansas\n        Data Category: Social Sciences / Humanities\n        Data Type: Structured & Tabular\n        Keywords: sustainability, infrastructure, Kansas\n      \n\n    \n  \n\nNo matching items\n\n\n    No datasets match the selected filters. Please try a different combination."
   },
   {
     "objectID": "ARISE/datasets/ku_example_arise_dataset.html",
     "href": "ARISE/datasets/ku_example_arise_dataset.html",
-    "title": "Example ARISE Dataset",
+    "title": "Example ARISE Dataset Title",
     "section": "",
-    "text": "This is a placeholder dataset page. Replace this text with the actual dataset description when submitting a real ARISE dataset."
+    "text": "This is a placeholder dataset page. We will replace this text with the actual dataset description for a real ARISE dataset. Example: This project utilizes a variety of data sources to assess the child care climate in Kansas. The compiled dataset provides a comprehensive landscape of child care in Kansas from 2017 to 2024. It includes two primary files: one detailing the annual trends in facility types and total capacity statewide, and another providing a county-level breakdown of different care facilities for 2024. The data has been cleaned and refined from original PDF reports to be analysis-ready."
   },
   {
     "objectID": "ARISE/datasets/ku_example_arise_dataset.html#description",
@@ -1591,9 +1591,9 @@
   {
     "objectID": "ARISE/datasets/ku_example_arise_dataset.html#about-the-data",
     "href": "ARISE/datasets/ku_example_arise_dataset.html#about-the-data",
-    "title": "Example ARISE Dataset",
+    "title": "Example ARISE Dataset Title",
     "section": "",
-    "text": "This is a placeholder dataset page. Replace this text with the actual dataset description when submitting a real ARISE dataset."
+    "text": "This is a placeholder dataset page. We will replace this text with the actual dataset description for a real ARISE dataset. Example: This project utilizes a variety of data sources to assess the child care climate in Kansas. The compiled dataset provides a comprehensive landscape of child care in Kansas from 2017 to 2024. It includes two primary files: one detailing the annual trends in facility types and total capacity statewide, and another providing a county-level breakdown of different care facilities for 2024. The data has been cleaned and refined from original PDF reports to be analysis-ready."
   },
   {
     "objectID": "ARISE/datasets/ku_example_arise_dataset.html#authors-or-sources",
@@ -1605,15 +1605,29 @@
   {
     "objectID": "ARISE/datasets/ku_example_arise_dataset.html#availability",
     "href": "ARISE/datasets/ku_example_arise_dataset.html#availability",
-    "title": "Example ARISE Dataset",
+    "title": "Example ARISE Dataset Title",
     "section": "Availability",
-    "text": "Availability\nThis data is public. (For some projects: “Please contact for access.”)"
+    "text": "Availability\nThis data is public. (For some projects: “Please contact for access.”)\n\n  \n     Codebook\n  \n  \n     Data Preview\n  \n  \n     Access Dataset"
   },
   {
     "objectID": "ARISE/datasets/ku_example_arise_dataset.html#contact",
     "href": "ARISE/datasets/ku_example_arise_dataset.html#contact",
-    "title": "Example ARISE Dataset",
+    "title": "Example ARISE Dataset Title",
     "section": "Contact",
-    "text": "Contact\nThis material is under the CC BY license"
+    "text": "Contact\nDaiil Jun, email@ku.edu"
+  },
+  {
+    "objectID": "ARISE/datasets/ku_example_arise_dataset.html#authors-and-sources",
+    "href": "ARISE/datasets/ku_example_arise_dataset.html#authors-and-sources",
+    "title": "Example ARISE Dataset Title",
+    "section": "Authors and Sources",
+    "text": "Authors and Sources\nList researchers who created or assembled the data set, as well as the original sources if applicable. Example: Key data sources include Kansas child care licensing information from the KIDS COUNT Data Center and accessibility data from Child Care Aware of Kansas. (Provide links if available.)"
+  },
+  {
+    "objectID": "ARISE/datasets/ku_example_arise_dataset.html#section",
+    "href": "ARISE/datasets/ku_example_arise_dataset.html#section",
+    "title": "Example ARISE Dataset Title",
+    "section": "",
+    "text": "This material is under the CC BY license"
   }
 ]

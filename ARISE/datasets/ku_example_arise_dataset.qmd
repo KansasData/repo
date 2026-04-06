@@ -1,28 +1,45 @@
 ---
-title: "Example ARISE Dataset"
+title: "Example ARISE Dataset Title"
 institution: "University of Kansas"
-data-category: "Environmental"
-data-type: "Tabular"
-keywords: "environment, water quality, Kansas"
+data-category: "Social Sciences / Humanities"
+data-type: "Structured & Tabular"
+keywords: "sustainability, infrastructure, Kansas"
 toc: true
 toc-title: "On this page"
 ---
 
 ## About the Data
 
-This is a placeholder dataset page. Replace this text with the actual dataset description when submitting a real ARISE dataset.
+This is a placeholder dataset page. We will replace this text with the actual dataset description for a real ARISE dataset. Example: This project utilizes a variety of data sources to assess the child care climate in Kansas. The compiled dataset provides a comprehensive landscape of child care in Kansas from 2017 to 2024. It includes two primary files: one detailing the annual trends in facility types and total capacity statewide, and another providing a county-level breakdown of different care facilities for 2024. The data has been cleaned and refined from original PDF reports to be analysis-ready.
 
-## Authors or Sources
+## Authors and Sources
 
-
+List researchers who created or assembled the data set, as well as the original sources if applicable. 
+Example: Key data sources include Kansas child care licensing information from the KIDS COUNT Data Center and accessibility data from Child Care Aware of Kansas. (Provide links if available.)
 
 ## Availability
 
 This data is public. (For some projects: "Please contact for access.")
 
+```{=html}
+<div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 0.5rem;">
+  <a href="/project/datasets/data_KAC.html#data-dictionary" class="btn btn-primary">
+    <i class="bi bi-journal-text"></i> Codebook
+  </a>
+  <a href="/project/datasets/data_KAC.html#data-preview" class="btn btn-primary">
+    <i class="bi bi-table"></i> Data Preview
+  </a>
+  <a href="https://osf.io/69mdn/overview?view_only=c156644ef21c4639a82c88534d43aabb" class="btn btn-primary" target="_blank">
+    <i class="bi bi-box-arrow-up-right"></i> Access Dataset
+  </a>
+</div>
+```
+
+
 ## Contact
 
+Daiil Jun, email@ku.edu
 
-
+##
 
 This material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
