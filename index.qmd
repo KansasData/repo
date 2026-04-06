@@ -17,7 +17,7 @@ format:
 
             <button class = "explore-button"><a href ="./curriculum.qmd" style="text-decoration:none; color:#0051ba">Browse Curriculum</a></button>
 
-            <button class = "explore-button"><a href="./404.qmd" style="text-decoration:none; color:white">Explore ARISE Data</a></button>
+            <button class = "explore-button"><a href="./ARISE/arise.qmd" style="text-decoration:none; color:white">Explore ARISE Data</a></button>
         </div>
 
         <div class="cards-wrapper">
@@ -36,7 +36,7 @@ format:
             <div class ="arise-container">
                 <h2>ARISE Data</h2>
                 <p>The ARISE Data section provides access to datasets and resources used or developed by our <a href="https://nsfepscor.ku.edu/track-1-arise" target="_blank">ARISE</a> program. Explore data collections designed to support research and education.</p>
-                <a href = "./404.qmd">Explore Data &#8594;</a>
+                <a href = "./ARISE/arise.qmd">Explore Data &#8594;</a>
             </div>
         </div> <!-- End of wrapper div -->
 

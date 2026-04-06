@@ -1,0 +1,24 @@
+```{=html}
+<div class="item-list">
+  <% for (const item of items) { %>
+    <a href="<%- item.path %>" class="item-card"
+       data-category="<%- item['data-category'] %>"
+       data-institution="<%- item.institution %>">
+
+      <div class="card-header">
+        <h4 class="item-title">
+          <%= item.title %>
+        </h4>
+      </div>
+
+      <div class="item-details">
+        <div><strong>Institution:</strong> <%= item.institution %></div>
+        <div><strong>Data Category:</strong> <%= item['data-category'] %></div>
+        <div><strong>Data Type:</strong> <%= item['data-type'] %></div>
+        <div><strong>Keywords:</strong> <%= item.keywords %></div>
+      </div>
+
+    </a>
+  <% } %>
+</div>
+```

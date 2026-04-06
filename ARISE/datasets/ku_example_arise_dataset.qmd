@@ -1,0 +1,28 @@
+---
+title: "Example ARISE Dataset"
+institution: "University of Kansas"
+data-category: "Environmental"
+data-type: "Tabular"
+keywords: "environment, water quality, Kansas"
+toc: true
+toc-title: "On this page"
+---
+
+## About the Data
+
+This is a placeholder dataset page. Replace this text with the actual dataset description when submitting a real ARISE dataset.
+
+## Authors or Sources
+
+
+
+## Availability
+
+This data is public. (For some projects: "Please contact for access.")
+
+## Contact
+
+
+
+
+This material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)

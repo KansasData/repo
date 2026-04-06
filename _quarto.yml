@@ -24,7 +24,7 @@ website:
       - text: "Curriculum"
         href: curriculum.qmd
       - text: "ARISE Data"
-        href: 404.qmd
+        href: ARISE/arise.qmd
   
     tools:
       - icon: buildings

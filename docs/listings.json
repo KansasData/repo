@@ -203,5 +203,11 @@
       "/project/projects/project_Trade_NTMs.html",
       "/project/projects/project_Urban_Food_Prod.html"
     ]
+  },
+  {
+    "listing": "/ARISE/arise.html",
+    "items": [
+      "/ARISE/datasets/ku_example_arise_dataset.html"
+    ]
   }
 ]
