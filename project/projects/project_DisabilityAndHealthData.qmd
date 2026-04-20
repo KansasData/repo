@@ -1,6 +1,6 @@
 ---
-title: "Disability and Health Data Systems"
-project-title: "Disability and Health Data Systems"
+title: "Predicting Disability Prevalence"
+project-title: "Predicting Disability Prevalence"
 year: "2026"
 partner: "Industry Advisory Board"
 datacategory:
@@ -70,7 +70,7 @@ datatype: "Tabular Data"
                     <a href="../classplan/class_DisabilityHealthData.html" class="btn btn-secondary">
                        <i class="bi bi-book-half icon"></i> View the Class Plan
                     </a>
-                    <a href="PD_DisabilityHealthData.pdf" class="btn btn-tertiary">
+                    <a href="PD_DisabilityPrevalence.pdf" class="btn btn-tertiary">
                         <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
                     </a>
                 </div>
