@@ -1,0 +1,36 @@
+---
+dataset-title: "Local Governments Survey"
+toc: false
+---
+
+```{=html}
+<link rel="stylesheet" href="../../project_dataset_style.css">
+
+<div class="dataset-container">
+    <!-- Header Section -->
+    <header class="dataset-header">
+        <p class="header-tagline">Project Dataset</p>
+        <h2 class="header-title"> {{< meta dataset-title >}}</h2>
+        <div class="header-buttons">
+            <a href="mailto:kansasdata@ku.edu" class="btn btn-download">
+                <i class="bi bi-envelope-fill icon"></i> Request Dataset Access
+            </a>
+
+            <a href="../projects/project_Local_Governments_Survey.html" class="btn btn-project">
+                <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            </a>
+
+            <a href="../classplan/class_Local_Governments_Survey.html" class="btn btn-classplan">
+                <i class="bi bi-book-half icon"></i> View the Class Plan
+            </a>
+
+        </div>
+    </header>
+</div>
+```
+
+::: content-card
+## About the Data
+
+For access to this dataset, please contact KDSC at [kansasdata\@ku.edu](mailto:kansasdata@ku.edu).
+:::
