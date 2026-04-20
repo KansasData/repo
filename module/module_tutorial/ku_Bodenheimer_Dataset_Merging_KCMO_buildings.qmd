@@ -1,0 +1,22 @@
+---
+title: "KCMO Building Efficiency Tutorial 1: Dataset merging"
+source: "Tutorial Material"
+author: "Joseph Bodenheimer"
+institution: "University of Kansas"
+competency: [Programming Skills, Data Wrangling]
+tech-lang: [Python]
+main-format: "Jupyter Notebook"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This tutorial introduces a step-by-step workflow for exploring and preparing Kansas City building datasets from two different years for merging. It covers loading the data, standardizing key columns into a shared format, checking data completeness, data cleaning, and normalizing content. The module also shows how to perform exact matches by ID and address, leaving a smaller unresolved set for fuzzy matching in the next tutorial.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Bodenheimer_Dataset_merging_KCMO_Buildings_Tutorial1)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
