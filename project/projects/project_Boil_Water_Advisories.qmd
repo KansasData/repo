@@ -4,9 +4,9 @@ project-title: "Boil Water Advisories"
 year: "2026"
 partner: "ARISE"
 datacategory:
-  - "Social Sciences / Humanities"
+  - "Physical (Natural) Sciences / Engineering"
 keyword:
-  - "Government, Infrastructure, Survey"
+  - "Water, Contamination, KDHE"
 datatype: "Tabular Data"
 ---
 
