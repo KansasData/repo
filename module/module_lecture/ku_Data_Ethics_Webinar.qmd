@@ -1,0 +1,22 @@
+---
+title: "Data Ethics Webinar"
+source: "Lecture Material"
+author: "Ramón Alvarado"
+institution: "University of Oregon"
+competency: [Data Wrangling, Ethical Problem Solving]
+main-format: Lecture Recording
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This webinar was designed to encourage students and faculty to stop and think about the ethical standards of data science. Ramón discusses three founding principles of data ethics and identifies several areas of concern when discussing bias and fairness.
+
+## Module Materials
+
+```{=html}
+<iframe id="kmsembed-1_0h4zx3zn" width="400" height="285" src="https://mediahub.ku.edu/embed/secure/iframe/entryId/1_0h4zx3zn/uiConfId/54254972/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Data Ethics Webinar"></iframe>
+```
+
+This Material is under the [CC BY-ND license](https://creativecommons.org/licenses/by-nd/4.0/deed.en)
