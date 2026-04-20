@@ -62,6 +62,7 @@
     "items": [
       "/project/datasets/data_Building_Energy_Performance.html",
       "/project/datasets/data_Care_Board.html",
+      "/project/datasets/data_Conservation_Program_Spending.html",
       "/project/datasets/data_KAC.html",
       "/project/datasets/data_KBOR.html",
       "/project/datasets/data_KDHE.html",
@@ -196,6 +197,7 @@
       "/project/projects/project_Arts_Vibrancy_Index.html",
       "/project/projects/project_Building_Energy_Performance.html",
       "/project/projects/project_Care_Board.html",
+      "/project/projects/project_Conservation_Program_Spending.html",
       "/project/projects/project_DisabilityAndHealthData.html",
       "/project/projects/project_Fraud_Detection.html",
       "/project/projects/project_NLA.html",

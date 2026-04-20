@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>KDSC | Dataset – KDSC</title>
+<title>Conservation Program Spending – KDSC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-88c77154f9e4ba31b898a632c89cdd97.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-88c77154f9e4ba31b898a632c89cdd97.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,67 +67,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-datasets-listings .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-datasets-listings'] = new List('listing-datasets-listings', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -139,9 +79,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo light-content">
-    <img src="./kdsc_logo.png" alt="KDSC logo" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../kdsc_logo.png" alt="KDSC logo" class="navbar-logo light-content">
+    <img src="../../kdsc_logo.png" alt="KDSC logo" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -151,19 +91,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./project.html"> 
+    <a class="nav-link" href="../../project.html"> 
 <span class="menu-text">Community Data Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum.html"> 
+    <a class="nav-link" href="../../curriculum.html"> 
 <span class="menu-text">Curriculum</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ARISE/arise.html"> 
+    <a class="nav-link" href="../../ARISE/arise.html"> 
 <span class="menu-text">ARISE Data</span></a>
   </li>  
 </ul>
@@ -197,22 +137,15 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#community-data-lab-datasets" id="toc-community-data-lab-datasets" class="nav-link active" data-scroll-target="#community-data-lab-datasets">Community Data Lab Datasets</a></li>
-  <li><a href="#datasets" id="toc-datasets" class="nav-link" data-scroll-target="#datasets">Datasets</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(11)</span></div></div></div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dataset</h1>
+<h1 class="title">Conservation Program Spending</h1>
 </div>
 
 
@@ -229,221 +162,90 @@ window.Quarto = {
 </header>
 
 
-<section id="community-data-lab-datasets" class="level2">
-<h2 data-anchor-id="community-data-lab-datasets">Community Data Lab Datasets</h2>
-<p>Community Data Lab projects depend on real-world data which is then used by students to perform analyses and solve practical issues. When these projects contain open source or public data, or when our community partners have agreed to share deidentified data, we are committed to making that data available.</p>
-</section>
-<section id="datasets" class="level2">
-<h2 data-anchor-id="datasets">Datasets</h2>
-<p>Our datasets are organized in accordance with the projects they are sourced from. Individual projects may have multiple datasets. A full description of each project and the related datasets is available in the projects section</p>
-<div id="listing-datasets-listings" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-datasets-listings-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-datasets-listings'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Year - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Year - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Project
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Provider
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+
+<link rel="stylesheet" href="../../project_description_style.css">
+
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>Conservation Program Spending</h2>
+        <p class="subtitle lead">
+            A partnership with the KS Dept. of Agriculture to understand and address a key community challenge.
+        </p>
+    </header>
+
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            KS Dept. of Agriculture
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            Physical (Natural) Sciences / Engineering
+                            <strong>Keywords:</strong>
+                            Water, Water Quality, Spending 
+                            <strong>Data Type:</strong>
+                            Tabular Data, Geospatial Data 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            2026
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_Conservation_Program_Spending.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_Conservation_Program_Spending.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="PD_Conservation_Program_Spending.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
-<table class="quarto-listing-table table table-hover">
-<thead>
-<tr>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Year</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Provider</a>
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-file-modified-sort="1776656109440" data-listing-reading-time-sort="2" data-listing-word-count-sort="218" data-listing-title-sort="About the Data" data-listing-filename-sort="data_Building_Energy_Performance.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_Building_Energy_Performance.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-file-modified-sort="1776657315333" data-listing-reading-time-sort="2" data-listing-word-count-sort="218" data-listing-title-sort="About the Data" data-listing-filename-sort="data_Care_Board.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_Care_Board.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-listing-file-modified-sort="1776658058515" data-listing-reading-time-sort="2" data-listing-word-count-sort="218" data-listing-title-sort="About the Data" data-listing-filename-sort="data_Conservation_Program_Spending.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_Conservation_Program_Spending.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="3" data-listing-file-modified-sort="1770373792192" data-listing-reading-time-sort="4" data-listing-word-count-sort="633" data-listing-title-sort="About the Data" data-listing-filename-sort="data_KAC.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_KAC.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="4" data-listing-file-modified-sort="1772446325021" data-listing-reading-time-sort="2" data-listing-word-count-sort="312" data-listing-title-sort="About the Data" data-listing-filename-sort="data_KBOR.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_KBOR.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="5" data-listing-file-modified-sort="1772448219028" data-listing-reading-time-sort="2" data-listing-word-count-sort="312" data-listing-title-sort="About the Data" data-listing-filename-sort="data_KDHE.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_KDHE.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="6" data-listing-file-modified-sort="1772446319658" data-listing-reading-time-sort="2" data-listing-word-count-sort="312" data-listing-title-sort="About the Data" data-listing-filename-sort="data_NLA.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_NLA.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="7" data-listing-file-modified-sort="1774243947061" data-listing-reading-time-sort="2" data-listing-word-count-sort="310" data-listing-title-sort="About the Data" data-listing-filename-sort="data_SurfaceWaterDrinkingWater.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_SurfaceWaterDrinkingWater.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="8" data-listing-file-modified-sort="1772523916639" data-listing-reading-time-sort="2" data-listing-word-count-sort="312" data-listing-title-sort="About the Data" data-listing-filename-sort="data_Trade_NTMs.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_Trade_NTMs.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="9" data-listing-file-modified-sort="1772524030493" data-listing-reading-time-sort="2" data-listing-word-count-sort="310" data-listing-title-sort="About the Data" data-listing-filename-sort="data_Urban_Food_Prod.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_Urban_Food_Prod.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-<tr data-index="10" data-listing-file-modified-sort="1772447044389" data-listing-reading-time-sort="2" data-listing-word-count-sort="332" data-listing-title-sort="About the Data" data-listing-filename-sort="data_WDC.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">&nbsp;</span>
-</td>
-<td>
-<a href="./project/datasets/data_WDC.html" class="title listing-title">About the Data</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
+<div class="card">
+<section id="the-challenge" class="level2">
+<h2 data-anchor-id="the-challenge"><i class="bi bi-question-circle-fill icon"></i> The Challenge</h2>
+<div class="conetent-text">
+<p>The KS Dept. of Agriculture seeks to understand the impact of conservation program spending on surface water quality. Is there empirical evidence that the conservation programs improve water quality?</p>
+</div>
+</section>
+<section id="key-findings-results" class="level2 content-section">
+<h2 data-anchor-id="key-findings-results"><i class="bi bi-bar-chart-line-fill icon"></i> Key Findings &amp; Results</h2>
+<div class="results-placeholder">
+<iframe src="" width="100%" height="600px" style="border:none;">
+</iframe>
+</div>
+</section>
 </div>
 
 
-
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -843,13 +645,13 @@ window.Quarto = {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src="./images/NSF.png" class="img-fluid" width="150" alt="NSF image"></a></p>
+<p>Proudly supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148878"><img src="../../images/NSF.png" class="img-fluid" width="150" alt="NSF image"></a></p>
 </div>   
     <div class="nav-footer-center">
 <p>Except where otherwise noted content on this site is <br> licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC</a><br></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src="./images/arise_logo.png" class="img-fluid" width="60"></a></p>
+<p><a href="https://nsfepscor.ku.edu/track-1-arise/"><img src="../../images/arise_logo.png" class="img-fluid" width="60"></a></p>
 </div>
   </div>
 </footer>
