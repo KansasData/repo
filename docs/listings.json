@@ -60,6 +60,7 @@
   {
     "listing": "/dataset.html",
     "items": [
+      "/project/datasets/data_Boil_Water_Advisories.html",
       "/project/datasets/data_Building_Energy_Performance.html",
       "/project/datasets/data_Care_Board.html",
       "/project/datasets/data_Conservation_Program_Spending.html",
@@ -196,6 +197,7 @@
     "items": [
       "/project/projects/project_AI_Tableau.html",
       "/project/projects/project_Arts_Vibrancy_Index.html",
+      "/project/projects/project_Boil_Water_Advisories.html",
       "/project/projects/project_Building_Energy_Performance.html",
       "/project/projects/project_Care_Board.html",
       "/project/projects/project_Conservation_Program_Spending.html",
