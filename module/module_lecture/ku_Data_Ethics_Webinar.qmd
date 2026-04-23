@@ -13,6 +13,8 @@ toc-title: "On this page"
 
 This webinar was designed to encourage students and faculty to stop and think about the ethical standards of data science. Ramón discusses three founding principles of data ethics and identifies several areas of concern when discussing bias and fairness.
 
+Roughly a decade ago Floridi and Taddeo (2016) defined data ethics as a field that draws insights from the ethics of data (e.g., gathering, curation, storage), the ethics of algorithms (the use, deployment, and design of computational technologies) and the ethics of practice (oaths, mission statements, best- practices, etc.). A more sophisticated overview of such field could also easily identified that, despite its repeated omission from the literature, business ethics is additionally one of the most insightful sources of careful consideration and precedent for the field (De George, 2009). Underlying any and all of these sources is of course an exploration of profound moral dilemmas and frameworks which— for better or for worse— strongly hinge on utilitarian values. For the past decade, however, the strict focus of data ethics on harm mitigation related to transparency, bias, fairness, compliance, and regulation have exhausted its program without much left to show for it other than tired narratives that have lead to either ethics washing or ethics bashing (Bietti, 2020). In this talk we will explore what it means for a data ethics program to go beyond this paradigm of mitigation and start asking questions from a philosophical perspective in which data, databases, and data technologies inevitably drive the most central aspects of our contemporary civilization.
+
 ## Module Materials
 
 ```{=html}
