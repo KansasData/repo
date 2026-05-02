@@ -142,6 +142,64 @@ body {
     margin-top: 0rem;
 }
 
+/* Modules Section */
+.modules-section {
+    margin-bottom: 2rem;
+}
+
+.section-heading {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #0d9488;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+    margin-top: 0;
+}
+
+.modules-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+@media (min-width: 768px) {
+    .modules-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.module-card-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #4f46e5;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    text-decoration: none;
+    display: block;
+}
+.module-card-title:hover {
+    color: #4338ca;
+    text-decoration: underline;
+}
+
+.module-description {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.6;
+}
+
+.resource-buttons-horizontal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+.resource-buttons-horizontal .btn {
+    width: auto;
+    flex: 1 1 0;
+}
+
 /* Main Content Area (Lesson Guide) */
 .lesson-guide-card .main-title {
     font-size: 1.5rem;

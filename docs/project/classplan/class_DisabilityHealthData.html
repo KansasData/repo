@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="William Duncan">
 
-<title>Federal Data Workshops: the National Center for Health Statistics – KDSC</title>
+<title>class_disabilityhealthdata – KDSC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -138,55 +137,102 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#material-description" id="toc-material-description" class="nav-link active" data-scroll-target="#material-description">Material Description</a></li>
-  <li><a href="#module-materials" id="toc-module-materials" class="nav-link" data-scroll-target="#module-materials">Module Materials</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Federal Data Workshops: the National Center for Health Statistics</h1>
+
+
+
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+<link rel="stylesheet" href="../../project_classplan_style.css">
+
+<div class="container">
+    <!-- Header Section -->
+    <header class="class-plan-header">
+        <p class="tagline">Class Plan</p>
+        <h2>Predicting Disability Prevalence</h2>
+        <p class="subtitle lead">A data management exercise using CDC disability survey data.</p>
+    </header>
+
+    <!-- Curriculum Modules Section -->
+    <div class="modules-section">
+        <h3 class="section-heading">Curriculum Modules</h3>
+        <div class="modules-grid">
+
+            <!-- Module 1 -->
+            <div class="card">
+                <a href="../../module/module_workshop/ku_Harsay_data_management_Python.html" class="module-card-title">
+                    Data Management in Python
+                </a>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-person-fill icon"></i>
+                        <div><strong>Author:</strong> Edina Harsay</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-pc-display icon"></i>
+                        <div><strong>Tool:</strong> Python</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-person-workspace icon"></i>
+                        <div><strong>Audience:</strong> Undergraduate (Introductory)</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-clock-fill icon"></i>
+                        <div><strong>Estimated Time:</strong> 1-hour class session</div>
+                    </li>
+                </ul>
+                <p class="module-description">Introduces Python for data analysis, covering local environment setup and Google Colab. Uses the Polars library to work with CDC BRFSS survey data.</p>
+            </div>
+
+            <!-- Module 2 -->
+            <div class="card">
+                <a href="../../module/module_workshop/ku_duncan_federal_health.html" class="module-card-title">
+                    Federal Data Workshops: the National Center for Health Statistics
+                </a>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-person-fill icon"></i>
+                        <div><strong>Author:</strong> William Duncan</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-pc-display icon"></i>
+                        <div><strong>Tool:</strong> Stata</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-person-workspace icon"></i>
+                        <div><strong>Audience:</strong> Undergraduate (Introductory)</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-clock-fill icon"></i>
+                        <div><strong>Estimated Time:</strong> 1-hour class session</div>
+                    </li>
+                </ul>
+                <p class="module-description">Works with NCHS federal health data in Stata, covering ANOVA and Chi-Squared tests.</p>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Related Resources -->
+    <div class="card">
+        <h3 class="card-title">Related Resources</h3>
+        <div class="resource-buttons-horizontal">
+            <a href="../projects/project_DisabilityAndHealthData.html" class="btn btn-project">
+                <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            </a>
+            <a href="../datasets/data_DisabilityHealthData.html" class="btn btn-dataset">
+               <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+            </a>
+        </div>
+    </div>
+
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>William Duncan </p>
-          </div>
-  </div>
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="material-description" class="level2">
-<h2 data-anchor-id="material-description">Material Description</h2>
-<p>This is the fourth session of the Federal Data Workshops hosted in Spring 2025, covering the National Center for Health Statistics.</p>
-</section>
-<section id="module-materials" class="level2">
-<h2 data-anchor-id="module-materials">Module Materials</h2>
-<p>You can access the material <a href="https://github.com/KansasData/Module/tree/main/ku_duncan_federal_health">here</a></p>
-<p>This Material is under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY license</a></p>
-
-
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
