@@ -67,7 +67,7 @@ datatype: "Tabular Data"
                     <a href="../datasets/data_DisabilityHealthData.html" class="btn btn-primary">
                         <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
                     </a>
-                    <a href="../classplan/class_DisabilityHealthData.html" class="btn btn-secondary">
+                    <a href="../classplan/class_DisabilityAndHealthData.html" class="btn btn-secondary">
                        <i class="bi bi-book-half icon"></i> View the Class Plan
                     </a>
                     <a href="PD_DisabilityPrevalence.pdf" class="btn btn-tertiary">

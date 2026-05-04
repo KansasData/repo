@@ -152,57 +152,61 @@ ul.task-list li input[type="checkbox"] {
 <div class="container">
     <!-- Header Section -->
     <header class="class-plan-header">
-        <p class="tagline">Educational Module</p>
+        <p class="tagline">Class Plan</p>
         <h2>Class Plan Template</h2>
-        <p class="subtitle lead">Copy and rename this file for each new class plan. Fill in the YAML fields and the Class Plan Guide section below.</p>
+        <p class="subtitle lead">Copy and rename this file for each new class plan. Fill in the YAML fields, module cards, and Class Plan Guide section below.</p>
     </header>
 
-    <!-- Top Details Grid -->
-    <div class="top-details-grid">
-        <!-- Module Details Card -->
-        <div class="card">
-            <h3 class="card-title">Module Details</h3>
-            <ul class="details-list">
-                <li>
-                    <i class="bi bi-person-workspace icon"></i>
-                    <div>
-                        <strong>Target Audience:</strong>
-                        Undergraduate (Introductory)
-                    </div>
-                </li>
-                <li>
-                    <i class="bi bi-clock-fill icon"></i>
-                    <div>
-                        <strong>Estimated Time:</strong>
-                        XX-minute class session
-                    </div>
-                </li>
-                <li>
-                   <i class="bi bi-pc-display icon"></i>
-                    <div>
-                        <strong>Required Tools:</strong>
-                        Python
-                    </div>
-                </li>
-            </ul>
-        </div>
+    <!-- Curriculum Modules Section -->
+    <!-- Add one <div class="card"> block per module -->
+    <div class="modules-section">
+        <h3 class="section-heading">Curriculum Modules</h3>
+        <div class="modules-grid">
 
-        <!-- Related Resources Card -->
-        <div class="card">
-            <h3 class="card-title">Related Resources</h3>
-            <div class="resource-buttons">
-                <a href="../projects/project_Building_Energy_Performance.html" class="btn btn-project">
-                    <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            <!-- Module 1 -->
+            <div class="card">
+                <a href="#" class="module-card-title">
+                    Module Title
                 </a>
-                <a href="../datasets/data_Building_Energy_Performance.html" class="btn btn-dataset">
-                   <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
-                </a>
-                <a href="../../module/module_tutorial/ku_Bodenheimer_Dataset_Merging_KCMO_buildings.html" class="btn btn-dataset">
-                   <i class="bi bi-journal-code icon"></i> KCMO Building Efficiency Tutorial 1
-                </a>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-person-fill icon"></i>
+                        <div><strong>Author:</strong> Author Name</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-pc-display icon"></i>
+                        <div><strong>Tool:</strong> Python / R / Stata</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-person-workspace icon"></i>
+                        <div><strong>Audience:</strong> Undergraduate (Introductory)</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-clock-fill icon"></i>
+                        <div><strong>Estimated Time:</strong> 1-hour class session</div>
+                    </li>
+                </ul>
+                <p class="module-description">Brief description of what this module covers.</p>
             </div>
+
+            <!-- Add more module cards here as needed -->
+
         </div>
     </div>
+
+    <!-- Related Resources -->
+    <div class="card">
+        <h3 class="card-title">Related Resources</h3>
+        <div class="resource-buttons-horizontal">
+            <a href="../projects/project_TITLE.html" class="btn btn-project">
+                <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            </a>
+            <a href="../datasets/data_TITLE.html" class="btn btn-dataset">
+               <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+            </a>
+        </div>
+    </div>
+
 </div>
 <div class="card">
 <section id="class-plan-guide" class="level2 main-title lesson-guide-card">
