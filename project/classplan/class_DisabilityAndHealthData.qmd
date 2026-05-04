@@ -1,6 +1,6 @@
 ---
 class-title: "Predicting Disability Prevalence"
-class-subtitle: "A data management exercise using CDC disability survey data."
+class-subtitle: "Data management and statistical analysis exercises using CDC disability survey data."
 toc: false
 ---
 
