@@ -1,0 +1,69 @@
+---
+class-title: "Surface Water Drinking Water"
+class-subtitle: "A data management exercise in Stata using data from the EPA and Water Quality Portal."
+toc: false
+---
+
+```{=html}
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+<link rel="stylesheet" href="../../project_classplan_style.css">
+
+<div class="container">
+    <!-- Header Section -->
+    <header class="class-plan-header">
+        <p class="tagline">Class Plan</p>
+        <h2>{{< meta class-title >}}</h2>
+        <p class="subtitle">{{< meta class-subtitle >}}</p>
+    </header>
+
+    <!-- Curriculum Modules Section -->
+    <div class="modules-section">
+        <h3 class="section-heading">Curriculum Modules</h3>
+        <div class="modules-grid">
+
+            <!-- Module 1 -->
+            <div class="card">
+                <a href="../../module/module_workshop/ku_Jacobs_data_management_stata.html" class="module-card-title">
+                    Data Management in Stata
+                </a>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-person-fill icon"></i>
+                        <div><strong>Author:</strong> Benjamin Jacobs</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-pc-display icon"></i>
+                        <div><strong>Tool:</strong> Stata</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-person-workspace icon"></i>
+                        <div><strong>Audience:</strong> Undergraduate (Introductory)</div>
+                    </li>
+                    <li>
+                        <i class="bi bi-clock-fill icon"></i>
+                        <div><strong>Estimated Time:</strong> 1-hour class session</div>
+                    </li>
+                </ul>
+                <p class="module-description">Walks students through data management techniques in a research environment, covering best practices for downloading, transforming, merging, and saving data.</p>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Related Resources -->
+    <div class="card">
+        <h3 class="card-title">Related Resources</h3>
+        <div class="resource-buttons-horizontal">
+            <a href="../projects/project_SurfaceWaterDrinkingWater.html" class="btn btn-project">
+                <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            </a>
+            <a href="../datasets/data_SurfaceWaterDrinkingWater.html" class="btn btn-dataset">
+               <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+            </a>
+        </div>
+    </div>
+
+</div>
+```
