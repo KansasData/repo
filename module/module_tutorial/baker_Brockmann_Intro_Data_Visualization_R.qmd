@@ -1,0 +1,21 @@
+---
+title: "Introduction to Data Visualization in R"
+source: "Tutorial Material"
+author: "Stephanie Brockmann"
+institution: "Baker University"
+competency: [Programming Skills, Data Wrangling]
+tech-lang: [R]
+main-format: "Data, Code, MSWord"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+The materials within in this module are designed for instructors to use when teaching data visualization in R. This module builds on the “Introduction to RStudio” module. Here, students apply skills learned previously to create scatter plots, line graphs, and bar charts.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/baker_Brockmann_Intro_R_Visualization)
+
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
