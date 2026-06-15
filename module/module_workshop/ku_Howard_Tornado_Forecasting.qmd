@@ -2,7 +2,7 @@
 title: "Find the Tornado Activity"
 source: "Workshop Material"
 author: "Emma Howard"
-institution: "JUniversity of Kansas"
+institution: "University of Kansas"
 competency: [Data Mining, Forecasting]
 tech-lang: [none]
 main-format: [PDF]
