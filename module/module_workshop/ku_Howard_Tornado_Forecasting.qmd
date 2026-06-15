@@ -1,0 +1,24 @@
+---
+title: "Find the Tornado Activity"
+source: "Workshop Material"
+author: "Emma Howard"
+institution: "JUniversity of Kansas"
+competency: [Data Mining, Forecasting]
+tech-lang: [none]
+main-format: [PDF]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Designed for a K-12 audience, the Find the Tornado activity provides weather data to students to use to identify which day a tornado occurred throughout Kansas. The students will use data visualizations to compare data across days.
+
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Howard_Tornado_Forecasting)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+
