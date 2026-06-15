@@ -1,0 +1,23 @@
+---
+title: "SQL for Data Analysis"
+source: "Workshop Material"
+author: "Kiran Mihir"
+institution: "Johnson County Community College"
+competency: [Data Analysis, Statistical Foundation, Data Visualization, Data Wrangling, Programming Skills]
+tech-lang: [SQL]
+main-format: [MSWord]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Final project assignment for a course in SQL. Students select dataset from a variety of public data sources based on their chosen topic for the project. They break down the data file into multiple csv files based on "entities" and import them as tables into SQL Developer, assign keys and write queries.
+
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/johnsoncounty_mihir_SQL_Data_Analysis)
+
+This Material is under the [CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
