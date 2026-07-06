@@ -1,10 +1,10 @@
 ---
-title: "Business Data Analytics 1"
+title: "Business Data Analytics 1: Data Manipulation and Visualization"
 source: "Workshop Material"
 author: "William Duncan"
 institution: "University of Kansas"
 competency: [Data Wrangling]
-tech-lang: [STATA]
+tech-lang: [R]
 main-format: [PDF, Code, Data]
 toc: true
 toc-title: "On this page"

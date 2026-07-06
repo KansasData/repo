@@ -1,9 +1,9 @@
 ---
-title: "Business Data Analytics 3"
+title: "Business Data Analytics 3: Decision Trees"
 source: "Workshop Material"
 author: "William Duncan"
 institution: "University of Kansas"
-competency: [Data Wrangling]
+competency: [Statistical Analysis]
 tech-lang: [R]
 main-format: [PDF, Code, Data]
 toc: true
@@ -12,7 +12,7 @@ toc-title: "On this page"
 
 ## Material Description
 
-This is the third workshop of four is a series of workshops for business analytics.
+This is the third workshop of four in a series of workshops for business analytics.
 
 ## Module Materials
 

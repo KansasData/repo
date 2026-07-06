@@ -1,9 +1,9 @@
 ---
-title: "Business Data Analytics 2"
+title: "Business Data Analytics 2: Regression"
 source: "Workshop Material"
 author: "William Duncan"
 institution: "University of Kansas"
-competency: [Data Wrangling]
+competency: [Statistical Analysis]
 tech-lang: [R]
 main-format: [PDF, Code, Data]
 toc: true
