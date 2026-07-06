@@ -1,5 +1,5 @@
 ---
-title: "Kansas Board of Regents"
+title: "Kansas Community College Outcomes"
 project-title: "Kansas Board of Regents"
 year: "2024"
 partner: "Kansas Board of Regents"
