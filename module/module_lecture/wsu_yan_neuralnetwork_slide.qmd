@@ -1,5 +1,5 @@
 ---
-title: "Intro to Neural Network"
+title: "Introduction to Neural Network"
 source: "Lecture Material"
 author: "Dr. Fuijan Yan"
 institution: "Wichita State University"
