@@ -1,5 +1,5 @@
 ---
-title: "Business Data Analytics 4"
+title: "Introductory Stata Analysis"
 source: "Workshop Material"
 author: "William Duncan"
 institution: "University of Kansas"
