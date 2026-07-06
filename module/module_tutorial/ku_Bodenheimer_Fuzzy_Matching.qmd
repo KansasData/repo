@@ -1,0 +1,23 @@
+---
+title: "KCMO Building Efficiency Tutorial 2: Fuzzy Matching"
+source: "Tutorial Material"
+author: "Joseph Bodenheimer"
+institution: "University of Kansas"
+competency: [Data Engineering, Programming Skills]
+tech-lang: [Python]
+main-format: "Jupyter Notebook"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This tutorial expands on the previous dataset merging tutorial by using a fuzzy matching pipeline to resolve records that could not be matched through exact ID or address matching. It covers the basics of fuzzy matching, considerations when setting up a repeatable matching protocol, and manual review of the implementation.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Bodenheimer_Fuzzy_Matching)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+
