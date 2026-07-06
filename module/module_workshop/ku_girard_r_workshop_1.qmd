@@ -1,5 +1,5 @@
 ---
-title: "KDSC R Workshop: Intro to R & Data Wrangling"
+title: "KDSC R Workshop: Introduction to R & Data Wrangling"
 source: "Workshop Material"
 author: "Jeff Girard"
 institution: "University of Kansas"
