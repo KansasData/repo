@@ -12,7 +12,7 @@ toc-title: "On this page"
 
 ## Material Description
 
-This is the first workshop of four is a series of workshops for business analytics.
+This is the first workshop of four in a series of workshops for business analytics.
 
 ## Module Materials
 
