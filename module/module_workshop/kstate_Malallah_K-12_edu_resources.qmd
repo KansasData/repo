@@ -1,0 +1,22 @@
+---
+title: "K-12 and Undergraduate Educational literature"
+source: "Workshop Material"
+author: "Safia Malallah"
+institution: "Kansas State University"
+competency: []
+tech-lang: [none]
+main-format: [PDF]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+Guidelines for Pre-K-12 instruction and assessment in statistical education(GAISE II), Data Science for Undergraduates, and other publications.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/KState_Malallah_K-12_edu_resources_2)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
