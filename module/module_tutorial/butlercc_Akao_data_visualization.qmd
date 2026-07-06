@@ -1,0 +1,22 @@
+---
+title: "Data Visualization Assignment"
+source: "Tutorial Material"
+author: "Janice Akao"
+institution: "Butler Community College"
+competency: [Data Visualization]
+tech-lang: [none]
+main-format: "MSWord"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+These are written assignments, including a group project and a presentation covering data visualization concepts.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/butlercc_akao_data_visualization_assignment)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+

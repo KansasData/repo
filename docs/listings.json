@@ -40,6 +40,7 @@
     "listing": "/module/module_tutorial.html",
     "items": [
       "/module/module_tutorial/baker_mccarthy_optimization.html",
+      "/module/module_tutorial/butlercc_Akao_data_visualization.html",
       "/module/module_tutorial/johnsoncountly_Smith_EvaluatingMLmodels.html",
       "/module/module_tutorial/baker_Brockmann_Intro_Data_Visualization_R.html",
       "/module/module_tutorial/tutorial_intro_colab.html",
@@ -100,6 +101,7 @@
       "/module/module_workshop/ku_Harsay_data_management_Python.html",
       "/module/module_workshop/ku_Paolillo_data_management_R.html",
       "/module/module_workshop/ku_Jacobs_data_management_stata.html",
+      "/module/module_tutorial/butlercc_Akao_data_visualization.html",
       "/module/module_tutorial/johnsoncountly_Smith_EvaluatingMLmodels.html",
       "/module/module_workshop/ku_duncan_federal_economic.html",
       "/module/module_workshop/ku_duncan_federal_labor.html",
@@ -174,6 +176,7 @@
       "/module/module_workshop/ku_Harsay_data_management_Python.html",
       "/module/module_workshop/ku_Paolillo_data_management_R.html",
       "/module/module_workshop/ku_Jacobs_data_management_stata.html",
+      "/module/module_tutorial/butlercc_Akao_data_visualization.html",
       "/module/module_tutorial/johnsoncountly_Smith_EvaluatingMLmodels.html",
       "/module/module_workshop/ku_duncan_federal_economic.html",
       "/module/module_workshop/ku_duncan_federal_labor.html",
