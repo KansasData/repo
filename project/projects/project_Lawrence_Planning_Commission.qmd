@@ -1,12 +1,12 @@
 ---
-title: "Asset Mapping of Community Anchor Institutions in Kansas"
-project-title: "Asset Mapping of Community Anchor Institutions in Kansas"
+title: "Lawrence Planning Commission"
+project-title: "Lawrence Planning Commission"
 year: "2025"
-partner: "ARISE"
+partner: "City of Lawrence"
 datacategory:
   - "Social Science"
 keyword:
-  - "anchor institutions, library, church, hospital, newspaper"
+  - "housing, health, employment"
 datatype: "Tabular Data"
 ---
 
@@ -20,7 +20,7 @@ datatype: "Tabular Data"
         <p class="tagline">Project Description</p>
         <h2>{{< meta project-title >}}</h2>
         <p class="subtitle">
-            A partnership with <a href="https://nsfepscor.ku.edu/track-1-arise">{{< meta partner >}}</a> to understand and address a key technology challenge.
+            A partnership with <a href="https://lawrenceks.gov/">{{< meta partner >}}</a> to understand and address a key technology challenge.
         </p>
     </header>
 
@@ -64,13 +64,13 @@ datatype: "Tabular Data"
             <div class="card">
                 <h3 class="card-title">Project Resources</h3>
                 <div class="resource-buttons">
-                    <a href="../datasets/data_Asset_Mapping.html" class="btn btn-primary">
+                    <a href="../datasets/data_Lawrence_Planning_Commission.html" class="btn btn-primary">
                         <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
                     </a>
-                    <a href="../classplan/class_Asset_Mapping.html" class="btn btn-secondary">
+                    <a href="../classplan/class_Lawrence_Planning_Commission.html" class="btn btn-secondary">
                        <i class="bi bi-book-half icon"></i> View the Class Plan
                     </a>
-                    <a href="PD_ARISE_Community_Asset_Mapping.pdf" class="btn btn-tertiary">
+                    <a href="PD_Lawrence_Planning_Commission.pdf" class="btn btn-tertiary">
                         <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
                     </a>
                 </div>
@@ -84,7 +84,7 @@ datatype: "Tabular Data"
 ## <i class="bi bi-question-circle-fill icon"></i> The Challenge
 
 ::: conetent-text
-The goal of this project is to create an interactive asset map of community anchor institutions in Kansas. By understanding resource density and accessibility state-wide, communities will be better equipped to identify patterns in health, social, and economic disparities. 
+This project seeks to understand the City of Lawrence housing stock and its relationship to various social outcomes, including job opportunities, cost of living, and health outcomes.
 :::
 
 :::: content-section
@@ -97,4 +97,5 @@ The goal of this project is to create an interactive asset map of community anch
 :::
 ::::
 ::::::
+
 
