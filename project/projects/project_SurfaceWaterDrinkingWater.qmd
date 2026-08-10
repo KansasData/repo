@@ -4,7 +4,7 @@ project-title: "Surface Water Drinking Water"
 year: "2026"
 partner: "ARISE"
 datacategory:
-  - "Physical(Natural) Sciences / Engineering"
+  - "Physical (Natural) Sciences / Engineering"
 keyword:
   - "Water, Sustainability, Infrastructure"
 datatype: "Tabular Data"
