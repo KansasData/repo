@@ -73,6 +73,7 @@
       "/project/datasets/data_Building_Energy_Performance.html",
       "/project/datasets/data_Care_Board.html",
       "/project/datasets/data_Conservation_Program_Spending.html",
+      "/project/datasets/data_Groundwater_Management_Districts_Water_Use.html",
       "/project/datasets/data_KAC.html",
       "/project/datasets/data_KBOR.html",
       "/project/datasets/data_KDHE.html",
@@ -244,7 +245,8 @@
       "/project/projects/project_Rural_Cost_Of_Living_Index.html",
       "/project/projects/project_SurfaceWaterDrinkingWater.html",
       "/project/projects/project_Trade_NTMs.html",
-      "/project/projects/project_Urban_Food_Prod.html"
+      "/project/projects/project_Urban_Food_Prod.html",
+      "/project/projects/project_Groundwater_Management_Districts_Water_Use.html"
     ]
   },
   {

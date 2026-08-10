@@ -1,0 +1,64 @@
+---
+dataset-title: "Water Use in Groundwater Management Districts"
+toc: false
+---
+
+```{=html}
+<link rel="stylesheet" href="../../project_dataset_style.css">
+
+<div class="dataset-container">
+    <!-- Header Section -->
+    <header class="dataset-header">
+        <p class="header-tagline">Project Dataset</p>
+        <h2 class="header-title"> {{< meta dataset-title >}}</h2>
+        <div class="header-buttons">
+            <!-- These are the links for accessing the data sources -->
+            <a href="https://geohydro.kgs.ku.edu/geohydro/wizard/" class="btn btn-download" target="_blank">
+              <i class="bi bi-box-arrow-up-right icon"></i> WIZARD Water Well Levels Database
+            </a>
+
+            <a href="https://geohydro.kgs.ku.edu/geohydro/wimas/query_setup.cfm" class="btn btn-download" target="_blank">
+              <i class="bi bi-box-arrow-up-right icon"></i> Water Information Management and Analysis System (WIMAS)
+            </a>
+
+            <!-- Update the reference link to the project description -->
+            <a href="../projects/project_Groundwater_Management_Districts_Water_Use.html" class="btn btn-project">
+                <i class="bi bi-info-circle-fill icon"></i> View Project Page
+            </a>
+
+            <!-- Update the reference link to the class project -->
+            <a href="../classplan/class_Groundwater_Management_Districts_Water_Use.html" class="btn btn-classplan">
+                <i class="bi bi-book-half icon"></i> View the Class Plan
+            </a>
+
+        </div>
+    </header>
+</div>
+```
+
+::: content-card
+## About the Data
+
+This project draws on two public databases hosted by the [Kansas Geological Survey](https://www.kgs.ku.edu/) (KGS). Together they let us pair the *quantity of water pumped* with the *response of the aquifer*, which is the core question of the project: how water use in Groundwater Management Districts (GMDs) 1, 3, and 4 in western Kansas relates to aquifer decline.
+
+Neither database is distributed as a single download. Both are queried through a web form, and you select the geography and time period you need before exporting the results. Use the buttons above to open each query tool.
+
+### WIZARD Water Well Levels Database
+
+[WIZARD](https://geohydro.kgs.ku.edu/geohydro/wizard/) is the KGS repository of information on freshwater wells drilled into Kansas aquifers. It holds well records and the water-level measurements taken at those wells, consolidated from several agencies: the U.S. Geological Survey's Ground Water Site Inventory (GWSI), the Kansas Department of Agriculture's Division of Water Resources (DWR), and the local GMDs. Roughly two-thirds of the annual water-level measurements are now submitted by the GMDs and DWR, with the remainder collected by the KGS.
+
+For this project, WIZARD supplies the **aquifer decline** side of the analysis — the depth-to-water measurements over time that show whether the water table in a given area is rising, holding steady, or dropping.
+
+Records can be searched by county, GMD number, Public Land Survey location (township, range, section), latitude/longitude bounding box, USGS or KGS well identifier, and water-level measurement date range. There is an option to return only wells that have water-level measurements attached, which is usually what you want here.
+
+Apart from wells in the Kansas monitoring well network, the records in WIZARD are not independently verified. The data may need cleaning and screened for implausible measurements.
+
+### Water Information Management and Analysis System (WIMAS)
+
+[WIMAS](https://geohydro.kgs.ku.edu/geohydro/wimas/query_setup.cfm) is a joint project of the KGS and the Kansas Department of Agriculture, Division of Water Resources. It provides access to Kansas water rights records and the water use reported against those rights, and can return the results as maps, graphs, tables, and reports. The underlying water rights files are refreshed weekly.
+
+For this project, WIMAS supplies the **water use** side of the analysis — how much water was authorized and how much was actually reported as pumped, which can then be summarized by GMD and by year.
+
+Queries are set up by choosing a geographic area and a time period, so results can be pulled for GMDs 1, 3, and 4 specifically rather than for the whole state.
+:::
+
