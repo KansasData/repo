@@ -1,0 +1,101 @@
+---
+title: "Kansas Broadband Access"
+project-title: "Kansas Broadband Access"
+year: "2023"
+partner: "Institute for Policy & Social Research"
+datacategory:
+  - "Social Science"
+keyword:
+  - "broadband, internet, Kansas"
+datatype: "Tabular Data"
+---
+
+```{=html}
+
+<link rel="stylesheet" href="../../project_description_style.css">
+
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>{{< meta project-title >}}</h2>
+        <p class="subtitle">
+            A partnership with <a href="https://ipsr.ku.edu/">{{< meta partner >}}</a> to understand and address a key technology challenge.
+        </p>
+    </header>
+
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            {{< meta partner >}}
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            {{< meta datacategory >}}
+                            <strong>Keywords:</strong>
+                            {{< meta keyword >}} 
+                            <strong>Data Type:</strong>
+                            {{< meta datatype >}} 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            {{< meta year >}}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_Kansas_Broadband_Access.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_Kansas_Broadband_Access.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="PD_Kansas_Broadband_Access.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+:::::: card
+## <i class="bi bi-question-circle-fill icon"></i> The Challenge
+
+::: conetent-text
+Recent research by the Institute for Policy & Social Research (IPSR) at the University of Kansas has revealed significant discrepancies between Federal Communications Commission (FCC) broadband access estimates and actual on-the-ground connectivity in Kansas. While the FCC claimed that 85.8% of Kansans have access to broadband speeds of 100+ Mbps download, IPSR's survey data suggested only 43.5% have such access, with the two sources agreeing only 25% of the time. This project aims to provide an additional independent validation of Kansas broadband access using Ookla Speedtest data—real-world speed measurements collected from users' mobile devices connected to home internet services. By analyzing geographic patterns in actual internet speeds and comparing them with FCC maps, Microsoft usage data, and IPSR survey results, this project will strengthen the evidence base for policy decisions regarding broadband infrastructure investment in Kansas and provide a methodology for more accurate assessment of rural broadband gaps.
+:::
+
+:::: content-section
+## <i class="bi bi-bar-chart-line-fill icon"></i> Key Findings & Results
+
+::: results-placeholder
+<iframe src width="100%" height="600px" style="border:none;">
+
+</iframe>
+:::
+::::
+::::::
+
+
