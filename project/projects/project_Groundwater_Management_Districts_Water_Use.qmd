@@ -2,7 +2,7 @@
 title: "Water Use in Groundwater Management Districts"
 project-title: "Water Use in Groundwater Management Districts"
 year: "2025"
-partner: "ARISE"
+partner: "Ground Water Management Districts 1, 3, and 4"
 datacategory:
   - "Natural Science"
 keyword:
@@ -20,7 +20,7 @@ datatype: "Tabular Data"
         <p class="tagline">Project Description</p>
         <h2>{{< meta project-title >}}</h2>
         <p class="subtitle">
-            A partnership with <a href="https://nsfepscor.ku.edu/track-1-arise">{{< meta partner >}}</a> to understand and address a key technology challenge.
+            A partnership with Ground Water Management Districts 1, 3, and 4 to understand and address a key technology challenge.
         </p>
     </header>
 
@@ -84,8 +84,7 @@ datatype: "Tabular Data"
 ## <i class="bi bi-question-circle-fill icon"></i> The Challenge
 
 ::: conetent-text
-Water Use in Groundwater Management Districts
-This project looks at water use in Kansas Groundwater Management Districts (GMDs) 1, 3, and 4 (Western KS). Water use is an important consideration to determine the longevity of the aquifer’s water supply. The goal of the project is to understand how the quantity of water use is related to aquifer decline.  
+Water Use in Groundwater Management Districts This project looks at water use in Kansas Groundwater Management Districts (GMDs) 1, 3, and 4 (Western KS). Water use is an important consideration to determine the longevity of the aquifer’s water supply. The goal of the project is to understand how the quantity of water use is related to aquifer decline.
 :::
 
 :::: content-section
@@ -98,4 +97,3 @@ This project looks at water use in Kansas Groundwater Management Districts (GMDs
 :::
 ::::
 ::::::
-
