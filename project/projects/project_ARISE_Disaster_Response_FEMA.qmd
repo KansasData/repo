@@ -1,0 +1,100 @@
+---
+title: "Disaster Response and Analyzing Use of FEMA Funds"
+project-title: "Disaster Response and Analyzing Use of FEMA Funds"
+year: "2024"
+partner: "ARISE"
+datacategory:
+  - "Social Science"
+keyword:
+  - "FEMA, disasters, assistance"
+datatype: "Tabular Data"
+---
+
+```{=html}
+
+<link rel="stylesheet" href="../../project_description_style.css">
+
+<div class="container">
+    <!-- The header is now simpler as Quarto handles the title -->
+    <header class="project-header">
+        <p class="tagline">Project Description</p>
+        <h2>{{< meta project-title >}}</h2>
+        <p class="subtitle">
+            A partnership with <a href="https://nsfepscor.ku.edu/track-1-arise">{{< meta partner >}}</a> to understand and address a key technology challenge.
+        </p>
+    </header>
+
+    <!-- Main Grid Container -->
+    <div class="main-grid">
+    
+        <!-- Project Details & Resources Section -->
+        <div class="top-grid">
+            <!-- Project Details Card (Content is now from YAML) -->
+            <div class="card">
+                <h3 class="card-title">Project Details</h3>
+                <ul class="details-list">
+                    <li>
+                        <i class="bi bi-people-fill icon"></i>
+                        <div>
+                            <strong>Community Partner:</strong>
+                            {{< meta partner >}}
+                        </div>
+                    </li>
+                    <li>
+                       <i class="bi bi-tags-fill icon"></i>
+                        <div>
+                            <strong>Data Categories:</strong>
+                            {{< meta datacategory >}}
+                            <strong>Keywords:</strong>
+                            {{< meta keyword >}} 
+                            <strong>Data Type:</strong>
+                            {{< meta datatype >}} 
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-calendar-event-fill icon"></i>
+                        <div>
+                            <strong>Project Year:</strong>
+                            {{< meta year >}}
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- Project Resources Card (Update links as needed) -->
+            <div class="card">
+                <h3 class="card-title">Project Resources</h3>
+                <div class="resource-buttons">
+                    <a href="../datasets/data_ARISE_Disaster_Response_FEMA.html" class="btn btn-primary">
+                        <i class="bi bi-clipboard-data-fill icon"></i> Explore the Dataset
+                    </a>
+                    <a href="../classplan/class_ARISE_Disaster_Response_FEMA.html" class="btn btn-secondary">
+                       <i class="bi bi-book-half icon"></i> View the Class Plan
+                    </a>
+                    <a href="PD_ARISE_Disaster_Response_FEMA.pdf" class="btn btn-tertiary">
+                        <i class="bi bi-file-earmark-pdf-fill icon"></i> Original Proposal (PDF)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+:::::: card
+## <i class="bi bi-question-circle-fill icon"></i> The Challenge
+
+::: conetent-text
+Depending on the scale of impact, disasters can trigger the flow of Federal Emergency Management Agency (FEMA) Individual Assistance (IA) to help individuals and households recover. There are many different types of IA that support different aspects of recovery, including through financial grants that support immediate needs like food, temporary housing reimbursement and/or vouchers for rental assistance or hotel costs, providing a temporary housing unit to the displaced household, and providing repair or replacement costs for owner-occupied homes. Through the OpenFEMA data portal, FEMA provides individual level data on IA applications and awards. This project aims to investigate and identify odds ratios for receiving different types of IA assistance, or not receiving IA assistance, based on key hazard, geographic, and demographic variables using the OpenFEMA data. The odds ratios will be incorporated into a predictive algorithm for estimating post-disaster recovery resource access for households.
+:::
+
+:::: content-section
+## <i class="bi bi-bar-chart-line-fill icon"></i> Key Findings & Results
+
+::: results-placeholder
+<iframe src width="100%" height="600px" style="border:none;">
+
+</iframe>
+:::
+::::
+::::::
+
