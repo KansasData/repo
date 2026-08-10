@@ -2007,5 +2007,19 @@
     "title": "KDSC",
     "section": "About the Data",
     "text": "About the Data\nFor access to this dataset, please contact KDSC at kansasdata@ku.edu."
+  },
+  {
+    "objectID": "FederalHomeLoanBank.html#the-challenge",
+    "href": "FederalHomeLoanBank.html#the-challenge",
+    "title": "Federal Home Loan Bank",
+    "section": " The Challenge",
+    "text": "The Challenge\n\nThis project seeks to better understand the effect of seasonality on housing prices at various geographic levels like county and metropolitan statistical area."
+  },
+  {
+    "objectID": "FederalHomeLoanBank.html#key-findings-results",
+    "href": "FederalHomeLoanBank.html#key-findings-results",
+    "title": "Federal Home Loan Bank",
+    "section": " Key Findings & Results",
+    "text": "Key Findings & Results"
   }
 ]
