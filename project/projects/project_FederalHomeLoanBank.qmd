@@ -2,7 +2,7 @@
 title: "Federal Home Loan Bank"
 project-title: "Federal Home Loan Bank"
 year: "2023"
-partner: "Hajar Aghababa"
+partner: "Federal Home Loan Bank"
 datacategory:
   - "Business / Finance"
 keyword:
@@ -20,7 +20,7 @@ datatype: "Tabular Data"
         <p class="tagline">Project Description</p>
         <h2>{{< meta project-title >}}</h2>
         <p class="subtitle">
-            A partnership with economist Hajar Aghababa to understand and address a key technology challenge.
+            A partnership with Federal Home Loan Bank to understand and address a key technology challenge.
         </p>
     </header>
 
