@@ -4,7 +4,7 @@ project-title: "Federal Home Loan Bank"
 year: "2023"
 partner: "Hajar Aghababa"
 datacategory:
-  - "Social Science"
+  - "Business / Finance"
 keyword:
   - "housing, finance, banks, loans, seasons"
 datatype: "Tabular Data"
@@ -97,5 +97,3 @@ This project seeks to better understand the effect of seasonality on housing pri
 :::
 ::::
 ::::::
-
-
