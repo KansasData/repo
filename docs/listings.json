@@ -48,7 +48,8 @@
       "/module/module_tutorial/baker_Brockmann_Intro_RStudio.html",
       "/module/module_tutorial/ku_Bodenheimer_Dataset_Merging_KCMO_buildings.html",
       "/module/module_tutorial/ku_Bodenheimer_Fuzzy_Matching.html",
-      "/module/module_tutorial/donnelly_Adongo_Python_OOP_Intro.html"
+      "/module/module_tutorial/donnelly_Adongo_Python_OOP_Intro.html",
+      "/module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html"
     ]
   },
   {
@@ -140,6 +141,7 @@
       "/module/module_workshop/baker_McCarthy_Davis_Tableau2025.html",
       "/module/module_workshop/kstate_shamir_textanalysis.html",
       "/module/module_lecture/johnsoncounty_smith_Time_Series.html",
+      "/module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html",
       "/module/module_workshop/ku_Bodenheimer_Word_Scrape_Workshop.html"
     ]
   },
@@ -218,6 +220,7 @@
       "/module/module_workshop/baker_McCarthy_Davis_Tableau2025.html",
       "/module/module_workshop/kstate_shamir_textanalysis.html",
       "/module/module_lecture/johnsoncounty_smith_Time_Series.html",
+      "/module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html",
       "/module/module_workshop/ku_Bodenheimer_Word_Scrape_Workshop.html"
     ]
   },

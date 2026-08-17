@@ -1,0 +1,23 @@
+---
+title: "Trade Association Semantic Matching Tutorial"
+source: "Tutorial Material"
+author: "Joseph Bodenheimer"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Model Building]
+tech-lang: [Python]
+main-format: "Code, Data"
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification (ISIC) codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement.
+
+## Module Materials
+
+You can access the material [here](https://github.com/KansasData/Module/tree/main/ku_Bodenheimer_isic_semantic_matching)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+---
