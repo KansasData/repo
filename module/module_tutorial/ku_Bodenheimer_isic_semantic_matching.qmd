@@ -12,7 +12,7 @@ toc-title: "On this page"
 
 ## Material Description
 
-This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification (ISIC) codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement.
+This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement.
 
 ## Module Materials
 

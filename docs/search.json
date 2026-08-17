@@ -2160,14 +2160,14 @@
     "href": "module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html",
     "title": "Trade Association Semantic Matching Tutorial",
     "section": "",
-    "text": "This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification (ISIC) codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement."
+    "text": "This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement."
   },
   {
     "objectID": "module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html#material-description",
     "href": "module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html#material-description",
     "title": "Trade Association Semantic Matching Tutorial",
     "section": "",
-    "text": "This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification (ISIC) codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement."
+    "text": "This notebook outlines usage of Sentence Transformers to generate candidate matches between International Standard Industrial Classification codes and trade associations based on the semantic similarity of their names and focus categories. It compares four embedding models using similarity scores, score gaps, and model agreement."
   },
   {
     "objectID": "module/module_tutorial/ku_Bodenheimer_isic_semantic_matching.html#module-materials",
