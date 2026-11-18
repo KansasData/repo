@@ -1,0 +1,241 @@
+================================================================================
+KDSC WEBSITE — REPO GUIDE FOR MAINTAINERS
+================================================================================
+
+This is a Quarto website project. The rendered site lives in the docs/ folder
+and is published from there. You should never edit files in docs/ directly —
+edit the source .qmd files and re-render.
+
+To add content, edit source files and render using RStudio or VS Code with the
+Quarto extension. Rendering a single file only renders that file.
+
+** DO NOT run a full site render ("quarto render" in the terminal). **
+Some pages contain R code that retrieves data from a previous developer's
+local hard drive and will fail. A full render would also overwrite the cached
+output (in docs/) for every page, risking breaking working pages if there is
+any Quarto version issue at the time. Render only the file(s) you are actively
+working on.
+
+--------------------------------------------------------------------------------
+PREREQUISITE SKILLS AND TOOLS
+--------------------------------------------------------------------------------
+You do not need to know HTML or CSS; you can reuse code from existing files.
+You should be familiar with git, GitHub, and either RStudio or VS Code with the
+Quarto extension (ideally both). Basic use of a shell such as bash or zsh is
+also important. Linux users will already know these tools; for git setup on
+Mac or Windows, see the appendices at the end of this file.
+
+RStudio is the main editor for this site. It is very convenient for creating
+Quarto (.qmd) files and rendering them to HTML for the website, and it has
+Quarto built in.
+
+VS Code is optional and has a steeper learning curve. If you already know it,
+it is convenient for working on the repo with help from an AI agent.
+
+Use the version of Quarto that is built into RStudio, because it is more
+stable. A separate system install of Quarto is updated more often, and a
+serious bug in one such update once forced me to go back to the RStudio
+version. For this reason, I recommend using RStudio primarily.
+
+Using RStudio's Quarto in VS Code:
+  The VS Code Quarto extension does not include Quarto, and it does not
+  reliably find the copy inside RStudio. Point it there yourself: open VS Code
+  Settings, search for "quarto.path", and enter the path for your system:
+
+    Linux:    /usr/lib/rstudio/resources/app/bin/quarto/bin/quarto
+    Mac:      /Applications/RStudio.app/Contents/Resources/app/quarto/bin/quarto
+    Windows:  C:\Program Files\RStudio\resources\app\bin\quarto\bin\quarto.exe
+
+  If the file is not there, look for a "quarto" folder inside the RStudio
+  installation folder; RStudio has moved it between versions.
+
+--------------------------------------------------------------------------------
+LIVE SITE — NAVIGATION PAGES
+--------------------------------------------------------------------------------
+These are the pages visible in the site's top navigation bar:
+
+  index.qmd             Home page
+  project.qmd           Community Data Lab (lists all project pages)
+  curriculum.qmd        Curriculum (lists all module pages with filters)
+  404.qmd               Placeholder for pieces not yet built
+
+--------------------------------------------------------------------------------
+LIVE SITE — CONTENT DIRECTORIES
+--------------------------------------------------------------------------------
+These directories contain the individual content pages linked from the nav pages
+above. Add new content by adding files here.
+
+  project/projects/     One .qmd file per Community Data Lab project
+  project/datasets/     One .qmd file per CDL project (linked from project pages)
+  project/classplan/    One .qmd file per CDL project (linked from project pages)
+  module/module_workshop/   Workshop materials
+  module/module_lecture/    Lecture slides and materials
+  module/module_tutorial/   Tutorial content
+
+--------------------------------------------------------------------------------
+WORK IN PROGRESS — NOT YET LIVE
+--------------------------------------------------------------------------------
+These exist in the repo but are not reachable from the site navigation.
+** Edit this section as new in-progress content is added or goes live. **
+
+  project/classplan/    Class plan pages — in development, not yet linked
+                        from project pages
+
+--------------------------------------------------------------------------------
+UNUSED / PRIOR-VERSION FILES — KEPT FOR REFERENCE
+--------------------------------------------------------------------------------
+These files are excluded from rendering via .quartoignore (see that file for
+details and the reason each was excluded). Do NOT edit these if you are trying
+to change something on the live website — they have no effect on what visitors
+see.
+
+  datalog.qmd           Draft data log page (incomplete, not linked)
+  module.qmd            Old module listing — replaced by curriculum.qmd
+  competency.qmd        Old competency listing — replaced by curriculum.qmd
+  competency/           Old competency detail pages — replaced by flip cards
+                        in curriculum.qmd
+  dataset.qmd           Old dataset listing — datasets now accessed via
+                        project pages
+  course.qmd            Course listing page — course content not part of site
+  course/               Course content files — not part of current site
+
+--------------------------------------------------------------------------------
+KEY CONFIGURATION AND SUPPORT FILES
+--------------------------------------------------------------------------------
+  _quarto.yml           Site-wide settings: navigation, theme, layout
+  .quartoignore         Files excluded from rendering (with explanatory comments)
+  styles.css            Global CSS overrides
+  curriculum_style.css  CSS specific to the Curriculum page
+  curriculum_style.ejs  Template for curriculum module listing cards
+  datalog_style.css     CSS for the (unused) datalog page
+
+================================================================================
+
+================================================================================
+APPENDIX FOR MAC
+================================================================================
+These steps set up a Mac. The default Mac shell is zsh; all git commands in
+this guide work the same in zsh and bash.
+
+--------------------------------------------------------------------------------
+1. INSTALL GIT (COMMAND LINE TOOLS)
+--------------------------------------------------------------------------------
+A new Mac does not have a working git. Open Terminal and run:
+
+  xcode-select --install
+
+A dialog appears; click Install. This installs Apple's Command Line Tools,
+which include git. You do NOT need the full Xcode app.
+
+Check that it worked:
+
+  git --version
+
+RStudio and VS Code find this git automatically; no extra setup is needed.
+
+--------------------------------------------------------------------------------
+2. SET YOUR GIT IDENTITY (ONE TIME)
+--------------------------------------------------------------------------------
+  git config --global user.name "Your Name"
+  git config --global user.email "your@email"
+
+--------------------------------------------------------------------------------
+3. SET UP GITHUB SIGN-IN AND CLONE THE REPO
+--------------------------------------------------------------------------------
+GitHub does not accept your account password for git. Choose ONE option:
+
+  Option A: SSH key (no extra software)
+
+    ssh-keygen -t ed25519 -C "your@email"
+        (press Enter to accept the default file location; a passphrase is
+        optional)
+    cat ~/.ssh/id_ed25519.pub
+        Copy the output. On GitHub, go to Settings > SSH and GPG keys >
+        New SSH key, and paste it in.
+    git clone git@github.com:KansasData/repo.git
+
+  Option B: GitHub CLI (browser sign-in; needs Homebrew)
+
+    Install Homebrew by following the instructions at https://brew.sh
+    (at the end, run the "Next steps" commands the installer prints). Then:
+
+    brew install gh
+    gh auth login
+        Choose GitHub.com, HTTPS, and "Login with a web browser". When asked
+        whether to authenticate git with your GitHub credentials, say yes.
+    git clone https://github.com/KansasData/repo.git
+
+--------------------------------------------------------------------------------
+4. CONFIGURE VS CODE (IF USING IT)
+--------------------------------------------------------------------------------
+  - Install the Quarto extension (Extensions panel, search "Quarto").
+  - Set "quarto.path" to RStudio's Quarto (see PREREQUISITE SKILLS AND TOOLS
+    near the top of this file).
+
+================================================================================
+APPENDIX FOR WINDOWS
+================================================================================
+The previous maintainer worked on Linux and Mac. These steps set up a Windows
+machine so the rest of this guide (and terminal git commands) work the same way.
+
+--------------------------------------------------------------------------------
+1. INSTALL GIT FOR WINDOWS
+--------------------------------------------------------------------------------
+Neither RStudio nor VS Code includes git. Their git panels only call a git
+program that is already installed. (RStudio does include Quarto, but not git.)
+
+Download and install Git for Windows: https://git-scm.com/download/win
+
+The installer's default choices are fine. In particular, keep the line-ending
+default "Checkout Windows-style, commit Unix-style line endings". This keeps
+files in the repo with Unix (LF) line endings, which is how they are stored now.
+
+Git for Windows installs:
+  git.exe                  Used by RStudio and VS Code
+  Git Bash                 A bash terminal with the usual Unix tools (ls, grep,
+                           sed, ssh, ...), so Linux/Mac terminal commands work
+                           as written
+  Git Credential Manager   Handles GitHub sign-in through your web browser
+
+Install git BEFORE opening RStudio, or restart RStudio after installing it.
+
+--------------------------------------------------------------------------------
+2. SET YOUR GIT IDENTITY (ONE TIME)
+--------------------------------------------------------------------------------
+Open Git Bash and run:
+
+  git config --global user.name "Your Name"
+  git config --global user.email "your@email"
+
+--------------------------------------------------------------------------------
+3. CLONE THE REPO
+--------------------------------------------------------------------------------
+The easiest option on Windows is the HTTPS address, which signs in through
+Git Credential Manager (a browser window opens the first time):
+
+  git clone https://github.com/KansasData/repo.git
+
+(The SSH address, git@github.com:KansasData/repo.git, also works if you set up
+an SSH key with ssh-keygen in Git Bash and add it to your GitHub account.)
+
+--------------------------------------------------------------------------------
+4. CONFIGURE RSTUDIO
+--------------------------------------------------------------------------------
+  - Tools > Global Options > Git/SVN
+      Check that "Git executable" points to something like
+      C:\Program Files\Git\bin\git.exe
+      If the Git tab does not appear in RStudio, this setting is the fix.
+
+  - Tools > Global Options > Terminal
+      Set "New terminals open with" to Git Bash.
+
+--------------------------------------------------------------------------------
+5. CONFIGURE VS CODE
+--------------------------------------------------------------------------------
+  - In the terminal panel, click the dropdown arrow next to the "+" button,
+    choose "Select Default Profile", then choose Git Bash.
+  - Install the Quarto extension (Extensions panel, search "Quarto").
+  - Set "quarto.path" to RStudio's Quarto (see PREREQUISITE SKILLS AND TOOLS
+    near the top of this file).
+
+================================================================================
