@@ -16,6 +16,19 @@ output (in docs/) for every page, risking breaking working pages if there is
 any Quarto version issue at the time. Render only the file(s) you are actively
 working on.
 
+How to render only the file you are working on:
+  RStudio:   With the .qmd file open, click the Render button above it.
+  VS Code:   With the .qmd file open, click the Preview button at the top
+             right of the editor, or press Ctrl+Shift+K (Cmd+Shift+K on Mac).
+             The page opens in a preview panel inside VS Code.
+             NEVER use "Quarto: Render Project" from the Command Palette; it
+             renders the whole site.
+  Terminal:  quarto render path/to/file.qmd
+             Always name the file. "quarto render" with no file name renders
+             the whole site. (In the VS Code terminal, the quarto command uses
+             the same Quarto as the extension; see "Using RStudio's Quarto in
+             VS Code" below.)
+
 --------------------------------------------------------------------------------
 PREREQUISITE SKILLS AND TOOLS
 --------------------------------------------------------------------------------
