@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>KDSC | Curriculum – KDSC</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -34,14 +40,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-88c77154f9e4ba31b898a632c89cdd97.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-594f2c91de3d5c2d3faaa9ec6c9fe16e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,10 +84,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-source','listing-author','listing-institution','listing-competency','listing-tech-lang','listing-main-format','listing-toc','listing-toc-title','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-title','listing-source','listing-author','listing-institution','listing-competency','listing-tech-lang','listing-main-format','listing-toc','listing-toc-title','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       page: 25,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-project","listing-execute","listing-website","listing-format","listing-editor","listing-language","listing-title","listing-source","listing-author","listing-institution","listing-competency","listing-tech-lang","listing-main-format","listing-toc","listing-toc-title","listing-path","listing-outputHref","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-subtitle"],
+      searchColumns: ["listing-project","listing-execute","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-title","listing-source","listing-author","listing-institution","listing-competency","listing-tech-lang","listing-main-format","listing-toc","listing-toc-title","listing-path","listing-outputHref","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-subtitle"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -101,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -913,6 +918,25 @@ Create, train, and refine predictive models to forecast future trends and make d
         <div><strong>Institution:</strong> Baker University</div>
         <div><strong>Main Format:</strong> PPT Slide, Data, Code, MSWord</div>
         <div><strong>Tech/Language:</strong> R</div>
+      </div>
+
+    </a>
+  
+    <a href="./module/module_workshop/ku_Schamberger_Intro_SQL.html" class="item-card" data-competency="Data Wrangling,Programming Skills,Data Engineering" data-source="Workshop Material" data-lang="SQL">
+
+      <div class="card-header">
+        <h4 class="item-title">
+          Introduction to SQL Workshop
+        </h4>
+      </div>
+
+      <div class="item-details">
+        <div><strong>Competency:</strong> Data Wrangling,Programming Skills,Data Engineering</div>
+        <div><strong>Author:</strong> Lucas Schamberger, Paul Scheetz, Nathan Kuhn</div>
+        <div><strong>Source:</strong> Workshop Material</div>
+        <div><strong>Institution:</strong> University of Kansas</div>
+        <div><strong>Main Format:</strong> PPT Slides,Recording</div>
+        <div><strong>Tech/Language:</strong> SQL</div>
       </div>
 
     </a>

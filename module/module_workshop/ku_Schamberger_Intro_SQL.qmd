@@ -1,0 +1,26 @@
+---
+title: "Introduction to SQL Workshop"
+source: "Workshop Material"
+author: "Lucas Schamberger, Paul Scheetz, Nathan Kuhn"
+institution: "University of Kansas"
+competency: [Data Wrangling, Programming Skills, Data Engineering]
+tech-lang: [SQL]
+main-format: [PPT Slides, Recording]
+toc: true
+toc-title: "On this page"
+---
+
+## Material Description
+
+This workshop covers the basics of database querying, beginning with the anatomy of a query and building to guided hands-on practice. The workshop also features two demos of applied SQL in industry settings including Etsy and KU CPPR.
+
+## Module Materials
+
+```{=html}
+<iframe id="kmsembed-1_bg3w7n1f" width="400" height="285" src="https://mediahub.ku.edu/embed/secure/iframe/entryId/1_bg3w7n1f/uiConfId/54254972/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introduction to SQL Workshop"></iframe>
+```
+
+You can access the slides [here](https://github.com/KansasData/Module/tree/main/ku_Schamberger_Intro_SQL_Workshop)
+
+This Material is under the [CC BY license](https://creativecommons.org/licenses/by/4.0/deed.en)
+
